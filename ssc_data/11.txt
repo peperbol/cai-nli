@@ -1,0 +1,401 @@
+0	   	SPACE	1		_
+1	Some	DET	2	det	_
+2	people	NOUN	3	nsubj	_
+3	think	VERB	3	ROOT	_
+4	that	SCONJ	7	mark	_
+5	 	SPACE	4		_
+6	it	PRON	7	nsubj	_
+7	is	AUX	3	ccomp	_
+8	the	DET	10	det	_
+9	best	ADJ	10	amod	_
+10	way	NOUN	7	attr	_
+11	to	PART	12	aux	_
+12	travel	VERB	10	relcl	_
+13	in	ADP	12	prep	_
+14	a	DET	15	det	_
+15	group	NOUN	13	pobj	_
+16	led	VERB	15	acl	_
+17	by	ADP	16	agent	_
+18	a	DET	20	det	_
+19	tour	NOUN	20	compound	_
+20	guide	NOUN	17	pobj	_
+21	,	PUNCT	7	punct	_
+22	because	SCONJ	25	mark	_
+23	they	PRON	25	nsubj	_
+24	can	VERB	25	aux	_
+25	get	AUX	7	advcl	_
+26	more	ADJ	27	amod	_
+27	imformation	NOUN	25	dobj	_
+28	from	ADP	25	prep	_
+29	a	DET	31	det	_
+30	tour	NOUN	31	compound	_
+31	guide	NOUN	28	pobj	_
+32	and	CCONJ	25	cc	_
+33	also	ADV	36	advmod	_
+34	they	PRON	36	nsubj	_
+35	can	VERB	36	aux	_
+36	make	VERB	25	conj	_
+37	some	DET	38	det	_
+38	friend	NOUN	36	dobj	_
+39	through	ADP	36	prep	_
+40	the	DET	41	det	_
+41	tour	NOUN	39	pobj	_
+42	.	PUNCT	3	punct	_
+
+
+0	However	ADV	4	advmod	_
+1	I	PRON	4	nsubj	_
+2	do	AUX	4	aux	_
+3	not	PART	4	neg	_
+4	agree	VERB	4	ROOT	_
+5	with	ADP	4	prep	_
+6	this	DET	7	det	_
+7	idea	NOUN	5	pobj	_
+8	for	ADP	7	prep	_
+9	these	DET	10	det	_
+10	reasons	NOUN	8	pobj	_
+11	.	PUNCT	4	punct	_
+12	
+   	SPACE	11		_
+
+
+0	First	ADV	5	advmod	_
+1	of	ADP	0	prep	_
+2	all	DET	1	pobj	_
+3	,	PUNCT	5	punct	_
+4	I	PRON	5	nsubj	_
+5	like	VERB	5	ROOT	_
+6	to	PART	7	aux	_
+7	prepar	VERB	5	xcomp	_
+8	the	DET	9	det	_
+9	travel	NOUN	7	dobj	_
+10	schedual	ADJ	7	oprd	_
+11	by	ADP	7	prep	_
+12	my	DET	13	poss	_
+13	selfe	NOUN	11	pobj	_
+14	before	ADP	7	prep	_
+15	the	DET	16	det	_
+16	trip	NOUN	14	pobj	_
+17	such	ADJ	18	amod	_
+18	as	SCONJ	21	mark	_
+19	I	PRON	21	nsubj	_
+20	would	VERB	21	aux	_
+21	like	VERB	7	advcl	_
+22	to	PART	23	aux	_
+23	go	VERB	21	xcomp	_
+24	this	DET	25	det	_
+25	restaurant	NOUN	23	dobj	_
+26	,	PUNCT	23	punct	_
+27	visit	VERB	23	conj	_
+28	this	DET	29	det	_
+29	museam	NOUN	27	dobj	_
+30	,	PUNCT	27	punct	_
+31	buy	VERB	27	conj	_
+32	this	DET	33	det	_
+33	shop	NOUN	31	dobj	_
+34	,	PUNCT	31	punct	_
+35	and	CCONJ	31	cc	_
+36	so	ADV	37	advmod	_
+37	on	ADV	31	conj	_
+38	.	PUNCT	5	punct	_
+
+
+0	Without	ADP	6	prep	_
+1	a	DET	3	det	_
+2	tour	NOUN	3	compound	_
+3	guide	NOUN	0	pobj	_
+4	I	PRON	6	nsubj	_
+5	can	VERB	6	aux	_
+6	get	AUX	6	ROOT	_
+7	a	DET	8	det	_
+8	lot	NOUN	6	dobj	_
+9	of	ADP	8	prep	_
+10	imfomation	NOUN	9	pobj	_
+11	from	ADP	10	prep	_
+12	Internet	NOUN	13	compound	_
+13	befor	NOUN	11	pobj	_
+
+
+0	I	PRON	1	nsubj	_
+1	go	VERB	1	ROOT	_
+2	to	ADP	1	prep	_
+3	a	DET	4	det	_
+4	trip	NOUN	2	pobj	_
+5	.	PUNCT	1	punct	_
+6	
+  	SPACE	5		_
+
+
+0	Second	ADJ	8	advmod	_
+1	 	SPACE	0		_
+2	of	ADP	0	prep	_
+3	all	DET	2	pobj	_
+4	,	PUNCT	8	punct	_
+5	 	SPACE	4		_
+6	I	PRON	8	nsubj	_
+7	can	VERB	8	aux	_
+8	decide	VERB	8	ROOT	_
+9	how	ADV	10	advmod	_
+10	many	ADJ	11	amod	_
+11	time	NOUN	14	dobj	_
+12	I	PRON	14	nsubj	_
+13	should	VERB	14	aux	_
+14	spend	VERB	8	ccomp	_
+15	in	ADP	14	prep	_
+16	the	DET	17	det	_
+17	place	NOUN	15	pobj	_
+18	.	PUNCT	8	punct	_
+
+
+0	If	SCONJ	2	mark	_
+1	I	PRON	2	nsubj	_
+2	find	VERB	12	advcl	_
+3	the	DET	7	det	_
+4	really	ADV	5	advmod	_
+5	really	ADV	6	advmod	_
+6	good	ADJ	7	amod	_
+7	place	NOUN	2	dobj	_
+8	,	PUNCT	12	punct	_
+9	I	PRON	12	nsubj	_
+10	 	SPACE	9		_
+11	will	VERB	12	aux	_
+12	decide	VERB	12	ROOT	_
+13	to	PART	14	aux	_
+14	spend	VERB	12	xcomp	_
+15	a	DET	16	det	_
+16	lot	NOUN	14	dobj	_
+17	of	ADP	16	prep	_
+18	time	NOUN	17	pobj	_
+19	to	PART	20	aux	_
+20	be	AUX	14	xcomp	_
+21	there	ADV	20	advmod	_
+22	.	PUNCT	12	punct	_
+
+
+0	On	ADP	37	prep	_
+1	the	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	hand	NOUN	0	pobj	_
+4	,	PUNCT	37	punct	_
+5	If	SCONJ	7	mark	_
+6	I	PRON	7	nsubj	_
+7	go	VERB	37	advcl	_
+8	to	ADP	7	prep	_
+9	a	DET	10	det	_
+10	trip	NOUN	8	pobj	_
+11	in	ADP	10	prep	_
+12	a	DET	13	det	_
+13	group	NOUN	11	pobj	_
+14	led	VERB	13	acl	_
+15	by	ADP	14	agent	_
+16	a	DET	18	det	_
+17	tour	NOUN	18	compound	_
+18	guide	NOUN	15	pobj	_
+19	,	PUNCT	7	punct	_
+20	because	SCONJ	24	mark	_
+21	it	PRON	24	nsubj	_
+22	has	AUX	24	aux	_
+23	already	ADV	24	advmod	_
+24	dicided	VERB	7	advcl	_
+25	how	ADV	26	advmod	_
+26	many	ADJ	27	amod	_
+27	time	NOUN	29	npadvmod	_
+28	I	PRON	29	nsubj	_
+29	spend	VERB	24	ccomp	_
+30	where	ADV	32	advmod	_
+31	I	PRON	32	nsubj	_
+32	go	VERB	29	ccomp	_
+33	,	PUNCT	7	punct	_
+34	so	ADV	7	cc	_
+35	I	PRON	36	compound	_
+36	shoud	ADV	37	nsubj	_
+37	leave	VERB	37	ROOT	_
+38	the	DET	39	det	_
+39	place	NOUN	37	dobj	_
+40	within	ADP	37	prep	_
+41	the	DET	42	det	_
+42	time	NOUN	40	pobj	_
+43	.	PUNCT	37	punct	_
+
+
+0	I	PRON	3	nsubj	_
+1	can	VERB	3	aux	_
+2	not	PART	3	neg	_
+3	stand	VERB	3	ROOT	_
+4	!	PUNCT	3	punct	_
+5	!	PUNCT	3	punct	_
+
+
+0	I	PRON	2	nsubj	_
+1	would	VERB	2	aux	_
+2	like	VERB	2	ROOT	_
+3	to	PART	4	aux	_
+4	enjoy	VERB	2	xcomp	_
+5	my	DET	6	poss	_
+6	trip!So	NUM	4	dobj	_
+
+
+0	I	PRON	2	nsubj	_
+1	really	ADV	2	advmod	_
+2	think	VERB	2	ROOT	_
+3	 	SPACE	2		_
+4	people	NOUN	2	dobj	_
+5	who	PRON	6	nsubj	_
+6	want	VERB	4	relcl	_
+7	to	PART	8	aux	_
+8	spend	VERB	6	xcomp	_
+9	great	ADJ	10	amod	_
+10	time	NOUN	8	dobj	_
+11	in	ADP	8	prep	_
+12	the	DET	13	det	_
+13	trip	NOUN	11	pobj	_
+14	,	PUNCT	17	punct	_
+15	they	PRON	17	nsubj	_
+16	should	VERB	17	aux	_
+17	go	VERB	2	ccomp	_
+18	a	DET	19	det	_
+19	trip	NOUN	17	dobj	_
+20	which	DET	23	nsubj	_
+21	they	PRON	22	nsubj	_
+22	made	VERB	19	relcl	_
+23	schedual	ADJ	22	ccomp	_
+24	themselves	PRON	22	dobj	_
+25	.	PUNCT	2	punct	_
+26	
+   	SPACE	25		_
+
+
+0	Third	ADJ	5	advmod	_
+1	of	ADP	0	prep	_
+2	all	DET	1	pobj	_
+3	,	PUNCT	5	punct	_
+4	it	PRON	5	nsubj	_
+5	is	AUX	5	ROOT	_
+6	my	DET	8	poss	_
+7	challenging	ADJ	8	amod	_
+8	time	NOUN	5	attr	_
+9	to	PART	10	aux	_
+10	speak	VERB	5	xcomp	_
+11	local	ADJ	12	amod	_
+12	people	NOUN	10	dobj	_
+13	where	ADV	15	advmod	_
+14	I	PRON	15	nsubj	_
+15	go	VERB	12	relcl	_
+16	to	ADP	15	prep	_
+17	the	DET	19	det	_
+18	first	ADJ	19	amod	_
+19	place	NOUN	16	pobj	_
+20	.	PUNCT	5	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	like	VERB	1	ROOT	_
+2	to	PART	3	aux	_
+3	comunicate	VERB	1	xcomp	_
+4	with	ADP	3	prep	_
+5	foreing	VERB	4	pcomp	_
+6	country	NOUN	7	compound	_
+7	people	NOUN	5	dobj	_
+8	.	PUNCT	1	punct	_
+9	
+	SPACE	8		_
+
+
+0	If	SCONJ	2	mark	_
+1	I	PRON	2	nsubj	_
+2	go	VERB	27	advcl	_
+3	to	ADP	2	prep	_
+4	 	SPACE	3		_
+5	a	DET	6	det	_
+6	country	NOUN	3	pobj	_
+7	which	DET	8	nsubj	_
+8	is	AUX	9	auxpass	_
+9	spoken	VERB	6	relcl	_
+10	English	PROPN	9	oprd	_
+11	such	ADJ	12	amod	_
+12	as	SCONJ	10	prep	_
+13	the	DET	15	det	_
+14	United	PROPN	15	compound	_
+15	state	NOUN	12	pobj	_
+16	,	PUNCT	15	punct	_
+17	Canada	PROPN	15	conj	_
+18	,	PUNCT	17	punct	_
+19	the	DET	20	det	_
+20	UK	PROPN	17	conj	_
+21	and	CCONJ	20	cc	_
+22	so	ADV	23	advmod	_
+23	on	ADV	20	conj	_
+24	,	PUNCT	27	punct	_
+25	I	PRON	27	nsubj	_
+26	can	VERB	27	aux	_
+27	develop	VERB	27	ROOT	_
+28	my	DET	29	poss	_
+29	English	PROPN	27	dobj	_
+30	through	ADP	27	prep	_
+31	the	DET	32	det	_
+32	experiment	NOUN	30	pobj	_
+33	.	PUNCT	27	punct	_
+
+
+0	On	ADP	0	ROOT	_
+1	the	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	hands	NOUN	0	pobj	_
+4	,	PUNCT	0	punct	_
+5	If	SCONJ	7	mark	_
+6	I	PRON	7	nsubj	_
+7	go	VERB	4	intj	_
+8	to	ADP	7	prep	_
+9	a	DET	10	det	_
+10	travel	NOUN	8	pobj	_
+11	with	ADP	10	prep	_
+12	a	DET	14	det	_
+13	tour	NOUN	14	compound	_
+14	guide	NOUN	11	pobj	_
+15	
+	SPACE	14		_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	I	PRON	4	nsubj	_
+3	will	VERB	4	aux	_
+4	depend	VERB	1	ccomp	_
+5	on	ADP	4	prep	_
+6	him	PRON	5	pobj	_
+7	because	SCONJ	10	mark	_
+8	he	PRON	10	nsubj	_
+9	always	ADV	10	advmod	_
+10	appear	VERB	4	advcl	_
+11	beside	ADP	10	prep	_
+12	myself	PRON	11	pobj	_
+13	!	PUNCT	1	punct	_
+14	
+   	SPACE	13		_
+
+
+0	For	ADP	7	prep	_
+1	these	DET	2	det	_
+2	reasons	NOUN	0	pobj	_
+3	,	PUNCT	7	punct	_
+4	I	PRON	7	nsubj	_
+5	can	VERB	7	aux	_
+6	not	PART	7	neg	_
+7	agree	VERB	7	ROOT	_
+8	with	ADP	7	prep	_
+9	the	DET	10	det	_
+10	statement	NOUN	8	pobj	_
+11	,	PUNCT	10	punct	_
+12	the	DET	14	det	_
+13	best	ADJ	14	amod	_
+14	way	NOUN	17	nsubj	_
+15	to	PART	16	aux	_
+16	travel	VERB	14	relcl	_
+17	is	AUX	7	ccomp	_
+18	in	ADP	17	prep	_
+19	a	DET	20	det	_
+20	group	NOUN	18	pobj	_
+21	
+	SPACE	20		_
+
+

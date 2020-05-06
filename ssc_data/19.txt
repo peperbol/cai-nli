@@ -1,0 +1,396 @@
+0	The	DET	1	det	_
+1	purpose	NOUN	4	nsubj	_
+2	of	ADP	1	prep	_
+3	advertisements	NOUN	2	pobj	_
+4	is	AUX	4	ROOT	_
+5	to	PART	6	aux	_
+6	convince	VERB	4	xcomp	_
+7	people	NOUN	6	dobj	_
+8	to	PART	9	aux	_
+9	buy	VERB	6	xcomp	_
+10	a	DET	12	det	_
+11	specific	ADJ	12	amod	_
+12	product	NOUN	9	dobj	_
+13	.	PUNCT	4	punct	_
+
+
+0	The	DET	2	det	_
+1	business	NOUN	2	compound	_
+2	world	NOUN	4	nsubj	_
+3	especially	ADV	4	advmod	_
+4	marketers	VERB	5	nsubj	_
+5	thinks	VERB	5	ROOT	_
+6	that	SCONJ	11	mark	_
+7	it	PRON	11	nsubj	_
+8	does	AUX	11	aux	_
+9	not	PART	11	neg	_
+10	really	ADV	11	advmod	_
+11	necessary	ADJ	5	ccomp	_
+12	to	PART	13	aux	_
+13	tell	VERB	11	xcomp	_
+14	the	DET	15	det	_
+15	truth	NOUN	13	dobj	_
+16	,	PUNCT	5	punct	_
+17	if	SCONJ	20	mark	_
+18	you	PRON	20	nsubj	_
+19	could	VERB	20	aux	_
+20	sell	VERB	5	advcl	_
+21	something	PRON	20	dobj	_
+22	.	PUNCT	5	punct	_
+23	
+	SPACE	22		_
+
+
+0	First	ADV	5	advmod	_
+1	of	ADP	0	prep	_
+2	all	DET	1	pobj	_
+3	,	PUNCT	5	punct	_
+4	advertisements	NOUN	5	nsubj	_
+5	are	AUX	5	ROOT	_
+6	one	NUM	5	attr	_
+7	of	ADP	6	prep	_
+8	the	DET	11	det	_
+9	most	ADV	10	advmod	_
+10	important	ADJ	11	amod	_
+11	tools	NOUN	7	pobj	_
+12	of	ADP	11	prep	_
+13	marketing	NOUN	12	pobj	_
+14	.	PUNCT	5	punct	_
+
+
+0	Their	DET	6	expl	_
+1	first	ADJ	6	acomp	_
+2	and	CCONJ	1	cc	_
+3	for	ADP	1	conj	_
+4	most	ADJ	5	amod	_
+5	purpose	NOUN	3	pobj	_
+6	is	AUX	6	ROOT	_
+7	to	PART	8	aux	_
+8	attract	VERB	6	xcomp	_
+9	people	NOUN	8	dobj	_
+10	and	CCONJ	8	cc	_
+11	persuade	VERB	8	conj	_
+12	them	PRON	11	dobj	_
+13	to	PART	14	aux	_
+14	buy	VERB	11	xcomp	_
+15	.	PUNCT	6	punct	_
+
+
+0	The	DET	1	det	_
+1	goal	NOUN	4	nsubj	_
+2	of	ADP	1	prep	_
+3	advertisements	NOUN	2	pobj	_
+4	is	AUX	4	ROOT	_
+5	not	PART	4	neg	_
+6	to	PART	7	aux	_
+7	tell	VERB	4	xcomp	_
+8	the	DET	9	det	_
+9	truth	NOUN	7	dobj	_
+10	.	PUNCT	4	punct	_
+
+
+0	They	PRON	2	nsubj	_
+1	can	VERB	2	aux	_
+2	tell	VERB	2	ROOT	_
+3	to	ADP	2	prep	_
+4	truth	NOUN	3	pobj	_
+5	but	CCONJ	2	cc	_
+6	it	PRON	9	nsubj	_
+7	does	AUX	9	aux	_
+8	not	PART	9	neg	_
+9	mean	VERB	2	conj	_
+10	that	SCONJ	13	mark	_
+11	 	SPACE	10		_
+12	it	PRON	13	nsubj	_
+13	is	AUX	9	ccomp	_
+14	not	PART	13	neg	_
+15	just	ADV	17	advmod	_
+16	a	DET	17	det	_
+17	way	NOUN	13	attr	_
+18	of	ADP	17	prep	_
+19	marketing	NOUN	18	pobj	_
+20	.	PUNCT	9	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	still	ADV	1	advmod	_
+3	 	SPACE	2		_
+4	tring	VERB	1	attr	_
+5	to	PART	6	aux	_
+6	convince	VERB	4	xcomp	_
+7	people	NOUN	6	dobj	_
+8	to	PART	9	aux	_
+9	prefer	VERB	6	xcomp	_
+10	particular	ADJ	11	amod	_
+11	thing	NOUN	9	dobj	_
+12	to	ADP	9	dative	_
+13	others	NOUN	12	pobj	_
+14	.	PUNCT	1	punct	_
+15	
+	SPACE	14		_
+
+
+0	People	NOUN	2	nsubj	_
+1	usually	ADV	2	advmod	_
+2	buy	VERB	2	ROOT	_
+3	things	NOUN	2	dobj	_
+4	which	DET	6	dobj	_
+5	they	PRON	6	nsubj	_
+6	saw	VERB	3	relcl	_
+7	 	SPACE	6		_
+8	on	ADP	6	prep	_
+9	advertisements	NOUN	8	pobj	_
+10	,	PUNCT	2	punct	_
+11	and	CCONJ	2	cc	_
+12	usually	ADV	15	advmod	_
+13	they	PRON	15	nsubjpass	_
+14	get	VERB	15	auxpass	_
+15	disappointed	ADJ	2	conj	_
+16	with	ADP	15	prep	_
+17	the	DET	18	det	_
+18	result	NOUN	16	pobj	_
+19	.	PUNCT	15	punct	_
+
+
+0	Even	ADV	3	advmod	_
+1	though	SCONJ	3	mark	_
+2	people	NOUN	3	nsubj	_
+3	think	VERB	14	advcl	_
+4	that	SCONJ	7	mark	_
+5	they	PRON	7	nsubj	_
+6	are	AUX	7	aux	_
+7	buying	VERB	3	ccomp	_
+8	the	DET	10	det	_
+9	same	ADJ	10	amod	_
+10	thing	NOUN	7	dobj	_
+11	,	PUNCT	14	punct	_
+12	the	DET	13	det	_
+13	reality	NOUN	14	nsubj	_
+14	is	AUX	14	ROOT	_
+15	that	SCONJ	20	mark	_
+16	the	DET	17	det	_
+17	product	NOUN	20	nsubjpass	_
+18	is	AUX	20	auxpass	_
+19	always	ADV	20	advmod	_
+20	exegirated	VERB	14	ccomp	_
+21	in	ADP	20	prep	_
+22	advertisements	NOUN	21	pobj	_
+23	and	CCONJ	20	cc	_
+24	it	PRON	26	nsubj	_
+25	will	VERB	26	aux	_
+26	be	AUX	20	conj	_
+27	worse	ADJ	26	acomp	_
+28	than	SCONJ	30	mark	_
+29	people	NOUN	30	nsubj	_
+30	thought	VERB	27	advcl	_
+31	.	PUNCT	14	punct	_
+
+
+0	The	DET	2	det	_
+1	basic	ADJ	2	amod	_
+2	example	NOUN	6	nsubj	_
+3	for	ADP	2	prep	_
+4	this	DET	3	pobj	_
+5	will	VERB	6	aux	_
+6	be	AUX	6	ROOT	_
+7	hamburgers	NOUN	6	attr	_
+8	.	PUNCT	6	punct	_
+
+
+0	When	ADV	2	advmod	_
+1	I	PRON	2	nsubj	_
+2	go	VERB	10	advcl	_
+3	to	ADP	2	prep	_
+4	a	DET	7	det	_
+5	fast	ADJ	6	amod	_
+6	food	NOUN	7	compound	_
+7	restaurant	NOUN	3	pobj	_
+8	,	PUNCT	10	punct	_
+9	I	PRON	10	nsubj	_
+10	saw	VERB	10	ROOT	_
+11	lots	NOUN	10	dobj	_
+12	of	ADP	11	prep	_
+13	pictures	NOUN	12	pobj	_
+14	of	ADP	13	prep	_
+15	hamburgers	NOUN	14	pobj	_
+16	,	PUNCT	10	punct	_
+17	and	CCONJ	10	cc	_
+18	they	PRON	19	nsubj	_
+19	look	VERB	10	conj	_
+20	really	ADV	21	advmod	_
+21	big	ADJ	19	acomp	_
+22	.	PUNCT	19	punct	_
+
+
+0	When	ADV	2	advmod	_
+1	I	PRON	2	nsubj	_
+2	buy	VERB	7	advcl	_
+3	one	NUM	2	dobj	_
+4	,	PUNCT	7	punct	_
+5	I	PRON	7	nsubj	_
+6	always	ADV	7	advmod	_
+7	find	VERB	7	ROOT	_
+8	it	PRON	10	nsubj	_
+9	to	ADP	10	aux	_
+10	small	ADJ	7	ccomp	_
+11	to	PART	12	aux	_
+12	saticify	VERB	10	advcl	_
+13	,	PUNCT	7	punct	_
+14	because	SCONJ	17	mark	_
+15	the	DET	16	det	_
+16	pictures	NOUN	17	nsubj	_
+17	convince	VERB	7	advcl	_
+18	me	PRON	17	dobj	_
+19	that	SCONJ	22	mark	_
+20	they	PRON	22	nsubj	_
+21	will	VERB	22	aux	_
+22	be	AUX	17	ccomp	_
+23	really	ADV	24	advmod	_
+24	big	ADJ	22	acomp	_
+25	.	PUNCT	7	punct	_
+26	
+	SPACE	25		_
+
+
+0	However	ADV	13	advmod	_
+1	,	PUNCT	13	punct	_
+2	one	NUM	13	nsubj	_
+3	of	ADP	2	prep	_
+4	the	DET	6	det	_
+5	easiest	ADJ	6	amod	_
+6	way	NOUN	3	pobj	_
+7	of	ADP	6	prep	_
+8	getting	VERB	7	pcomp	_
+9	information	NOUN	8	dobj	_
+10	about	ADP	9	prep	_
+11	a	DET	12	det	_
+12	product	NOUN	10	pobj	_
+13	is	AUX	13	ROOT	_
+14	advertisements	NOUN	13	attr	_
+15	.	PUNCT	13	punct	_
+
+
+0	Before	ADP	0	ROOT	_
+1	buying	VERB	0	pcomp	_
+2	something	PRON	1	dobj	_
+3	people	NOUN	4	nsubj	_
+4	want	VERB	2	relcl	_
+5	to	PART	6	aux	_
+6	learn	VERB	4	xcomp	_
+7	more	ADJ	6	dobj	_
+8	about	ADP	7	prep	_
+9	it	PRON	8	pobj	_
+10	.	PUNCT	0	punct	_
+
+
+0	They	PRON	3	nsubj	_
+1	do	AUX	3	aux	_
+2	not	PART	3	neg	_
+3	want	VERB	3	ROOT	_
+4	to	PART	5	aux	_
+5	buy	VERB	3	xcomp	_
+6	which	DET	11	dobj	_
+7	they	PRON	11	nsubj	_
+8	really	ADV	11	advmod	_
+9	do	AUX	11	aux	_
+10	not	PART	11	neg	_
+11	need	VERB	5	ccomp	_
+12	.	PUNCT	3	punct	_
+13	 	SPACE	12		_
+
+
+0	People	NOUN	1	nsubj	_
+1	see	VERB	1	ROOT	_
+2	advertisements	NOUN	1	dobj	_
+3	in	ADP	4	advmod	_
+4	everywhere	ADV	1	advmod	_
+
+
+0	so	ADV	4	mark	_
+1	they	PRON	4	nsubj	_
+2	do	AUX	4	aux	_
+3	not	PART	4	neg	_
+4	have	AUX	4	ROOT	_
+5	to	PART	6	aux	_
+6	spend	VERB	4	xcomp	_
+7	too	ADV	8	advmod	_
+8	much	ADJ	9	amod	_
+9	effort	NOUN	6	dobj	_
+10	to	PART	11	aux	_
+11	obtain	VERB	9	acl	_
+12	an	DET	13	det	_
+13	information	NOUN	11	dobj	_
+14	.	PUNCT	4	punct	_
+15	
+	SPACE	14		_
+
+
+0	Altough	ADJ	2	mark	_
+1	advertisements	NOUN	2	nsubj	_
+2	are	AUX	20	advcl	_
+3	the	DET	5	det	_
+4	easiest	ADJ	5	amod	_
+5	way	NOUN	2	attr	_
+6	to	PART	7	aux	_
+7	learn	VERB	5	relcl	_
+8	something	PRON	7	dobj	_
+9	about	ADP	8	prep	_
+10	a	DET	11	det	_
+11	product	NOUN	9	pobj	_
+12	to	PART	13	aux	_
+13	make	VERB	11	relcl	_
+14	a	DET	15	det	_
+15	desicion	NOUN	13	dobj	_
+16	,	PUNCT	20	punct	_
+17	 	SPACE	16		_
+18	people	NOUN	20	nsubj	_
+19	should	VERB	20	aux	_
+20	reconsider	VERB	20	ROOT	_
+21	every	DET	22	det	_
+22	detail	NOUN	20	dobj	_
+23	that	SCONJ	26	pobj	_
+24	they	PRON	25	nsubj	_
+25	heared	VERB	22	relcl	_
+26	from	ADP	25	prep	_
+27	or	CCONJ	25	cc	_
+28	saw	VERB	25	conj	_
+29	on	ADP	28	prep	_
+30	an	DET	31	det	_
+31	advertisement	NOUN	29	pobj	_
+32	if	SCONJ	35	mark	_
+33	it	PRON	35	nsubj	_
+34	can	VERB	35	aux	_
+35	be	AUX	28	advcl	_
+36	true	ADJ	35	acomp	_
+37	or	CCONJ	35	cc	_
+38	not	PART	35	conj	_
+39	.	PUNCT	20	punct	_
+
+
+0	They	PRON	2	nsubj	_
+1	should	VERB	2	aux	_
+2	be	AUX	2	ROOT	_
+3	aware	ADJ	2	acomp	_
+4	of	ADP	3	prep	_
+5	the	DET	6	det	_
+6	reality	NOUN	4	pobj	_
+7	that	SCONJ	10	mark	_
+8	the	DET	9	det	_
+9	ads	NOUN	10	nsubj	_
+10	are	AUX	6	acl	_
+11	for	ADP	10	prep	_
+12	convincing	ADJ	11	pcomp	_
+13	people	NOUN	12	dobj	_
+14	,	PUNCT	11	punct	_
+15	not	PART	16	neg	_
+16	for	ADP	6	prep	_
+17	telling	VERB	16	pcomp	_
+18	the	DET	19	det	_
+19	truth	NOUN	17	dobj	_
+20	.	PUNCT	2	punct	_
+21	
+
+	SPACE	20		_
+
+

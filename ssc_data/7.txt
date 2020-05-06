@@ -1,0 +1,204 @@
+0			SPACE	1		_
+1	It	PRON	2	nsubj	_
+2	is	AUX	2	ROOT	_
+3	a	DET	5	det	_
+4	difficult	ADJ	5	amod	_
+5	question	NOUN	2	attr	_
+6	,	PUNCT	2	punct	_
+7	but	CCONJ	2	cc	_
+8	for	ADP	13	prep	_
+9	me	PRON	8	pobj	_
+10	,	PUNCT	13	punct	_
+11	the	DET	12	det	_
+12	choice	NOUN	13	nsubj	_
+13	is	AUX	2	conj	_
+14	clear	ADJ	13	acomp	_
+15	.	PUNCT	13	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	disagree	VERB	1	ROOT	_
+2	that	SCONJ	4	mark	_
+3	advertisements	NOUN	4	nsubj	_
+4	make	VERB	1	ccomp	_
+5	products	NOUN	6	nsubj	_
+6	seem	VERB	4	ccomp	_
+7	much	ADV	8	advmod	_
+8	better	ADJ	6	oprd	_
+9	than	SCONJ	12	mark	_
+10	they	PRON	12	nsubj	_
+11	really	ADV	12	advmod	_
+12	are	AUX	8	advcl	_
+13	.	PUNCT	1	punct	_
+14			SPACE	13		_
+
+
+0	There	PRON	1	expl	_
+1	are	AUX	1	ROOT	_
+2	two	NUM	3	nummod	_
+3	reasons	NOUN	1	attr	_
+4	;	PUNCT	1	punct	_
+5	the	DET	6	det	_
+6	prevention	NOUN	1	appos	_
+7	of	ADP	6	prep	_
+8	the	DET	9	det	_
+9	reallity	NOUN	7	pobj	_
+10	and	CCONJ	6	cc	_
+11	the	DET	12	det	_
+12	conclution	NOUN	6	conj	_
+13	of	ADP	12	prep	_
+14	the	DET	16	det	_
+15	reliable	ADJ	16	amod	_
+16	relationship	NOUN	13	pobj	_
+17	between	ADP	16	prep	_
+18	retailers	NOUN	17	pobj	_
+19	and	CCONJ	18	cc	_
+20	customers	NOUN	18	conj	_
+21	.	PUNCT	1	punct	_
+22	
+		SPACE	21		_
+
+
+0	The	DET	2	det	_
+1	first	ADJ	2	amod	_
+2	reason	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	the	DET	5	det	_
+5	prevention	NOUN	3	attr	_
+6	of	ADP	5	prep	_
+7	the	DET	8	det	_
+8	reallity	NOUN	6	pobj	_
+9	.	PUNCT	3	punct	_
+
+
+0	It	PRON	2	nsubjpass	_
+1	is	AUX	2	auxpass	_
+2	based	VERB	2	ROOT	_
+3	on	ADP	2	prep	_
+4	the	DET	5	det	_
+5	situation	NOUN	3	pobj	_
+6	that	DET	9	mark	_
+7	customers	NOUN	9	nsubj	_
+8	ordinally	ADV	9	advmod	_
+9	make	VERB	5	acl	_
+10	a	DET	11	det	_
+11	judge	NOUN	9	dobj	_
+12	from	ADP	9	prep	_
+13	the	DET	14	det	_
+14	advertisement	NOUN	12	pobj	_
+15	whether	SCONJ	17	mark	_
+16	they	PRON	17	nsubj	_
+17	buy	VERB	9	ccomp	_
+18	it	PRON	17	dobj	_
+19	or	CCONJ	17	cc	_
+20	not	PART	17	conj	_
+21	.	PUNCT	2	punct	_
+22	 	SPACE	21		_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	advertisements	NOUN	5	nsubjpass	_
+3	should	VERB	5	aux	_
+4	be	AUX	5	auxpass	_
+5	besed	VERB	1	ccomp	_
+6	on	ADP	5	prep	_
+7	the	DET	8	det	_
+8	products	NOUN	6	pobj	_
+9	.	PUNCT	1	punct	_
+
+
+0	The	DET	1	det	_
+1	role	NOUN	6	nsubj	_
+2	of	ADP	1	prep	_
+3	the	DET	4	det	_
+4	advertisements	NOUN	2	pobj	_
+5	is	AUX	6	aux	_
+6	telling	VERB	6	ROOT	_
+7	customer	NOUN	6	dobj	_
+8	what	PRON	12	attr	_
+9	the	DET	11	det	_
+10	products	NOUN	11	compound	_
+11	rally	VERB	12	nsubj	_
+12	are	AUX	6	ccomp	_
+13	and	CCONJ	12	cc	_
+14	what	DET	15	det	_
+15	points	NOUN	16	nsubj	_
+16	are	AUX	12	conj	_
+17	distinguish	ADJ	16	acomp	_
+18	on	ADP	17	prep	_
+19	other	ADJ	20	amod	_
+20	products	NOUN	18	pobj	_
+21	.	PUNCT	6	punct	_
+
+
+0	The	DET	1	det	_
+1	advertisements	NOUN	4	nsubjpass	_
+2	should	VERB	4	aux	_
+3	be	AUX	4	auxpass	_
+4	neesded	VERB	4	ROOT	_
+5	the	DET	6	det	_
+6	reallity	NOUN	4	dobj	_
+7	of	ADP	6	prep	_
+8	the	DET	9	det	_
+9	products	NOUN	7	pobj	_
+10	.	PUNCT	4	punct	_
+
+
+0	The	DET	2	det	_
+1	second	ADJ	2	amod	_
+2	reason	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	the	DET	5	det	_
+5	construction	NOUN	3	attr	_
+6	of	ADP	5	prep	_
+7	the	DET	9	det	_
+8	reliable	ADJ	9	amod	_
+9	relationship	NOUN	6	pobj	_
+10	between	ADP	9	prep	_
+11	retailers	NOUN	10	pobj	_
+12	and	CCONJ	11	cc	_
+13	customers	NOUN	11	conj	_
+14	.	PUNCT	3	punct	_
+
+
+0	The	DET	1	det	_
+1	advertisement	NOUN	2	nsubj	_
+2	explains	VERB	2	ROOT	_
+3	about	ADP	2	prep	_
+4	the	DET	5	det	_
+5	product	NOUN	3	pobj	_
+6	,	PUNCT	2	punct	_
+7	so	SCONJ	2	cc	_
+8	the	DET	9	det	_
+9	custmer	NOUN	11	nsubj	_
+10	can	VERB	11	aux	_
+11	buy	VERB	2	conj	_
+12	it	PRON	11	dobj	_
+13	without	ADP	11	prep	_
+14	anxious	ADJ	13	amod	_
+15	.	PUNCT	2	punct	_
+16	
+		SPACE	15		_
+
+
+0	Those	DET	1	nsubj	_
+1	are	AUX	1	ROOT	_
+2	my	DET	3	poss	_
+3	opinions	NOUN	1	attr	_
+4	.	PUNCT	1	punct	_
+5	 	SPACE	4		_
+
+
+0	Thus	ADV	3	advmod	_
+1	,	PUNCT	3	punct	_
+2	I	PRON	3	nsubj	_
+3	disagree	VERB	3	ROOT	_
+4	the	DET	6	det	_
+5	following	VERB	6	amod	_
+6	statement	NOUN	3	dobj	_
+7	.	PUNCT	3	punct	_
+8	  
+	SPACE	7		_
+
+

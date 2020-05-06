@@ -1,0 +1,458 @@
+0	I	PRON	3	nsubj	_
+1	do	AUX	3	aux	_
+2	not	PART	3	neg	_
+3	agree	VERB	3	ROOT	_
+4	that	SCONJ	7	mark	_
+5	younger	ADJ	6	amod	_
+6	people	NOUN	7	nsubj	_
+7	enjoy	VERB	3	ccomp	_
+8	life	NOUN	7	dobj	_
+9	more	ADJ	7	advmod	_
+10	than	SCONJ	13	mark	_
+11	older	ADJ	12	amod	_
+12	people	NOUN	13	nsubj	_
+13	do	AUX	9	advcl	_
+14	.	PUNCT	3	punct	_
+
+
+0	Altough	ADP	3	mark	_
+1	young	ADJ	2	amod	_
+2	people	NOUN	3	nsubj	_
+3	are	AUX	3	ROOT	_
+4	physically	ADV	6	advmod	_
+5	more	ADV	6	advmod	_
+6	active	ADJ	3	acomp	_
+7	and	CCONJ	6	cc	_
+8	healthier	ADJ	6	conj	_
+
+
+0	then	ADV	2	advmod	_
+1	the	DET	2	det	_
+2	older	ADJ	7	nsubj	_
+3	,	PUNCT	7	punct	_
+4	thus	ADV	7	advmod	_
+5	,	PUNCT	7	punct	_
+6	may	VERB	7	aux	_
+7	have	AUX	7	ROOT	_
+8	more	ADJ	9	amod	_
+9	energy	NOUN	7	dobj	_
+10	to	PART	11	aux	_
+11	engage	VERB	9	relcl	_
+12	in	ADP	11	prep	_
+13	enjoyable	ADJ	14	amod	_
+14	activities	NOUN	12	pobj	_
+15	,	PUNCT	18	punct	_
+16	older	ADJ	17	amod	_
+17	people	NOUN	18	nsubj	_
+18	have	AUX	26	aux	_
+19	also	ADV	18	advmod	_
+20	some	DET	21	det	_
+21	advantges	NOUN	26	nsubj	_
+22	of	ADP	21	prep	_
+23	the	DET	25	det	_
+24	old	ADJ	25	amod	_
+25	ages	NOUN	22	pobj	_
+26	provide	VERB	7	conj	_
+27	them	PRON	26	dobj	_
+28	.	PUNCT	26	punct	_
+29	
+
+	SPACE	28		_
+
+
+0	Young	ADJ	1	amod	_
+1	poeple	NOUN	2	nsubj	_
+2	are	AUX	11	ccomp	_
+3	energetic	ADJ	2	acomp	_
+4	and	CCONJ	3	cc	_
+5	active	ADJ	3	conj	_
+6	,	PUNCT	11	punct	_
+7	hence	ADV	11	advmod	_
+8	,	PUNCT	11	punct	_
+9	 	SPACE	8		_
+10	often	ADV	11	advmod	_
+11	dominate	VERB	11	ROOT	_
+12	most	ADJ	11	dobj	_
+13	of	ADP	12	prep	_
+14	the	DET	17	det	_
+15	daily	ADJ	17	amod	_
+16	life	NOUN	17	compound	_
+17	activities	NOUN	13	pobj	_
+18	we	PRON	19	nsubj	_
+19	see	VERB	17	relcl	_
+20	around	ADV	19	advmod	_
+21	.	PUNCT	11	punct	_
+
+
+0	However	ADV	10	advmod	_
+1	,	PUNCT	10	punct	_
+2	when	ADV	3	advmod	_
+3	compared	VERB	10	advcl	_
+4	to	ADP	3	prep	_
+5	older	ADJ	6	amod	_
+6	people	NOUN	4	pobj	_
+7	,	PUNCT	10	punct	_
+8	younger	ADJ	9	amod	_
+9	ones	NOUN	10	nsubj	_
+10	have	AUX	10	ROOT	_
+11	more	ADJ	12	amod	_
+12	responsibilty	NOUN	10	dobj	_
+13	,	PUNCT	12	punct	_
+14	which	DET	15	nsubj	_
+15	hinders	VERB	12	relcl	_
+16	their	DET	17	poss	_
+17	opportunity	NOUN	15	dobj	_
+18	to	PART	19	aux	_
+19	enjoy	VERB	17	acl	_
+20	life	NOUN	19	dobj	_
+21	.	PUNCT	10	punct	_
+
+
+0	For	ADP	8	prep	_
+1	example	NOUN	0	pobj	_
+2	,	PUNCT	8	punct	_
+3	I	PRON	8	nsubj	_
+4	and	CCONJ	3	cc	_
+5	my	DET	6	poss	_
+6	sister	NOUN	3	conj	_
+7	are	AUX	8	aux	_
+8	working	VERB	8	ROOT	_
+9	in	ADP	8	prep	_
+10	full	ADJ	11	amod	_
+11	time	NOUN	12	compound	_
+12	jobs	NOUN	9	pobj	_
+13	,	PUNCT	12	punct	_
+14	 	SPACE	13		_
+15	which	DET	16	nsubj	_
+16	make	VERB	12	relcl	_
+17	us	PRON	19	nsubj	_
+18	to	PART	19	aux	_
+19	spend	VERB	16	ccomp	_
+20	all	DET	21	det	_
+21	day	NOUN	19	npadvmod	_
+22	in	ADP	19	prep	_
+23	work	NOUN	22	pobj	_
+24	.	PUNCT	8	punct	_
+
+
+0	Besides	SCONJ	5	prep	_
+1	that	DET	0	pobj	_
+2	,	PUNCT	5	punct	_
+3	we	PRON	5	nsubj	_
+4	are	AUX	5	aux	_
+5	studying	VERB	5	ROOT	_
+6	for	ADP	5	prep	_
+7	graduate	NOUN	8	compound	_
+8	degrees	NOUN	6	pobj	_
+9	and	CCONJ	5	cc	_
+10	this	DET	11	nsubj	_
+11	takes	VERB	5	conj	_
+12	most	ADJ	11	dobj	_
+13	of	ADP	12	prep	_
+14	our	DET	16	poss	_
+15	free	ADJ	16	amod	_
+16	time	NOUN	13	pobj	_
+17	.	PUNCT	11	punct	_
+
+
+0	However	ADV	12	advmod	_
+1	,	PUNCT	12	punct	_
+2	my	DET	3	poss	_
+3	granparents	NOUN	12	nsubj	_
+4	who	PRON	7	nsubj	_
+5	are	AUX	7	aux	_
+6	now	ADV	7	advmod	_
+7	enjoying	VERB	3	relcl	_
+8	their	DET	10	poss	_
+9	retirement	NOUN	10	compound	_
+10	years	NOUN	7	dobj	_
+11	,	PUNCT	12	punct	_
+12	spend	VERB	12	ROOT	_
+13	their	DET	14	poss	_
+14	days	NOUN	12	dobj	_
+15	with	ADP	12	prep	_
+16	shopping	NOUN	15	pobj	_
+17	,	PUNCT	12	punct	_
+18	wandering	VERB	12	advcl	_
+19	around	ADV	18	advmod	_
+20	,	PUNCT	18	punct	_
+21	travelling	VERB	18	conj	_
+22	and	CCONJ	21	cc	_
+23	hosting	VERB	21	conj	_
+24	family	NOUN	25	compound	_
+25	members	NOUN	23	dobj	_
+26	in	ADP	23	prep	_
+27	the	DET	28	det	_
+28	weekends	NOUN	26	pobj	_
+29	.	PUNCT	12	punct	_
+30	
+
+	SPACE	29		_
+
+
+0	Another	DET	1	det	_
+1	advantage	NOUN	5	nsubj	_
+2	older	ADJ	3	amod	_
+3	people	NOUN	4	nsubj	_
+4	have	AUX	1	relcl	_
+5	is	AUX	5	ROOT	_
+6	that	SCONJ	10	mark	_
+7	they	PRON	10	nsubjpass	_
+8	have	AUX	10	aux	_
+9	been	AUX	10	auxpass	_
+10	cared	VERB	5	ccomp	_
+11	by	ADP	10	agent	_
+12	other	ADJ	14	amod	_
+13	family	NOUN	14	compound	_
+14	members	NOUN	11	pobj	_
+15	more	ADJ	14	amod	_
+16	than	SCONJ	15	prep	_
+17	the	DET	19	det	_
+18	younger	ADJ	19	amod	_
+19	ones	NOUN	21	nsubj	_
+20	have	AUX	21	aux	_
+21	been	AUX	5	ccomp	_
+22	.	PUNCT	5	punct	_
+
+
+0	In	ADP	6	prep	_
+1	my	DET	2	poss	_
+2	culture	NOUN	0	pobj	_
+3	,	PUNCT	6	punct	_
+4	senior	ADJ	5	amod	_
+5	people	NOUN	6	nsubj	_
+6	are	AUX	6	ROOT	_
+7	highly	ADV	8	advmod	_
+8	respected	ADJ	6	acomp	_
+9	.	PUNCT	6	punct	_
+
+
+0	They	PRON	3	nsubjpass	_
+1	have	AUX	3	aux	_
+2	been	AUX	3	auxpass	_
+3	consulted	VERB	3	ROOT	_
+4	for	ADP	3	prep	_
+5	experiences	NOUN	4	pobj	_
+6	they	PRON	7	nsubj	_
+7	have	AUX	5	relcl	_
+8	and	CCONJ	4	cc	_
+9	for	ADP	4	conj	_
+10	the	DET	11	det	_
+11	knowledge	NOUN	9	pobj	_
+12	they	PRON	13	nsubj	_
+13	acquired	VERB	11	relcl	_
+14	throughout	ADP	13	prep	_
+15	their	DET	17	poss	_
+16	life	NOUN	17	compound	_
+17	span	NOUN	14	pobj	_
+18	.	PUNCT	3	punct	_
+
+
+0	That	ADV	1	advmod	_
+1	is	ADV	6	advmod	_
+2	,	PUNCT	6	punct	_
+3	they	PRON	6	nsubjpass	_
+4	are	AUX	6	auxpass	_
+5	often	ADV	6	advmod	_
+6	visited	VERB	6	ROOT	_
+7	by	ADP	6	agent	_
+8	familty	NOUN	9	compound	_
+9	members	NOUN	7	pobj	_
+10	,	PUNCT	6	punct	_
+11	by	ADP	6	agent	_
+12	relatives	NOUN	11	pobj	_
+13	,	PUNCT	12	punct	_
+14	which	DET	16	nsubj	_
+15	is	AUX	16	aux	_
+16	giving	VERB	12	relcl	_
+17	them	PRON	16	dative	_
+18	opportunity	NOUN	16	dobj	_
+19	to	PART	20	aux	_
+20	interact	VERB	18	acl	_
+21	socially	ADV	20	advmod	_
+22	even	ADV	23	advmod	_
+23	sometimes	ADV	24	advmod	_
+24	more	ADV	25	advmod	_
+25	then	ADV	28	advmod	_
+26	young	ADJ	27	amod	_
+27	people	NOUN	28	nsubj	_
+28	do	AUX	6	conj	_
+29	.	PUNCT	6	punct	_
+30	
+
+	SPACE	29		_
+
+
+0	One	NUM	2	nummod	_
+1	other	ADJ	2	amod	_
+2	point	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	that	SCONJ	17	mark	_
+5	having	VERB	6	aux	_
+6	developed	VERB	17	advcl	_
+7	a	DET	9	det	_
+8	mature	ADJ	9	amod	_
+9	taste	NOUN	6	dobj	_
+10	of	ADP	9	prep	_
+11	preferences	NOUN	10	pobj	_
+12	,	PUNCT	17	punct	_
+13	older	ADJ	14	amod	_
+14	poeple	NOUN	17	nsubj	_
+15	do	AUX	17	aux	_
+16	not	PART	17	neg	_
+17	spend	VERB	3	ccomp	_
+18	time	NOUN	17	dobj	_
+19	trying	VERB	17	xcomp	_
+20	new	ADJ	21	amod	_
+21	things	NOUN	19	dobj	_
+22	spend	VERB	19	ccomp	_
+23	their	DET	24	poss	_
+24	times	NOUN	22	dobj	_
+25	in	ADP	22	prep	_
+26	a	DET	29	det	_
+27	more	ADJ	28	amod	_
+28	quality	NOUN	29	compound	_
+29	way	NOUN	25	pobj	_
+30	.	PUNCT	3	punct	_
+
+
+0	Yet	ADV	5	advmod	_
+1	,	PUNCT	5	punct	_
+2	young	ADJ	3	amod	_
+3	people	NOUN	5	nsubj	_
+4	generally	ADV	5	advmod	_
+5	like	SCONJ	5	ROOT	_
+6	trying	VERB	5	xcomp	_
+7	new	ADJ	8	amod	_
+8	things	NOUN	6	dobj	_
+9	as	SCONJ	14	mark	_
+10	if	SCONJ	14	mark	_
+11	they	PRON	14	nsubj	_
+12	have	AUX	14	aux	_
+13	not	PART	14	neg	_
+14	developed	VERB	6	advcl	_
+15	 	SPACE	14		_
+16	permanent	ADJ	18	amod	_
+17	life	NOUN	18	compound	_
+18	preferences	NOUN	14	dobj	_
+19	.	PUNCT	5	punct	_
+
+
+0	In	ADP	8	prep	_
+1	other	ADJ	2	amod	_
+2	words	NOUN	0	pobj	_
+3	,	PUNCT	8	punct	_
+4	young	ADJ	5	amod	_
+5	people	NOUN	8	nsubjpass	_
+6	can	VERB	8	aux	_
+7	be	AUX	8	auxpass	_
+8	thought	VERB	8	ROOT	_
+9	as	SCONJ	11	mark	_
+10	they	PRON	11	nsubj	_
+11	are	AUX	8	advcl	_
+12	still	ADV	11	advmod	_
+13	in	ADP	11	prep	_
+14	their	DET	16	poss	_
+15	life	NOUN	16	compound	_
+16	cycle	NOUN	13	pobj	_
+17	,	PUNCT	16	punct	_
+18	which	DET	21	nsubjpass	_
+19	can	VERB	21	aux	_
+20	be	AUX	21	auxpass	_
+21	characterized	VERB	16	relcl	_
+22	by	ADP	21	agent	_
+23	flcutuations	NOUN	22	pobj	_
+24	in	ADP	23	prep	_
+25	tastes	NOUN	24	pobj	_
+26	and	CCONJ	25	cc	_
+27	preferences	NOUN	25	conj	_
+28	.	PUNCT	8	punct	_
+29	
+
+ 	SPACE	28		_
+
+
+0	Therefore	ADV	5	advmod	_
+1	,	PUNCT	5	punct	_
+2	I	PRON	5	nsubj	_
+3	can	VERB	5	aux	_
+4	not	PART	5	neg	_
+5	agree	VERB	5	ROOT	_
+6	that	SCONJ	9	mark	_
+7	young	ADJ	8	amod	_
+8	people	NOUN	9	nsubj	_
+9	enjoy	VERB	5	ccomp	_
+10	life	NOUN	9	dobj	_
+11	more	ADJ	9	advmod	_
+12	than	SCONJ	15	mark	_
+13	older	ADJ	14	amod	_
+14	people	NOUN	15	nsubj	_
+15	do	AUX	11	advcl	_
+16	.	PUNCT	5	punct	_
+
+
+0	Both	DET	2	det	_
+1	age	NOUN	2	compound	_
+2	groups	NOUN	3	nsubj	_
+3	have	AUX	3	ROOT	_
+4	their	DET	6	poss	_
+5	own	ADJ	6	amod	_
+6	advantages	NOUN	3	dobj	_
+7	and	CCONJ	6	cc	_
+8	disadvantages	NOUN	6	conj	_
+9	.	PUNCT	3	punct	_
+
+
+0	While	SCONJ	4	mark	_
+1	young	ADJ	2	amod	_
+2	people	NOUN	4	nsubj	_
+3	may	VERB	4	aux	_
+4	be	AUX	16	advcl	_
+5	healthier	ADJ	4	acomp	_
+6	and	CCONJ	5	cc	_
+7	more	ADV	8	advmod	_
+8	active	ADJ	5	conj	_
+9	than	SCONJ	8	prep	_
+10	old	ADJ	11	amod	_
+11	people	NOUN	9	pobj	_
+12	,	PUNCT	16	punct	_
+13	older	ADJ	14	amod	_
+14	people	NOUN	16	nsubj	_
+15	can	VERB	16	aux	_
+16	enjoy	VERB	16	ROOT	_
+17	many	ADJ	19	amod	_
+18	different	ADJ	19	amod	_
+19	aspects	NOUN	16	dobj	_
+20	of	ADP	19	prep	_
+21	life	NOUN	20	pobj	_
+22	.	PUNCT	16	punct	_
+
+
+0	The	DET	3	det	_
+1	more	ADV	2	advmod	_
+2	important	ADJ	3	amod	_
+3	thing	NOUN	4	nsubj	_
+4	is	AUX	4	ROOT	_
+5	that	SCONJ	16	mark	_
+6	regardless	ADV	16	advmod	_
+7	of	ADP	6	prep	_
+8	the	DET	9	det	_
+9	age	NOUN	7	pobj	_
+10	you	PRON	11	nsubj	_
+11	are	AUX	9	relcl	_
+12	in	ADP	11	prep	_
+13	,	PUNCT	16	punct	_
+14	one	PRON	16	nsubj	_
+15	should	VERB	16	aux	_
+16	know	VERB	4	ccomp	_
+17	how	ADV	19	advmod	_
+18	to	PART	19	aux	_
+19	enjoy	VERB	16	xcomp	_
+20	life	NOUN	19	dobj	_
+21	.	PUNCT	4	punct	_
+22	
+
+
+	SPACE	21		_
+
+

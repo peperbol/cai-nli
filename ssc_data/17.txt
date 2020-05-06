@@ -1,0 +1,387 @@
+0	  	SPACE	1		_
+1	According	VERB	14	prep	_
+2	to	ADP	1	prep	_
+3	what	PRON	6	dobj	_
+4	all	DET	5	det	_
+5	government	NOUN	6	nsubj	_
+6	say	VERB	2	pcomp	_
+7	,	PUNCT	14	punct	_
+8	that	SCONJ	14	mark	_
+9	all	DET	10	det	_
+10	cars	NOUN	14	nsubjpass	_
+11	must	VERB	14	aux	_
+12	only	ADV	14	advmod	_
+13	be	AUX	14	auxpass	_
+14	transported	VERB	14	ROOT	_
+15	from	ADP	14	prep	_
+16	an	DET	17	det	_
+17	country	NOUN	15	pobj	_
+18	to	ADP	14	prep	_
+19	another	DET	18	pobj	_
+20	with	ADP	14	prep	_
+21	in	ADP	14	prep	_
+22	a	DET	24	det	_
+23	five	NUM	24	nummod	_
+24	years	NOUN	21	pobj	_
+25	of	ADP	24	prep	_
+26	date	NOUN	25	pobj	_
+27	of	ADP	26	prep	_
+28	due	ADJ	27	pobj	_
+29	from	ADP	28	prep	_
+30	the	DET	31	det	_
+31	company	NOUN	29	pobj	_
+32	.	PUNCT	14	punct	_
+
+
+0	Every	DET	1	det	_
+1	country	NOUN	3	nsubj	_
+2	must	VERB	3	aux	_
+3	make	VERB	3	ROOT	_
+4	a	DET	5	det	_
+5	roule	NOUN	3	dobj	_
+6	about	ADP	5	prep	_
+7	controlling	VERB	6	pcomp	_
+8	the	DET	9	det	_
+9	number	NOUN	7	dobj	_
+10	of	ADP	9	prep	_
+11	car	NOUN	10	pobj	_
+12	that	DET	14	nsubj	_
+13	is	AUX	14	aux	_
+14	coming	VERB	9	relcl	_
+15	year	NOUN	14	npadvmod	_
+16	after	ADP	15	prep	_
+17	year	NOUN	16	pobj	_
+18	.	PUNCT	3	punct	_
+19	
+  	SPACE	18		_
+
+
+0	Every	DET	2	det	_
+1	new	ADJ	2	amod	_
+2	car	NOUN	8	dep	_
+3	that	DET	5	nsubjpass	_
+4	is	AUX	5	auxpass	_
+5	made	VERB	2	relcl	_
+6	,	PUNCT	8	punct	_
+7	it	PRON	8	nsubj	_
+8	brings	VERB	8	ROOT	_
+9	with	ADP	8	prep	_
+10	it	PRON	9	pobj	_
+11	more	ADJ	12	amod	_
+12	pollution	NOUN	8	dobj	_
+13	and	CCONJ	12	cc	_
+14	more	ADJ	15	amod	_
+15	traffic	NOUN	12	conj	_
+16	to	ADP	8	prep	_
+17	the	DET	18	det	_
+18	world	NOUN	16	pobj	_
+19	.	PUNCT	8	punct	_
+
+
+0	The	DET	1	det	_
+1	government	NOUN	3	nsubj	_
+2	must	VERB	3	aux	_
+3	have	AUX	3	ROOT	_
+4	a	DET	5	det	_
+5	limit	NOUN	3	dobj	_
+6	or	CCONJ	5	cc	_
+7	a	DET	8	det	_
+8	regulation	NOUN	5	conj	_
+9	to	PART	10	aux	_
+10	prevent	VERB	8	relcl	_
+11	the	DET	12	det	_
+12	additions	NOUN	10	dobj	_
+13	of	ADP	12	prep	_
+14	cars	NOUN	13	pobj	_
+15	year	NOUN	10	npadvmod	_
+16	after	ADP	15	prep	_
+17	a	DET	18	det	_
+18	year	NOUN	16	pobj	_
+19	.	PUNCT	3	punct	_
+20	
+	SPACE	19		_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	that	SCONJ	10	mark	_
+3	in	ADP	10	prep	_
+4	five	NUM	7	nummod	_
+5	or	CCONJ	4	cc	_
+6	ten	NUM	4	conj	_
+7	years	NOUN	3	pobj	_
+8	they	PRON	10	nsubj	_
+9	will	VERB	10	aux	_
+10	be	AUX	1	ccomp	_
+11	more	ADV	12	advmod	_
+12	fewer	ADJ	13	amod	_
+13	cars	NOUN	10	attr	_
+
+
+0	then	ADV	2	advmod	_
+1	there	PRON	2	expl	_
+2	is	AUX	2	ROOT	_
+3	now	ADV	2	advmod	_
+4	,	PUNCT	2	punct	_
+5	but	CCONJ	2	cc	_
+6	i	PRON	9	nsubj	_
+7	do	AUX	9	aux	_
+8	n't	PART	9	neg	_
+9	think	VERB	2	conj	_
+10	that	SCONJ	16	mark	_
+11	after	ADP	16	prep	_
+12	twenty	NUM	13	nummod	_
+13	years	NOUN	11	pobj	_
+14	they	PRON	16	nsubj	_
+15	will	VERB	16	aux	_
+16	be	AUX	9	ccomp	_
+17	more	ADJ	16	acomp	_
+18	.	PUNCT	9	punct	_
+
+
+0	because	SCONJ	3	mark	_
+1	technology	NOUN	3	nsubj	_
+2	will	VERB	3	aux	_
+3	prevent	VERB	3	ROOT	_
+4	it	PRON	3	dobj	_
+5	and	CCONJ	3	cc	_
+6	they	PRON	8	nsubj	_
+7	will	VERB	8	aux	_
+8	stop	VERB	3	conj	_
+9	using	VERB	8	xcomp	_
+10	cars	NOUN	9	dobj	_
+11	.	PUNCT	8	punct	_
+
+
+0	They	PRON	2	nsubj	_
+1	will	VERB	2	aux	_
+2	use	VERB	2	ROOT	_
+3	new	ADJ	4	amod	_
+4	technolgy	NOUN	2	dobj	_
+5	rather	ADV	6	advmod	_
+6	then	ADV	2	advmod	_
+7	cars	NOUN	2	dobj	_
+8	that	DET	9	nsubj	_
+9	bring	VERB	7	relcl	_
+10	us	PRON	9	dative	_
+11	problems	NOUN	9	dobj	_
+12	like	SCONJ	11	prep	_
+13	pollution	NOUN	12	pobj	_
+14	,	PUNCT	13	punct	_
+15	car	NOUN	16	compound	_
+16	accidents	NOUN	13	conj	_
+17	,	PUNCT	16	punct	_
+18	more	ADJ	19	amod	_
+19	traffics	NOUN	16	conj	_
+20	,	PUNCT	19	punct	_
+21	death	NOUN	22	compound	_
+22	penalties	NOUN	23	compound	_
+23	etc	X	19	conj	_
+24	...	PUNCT	2	punct	_
+25	
+	SPACE	24		_
+
+
+0	In	ADP	6	prep	_
+1	the	DET	3	det	_
+2	newer	ADJ	3	amod	_
+3	world	NOUN	0	pobj	_
+4	they	PRON	6	nsubj	_
+5	will	VERB	6	aux	_
+6	find	VERB	6	ROOT	_
+7	a	DET	8	det	_
+8	solution	NOUN	6	dobj	_
+9	for	ADP	8	prep	_
+10	it	PRON	9	pobj	_
+11	,	PUNCT	6	punct	_
+12	because	SCONJ	17	mark	_
+13	if	SCONJ	14	mark	_
+14	not	PART	17	neg	_
+15	it	PRON	17	nsubj	_
+16	will	VERB	17	aux	_
+17	be	AUX	6	advcl	_
+18	a	DET	19	det	_
+19	catastrophe	NOUN	17	attr	_
+20	and	CCONJ	19	cc	_
+21	a	DET	22	det	_
+22	disaster	NOUN	19	conj	_
+23	.	PUNCT	6	punct	_
+
+
+0	Because	SCONJ	5	mark	_
+1	logically	ADV	2	amod	_
+2	world	NOUN	5	nsubj	_
+3	is	AUX	5	aux	_
+4	not	PART	5	neg	_
+5	gon	VERB	5	ROOT	_
+6	na	PART	7	aux	_
+7	get	AUX	5	xcomp	_
+8	bigger	ADJ	7	acomp	_
+9	in	ADP	7	prep	_
+10	twenty	NUM	11	nummod	_
+11	years	NOUN	9	pobj	_
+
+
+0	but	CCONJ	3	cc	_
+1	cars	NOUN	3	nsubj	_
+2	are	AUX	3	aux	_
+3	gon	VERB	3	ROOT	_
+4	na	PART	5	aux	_
+5	get	AUX	3	xcomp	_
+6	much	ADJ	10	advmod	_
+7	and	CCONJ	6	cc	_
+8	much	ADV	6	conj	_
+9	more	ADV	10	advmod	_
+10	fewer	ADJ	5	acomp	_
+
+
+0	then	ADV	3	advmod	_
+1	it	PRON	3	nsubj	_
+2	can	VERB	3	aux	_
+3	contain	VERB	3	ROOT	_
+4	.	PUNCT	3	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	technology	NOUN	4	nsubj	_
+3	will	VERB	4	aux	_
+4	take	VERB	14	ccomp	_
+5	place	NOUN	4	dobj	_
+6	in	ADP	4	prep	_
+7	twenty	NUM	8	nummod	_
+8	years	NOUN	6	pobj	_
+9	from	ADP	4	prep	_
+10	now	ADV	9	pcomp	_
+11	,	PUNCT	14	punct	_
+12	it	PRON	14	nsubj	_
+13	might	VERB	14	aux	_
+14	use	VERB	26	ccomp	_
+15	plane	NOUN	14	dobj	_
+16	besides	SCONJ	14	prep	_
+17	cars	NOUN	16	pobj	_
+18	or	CCONJ	17	cc	_
+19	huge	ADJ	20	amod	_
+20	escalators	NOUN	17	conj	_
+21	through	ADP	14	prep	_
+22	buildings	NOUN	21	pobj	_
+23	,	PUNCT	26	punct	_
+24	maybe	ADV	26	advmod	_
+25	even	ADV	26	advmod	_
+26	escalators	NOUN	1	ccomp	_
+27	underground	ADV	26	advmod	_
+28	.	PUNCT	1	punct	_
+
+
+0	No	DET	1	det	_
+1	one	NOUN	2	nsubj	_
+2	knows	VERB	2	ROOT	_
+3	what	PRON	4	nsubj	_
+4	is	AUX	2	ccomp	_
+5	in	ADP	4	prep	_
+6	the	DET	7	det	_
+7	future	NOUN	5	pobj	_
+8	or	CCONJ	4	cc	_
+9	what	PRON	11	nsubj	_
+10	is	AUX	11	aux	_
+11	waiting	VERB	4	conj	_
+12	for	ADP	11	prep	_
+13	us	PRON	12	pobj	_
+14	then	ADV	11	advmod	_
+15	.	PUNCT	2	punct	_
+
+
+0	Life	NOUN	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	much	ADV	3	advmod	_
+3	harder	ADJ	1	acomp	_
+
+
+0	then	ADV	2	advmod	_
+1	we	PRON	2	nsubj	_
+2	think	VERB	2	ROOT	_
+3	we	PRON	7	nsubj	_
+4	ca	VERB	7	aux	_
+5	n't	PART	7	neg	_
+6	just	ADV	7	advmod	_
+7	imagine	VERB	2	ccomp	_
+8	it	PRON	7	dobj	_
+9	with	ADP	7	prep	_
+10	in	ADP	7	prep	_
+11	a	DET	12	quantmod	_
+12	few	ADJ	13	amod	_
+13	words	NOUN	10	pobj	_
+14	it	PRON	17	nsubj	_
+15	much	ADV	16	advmod	_
+16	more	ADV	17	advmod	_
+17	complicated	ADJ	13	relcl	_
+18	.	PUNCT	2	punct	_
+19	
+  	SPACE	18		_
+
+
+0	I	PRON	1	nsubj	_
+1	hope	VERB	1	ROOT	_
+2	for	ADP	1	prep	_
+3	the	DET	4	det	_
+4	best	ADJ	2	pobj	_
+5	in	ADP	4	prep	_
+6	our	DET	8	poss	_
+7	future	ADJ	8	amod	_
+8	life	NOUN	5	pobj	_
+9	for	ADP	1	prep	_
+10	all	DET	9	pobj	_
+11	whom	PRON	12	nsubj	_
+12	gon	VERB	10	relcl	_
+13	na	PART	14	aux	_
+14	participate	VERB	12	xcomp	_
+15	in	ADP	14	prep	_
+16	it	PRON	15	pobj	_
+17	.	PUNCT	1	punct	_
+18	,	PUNCT	1	punct	_
+19	and	CCONJ	1	cc	_
+20	i	PRON	21	nsubj	_
+21	hope	VERB	1	conj	_
+22	that	SCONJ	25	mark	_
+23	tecnology	NOUN	25	nsubj	_
+24	will	VERB	25	aux	_
+25	prevent	VERB	21	ccomp	_
+26	the	DET	28	det	_
+27	catastrophy	NOUN	28	compound	_
+28	probelm	NOUN	25	dobj	_
+29	of	ADP	28	prep	_
+30	cars	NOUN	29	pobj	_
+31	and	CCONJ	25	cc	_
+32	stop	VERB	25	conj	_
+33	it	PRON	32	dobj	_
+34	from	ADP	32	prep	_
+35	growing	VERB	34	pcomp	_
+36	into	ADP	35	prep	_
+37	the	DET	38	det	_
+38	world	NOUN	36	pobj	_
+39	and	CCONJ	35	cc	_
+40	multiplying	NOUN	35	conj	_
+41	by	ADP	40	prep	_
+42	billions.of	NOUN	43	compound	_
+43	countity	NOUN	41	pobj	_
+44	.	PUNCT	21	punct	_
+
+
+0	Everyone	PRON	1	nsubj	_
+1	looks	VERB	1	ROOT	_
+2	for	ADP	1	prep	_
+3	his	DET	4	poss	_
+4	best	ADJ	2	pobj	_
+5	and	CCONJ	4	cc	_
+6	goods	NOUN	4	conj	_
+7	.	PUNCT	1	punct	_
+
+
+0	Life	NOUN	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	life	NOUN	1	attr	_
+3	.	PUNCT	1	punct	_
+4	
+	SPACE	3		_
+
+

@@ -1,0 +1,398 @@
+0	If	SCONJ	2	mark	_
+1	I	PRON	2	nsubj	_
+2	had	AUX	2	ROOT	_
+3	to	PART	4	aux	_
+4	refer	VERB	2	xcomp	_
+5	only	ADV	6	advmod	_
+6	to	ADP	4	prep	_
+7	my	DET	9	poss	_
+8	personal	ADJ	9	amod	_
+9	experience	NOUN	6	pobj	_
+10	I	PRON	12	nsubj	_
+11	would	VERB	12	aux	_
+12	have	AUX	9	relcl	_
+13	to	PART	15	aux	_
+14	completely	ADV	15	advmod	_
+15	agree	VERB	12	xcomp	_
+16	with	ADP	15	prep	_
+17	the	DET	18	det	_
+18	statement	NOUN	16	pobj	_
+19	.	PUNCT	2	punct	_
+
+
+0	Fortunately	ADV	4	advmod	_
+1	not	PART	4	neg	_
+2	every	DET	3	det	_
+3	youngster	NOUN	4	nsubj	_
+4	is	AUX	4	ROOT	_
+5	like	SCONJ	4	prep	_
+6	me	PRON	5	pobj	_
+7	.	PUNCT	4	punct	_
+8	
+
+	SPACE	7		_
+
+
+0	I	PRON	2	nsubj	_
+1	must	VERB	2	aux	_
+2	confess	VERB	2	ROOT	_
+3	that	SCONJ	7	mark	_
+4	I	PRON	7	nsubj	_
+5	have	AUX	7	aux	_
+6	never	ADV	7	neg	_
+7	taken	VERB	2	ccomp	_
+8	part	NOUN	7	dobj	_
+9	to	ADP	7	prep	_
+10	community	NOUN	11	compound	_
+11	service	NOUN	9	pobj	_
+12	,	PUNCT	11	punct	_
+13	which	DET	24	nsubj	_
+14	in	ADP	24	prep	_
+15	my	DET	17	poss	_
+16	home	NOUN	17	compound	_
+17	country	NOUN	14	pobj	_
+18	,	PUNCT	17	punct	_
+19	Italy	PROPN	17	appos	_
+20	,	PUNCT	24	punct	_
+21	young	ADJ	22	amod	_
+22	men	NOUN	24	nsubj	_
+23	could	VERB	24	aux	_
+24	choose	VERB	11	relcl	_
+25	as	SCONJ	24	prep	_
+26	an	DET	27	det	_
+27	alternative	NOUN	25	pobj	_
+28	to	ADP	27	prep	_
+29	military	ADJ	30	amod	_
+30	service	NOUN	28	pobj	_
+31	.	PUNCT	2	punct	_
+32	 	SPACE	31		_
+
+
+0	A	DET	1	det	_
+1	bill	NOUN	4	nsubjpass	_
+2	has	AUX	4	aux	_
+3	been	AUX	4	auxpass	_
+4	passed	VERB	4	ROOT	_
+5	that	SCONJ	6	nsubj	_
+6	frees	VERB	1	relcl	_
+7	my	DET	8	poss	_
+8	generation	NOUN	6	dobj	_
+9	from	ADP	6	prep	_
+10	military	ADJ	11	amod	_
+11	service	NOUN	9	pobj	_
+12	and	CCONJ	6	cc	_
+13	thus	ADV	14	advmod	_
+14	also	ADV	15	advmod	_
+15	from	ADP	4	prep	_
+16	"	PUNCT	20	punct	_
+17	compulsory	ADJ	20	amod	_
+18	"	PUNCT	20	punct	_
+19	community	NOUN	20	compound	_
+20	service	NOUN	15	pobj	_
+21	.	PUNCT	4	punct	_
+
+
+0	I	PRON	3	nsubj	_
+1	might	VERB	3	aux	_
+2	have	AUX	3	aux	_
+3	justfied	VERB	35	ccomp	_
+4	my	DET	5	poss	_
+5	behavior	NOUN	3	dobj	_
+6	by	ADP	3	prep	_
+7	saying	VERB	6	pcomp	_
+8	that	SCONJ	27	mark	_
+9	nowadays	ADV	11	advmod	_
+10	the	DET	11	det	_
+11	sense	NOUN	27	nsubjpass	_
+12	of	ADP	11	prep	_
+13	community	NOUN	12	pobj	_
+14	that	DET	15	nsubj	_
+15	used	VERB	11	relcl	_
+16	to	PART	17	aux	_
+17	animate	VERB	15	xcomp	_
+18	the	DET	19	det	_
+19	life	NOUN	17	dobj	_
+20	of	ADP	19	prep	_
+21	suburbia	PROPN	20	pobj	_
+22	and	CCONJ	21	cc	_
+23	countryside	NOUN	24	compound	_
+24	villages	NOUN	21	conj	_
+25	has	AUX	27	aux	_
+26	been	AUX	27	auxpass	_
+27	lost	VERB	7	ccomp	_
+28	;	PUNCT	35	punct	_
+29	that	SCONJ	35	nsubj	_
+30	work	NOUN	31	compound	_
+31	conditions	NOUN	35	nsubj	_
+32	and	CCONJ	31	cc	_
+33	habits	NOUN	31	conj	_
+34	have	AUX	35	aux	_
+35	changed	VERB	35	ROOT	_
+36	and	CCONJ	35	cc	_
+37	all	DET	38	advmod	_
+38	in	ADP	35	prep	_
+39	all	DET	40	det	_
+40	people	NOUN	38	pobj	_
+41	are	AUX	35	conj	_
+42	less	ADV	45	advmod	_
+43	and	CCONJ	42	cc	_
+44	less	ADV	42	conj	_
+45	tied	ADJ	41	acomp	_
+46	to	ADP	45	prep	_
+47	their	DET	49	poss	_
+48	own	ADJ	49	amod	_
+49	communities	NOUN	46	pobj	_
+50	.	PUNCT	35	punct	_
+
+
+0	They	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	and	CCONJ	1	cc	_
+3	act	VERB	1	conj	_
+4	global	ADJ	3	dobj	_
+5	.	PUNCT	1	punct	_
+6	
+
+	SPACE	5		_
+
+
+0	But	CCONJ	9	cc	_
+1	the	DET	2	det	_
+2	fact	NOUN	9	nsubj	_
+3	that	SCONJ	5	mark	_
+4	I	PRON	5	nsubj	_
+5	am	AUX	2	acl	_
+6	selfish	ADJ	5	acomp	_
+7	does	AUX	9	aux	_
+8	not	PART	9	neg	_
+9	imply	VERB	9	ROOT	_
+10	that	DET	12	mark	_
+11	so	ADV	12	advmod	_
+12	are	AUX	9	ccomp	_
+13	my	DET	15	poss	_
+14	fellow	ADJ	15	amod	_
+15	citizens	NOUN	12	nsubj	_
+16	of	ADP	15	prep	_
+17	the	DET	19	det	_
+18	same	ADJ	19	amod	_
+19	age	NOUN	16	pobj	_
+20	.	PUNCT	9	punct	_
+21	 	SPACE	20		_
+
+
+0	I	PRON	1	nsubj	_
+1	have	AUX	1	ROOT	_
+2	many	ADJ	3	amod	_
+3	friends	NOUN	1	dobj	_
+4	devoted	VERB	3	acl	_
+5	to	ADP	4	prep	_
+6	at	ADV	7	advmod	_
+7	least	ADV	8	advmod	_
+8	one	NUM	11	nummod	_
+9	community	NOUN	10	compound	_
+10	service	NOUN	11	compound	_
+11	activity	NOUN	5	pobj	_
+12	.	PUNCT	1	punct	_
+
+
+0	My	DET	3	poss	_
+1	best	ADJ	3	amod	_
+2	female	ADJ	3	amod	_
+3	friend	NOUN	5	nsubj	_
+4	has	AUX	5	aux	_
+5	been	AUX	14	ccomp	_
+6	active	ADJ	5	acomp	_
+7	in	ADP	6	prep	_
+8	the	DET	11	det	_
+9	emergency	NOUN	11	compound	_
+10	transport	NOUN	11	compound	_
+11	service	NOUN	7	pobj	_
+12	,	PUNCT	14	punct	_
+13	that	DET	14	nsubj	_
+14	brings	VERB	14	ROOT	_
+15	patients	NOUN	14	dobj	_
+16	to	ADP	14	dative	_
+17	emergency	NOUN	18	compound	_
+18	rooms	NOUN	16	pobj	_
+19	and	CCONJ	18	cc	_
+20	hospitals	NOUN	18	conj	_
+21	for	ADP	14	prep	_
+22	the	DET	25	det	_
+23	past	ADJ	25	amod	_
+24	five	NUM	25	nummod	_
+25	years	NOUN	21	pobj	_
+
+
+0	and	CCONJ	2	cc	_
+1	she	PRON	2	nsubj	_
+2	is	AUX	2	ROOT	_
+3	still	ADV	2	advmod	_
+4	on	ADP	2	prep	_
+5	duty	NOUN	4	pobj	_
+6	once	ADV	2	advmod	_
+7	a	DET	8	det	_
+8	week	NOUN	6	npadvmod	_
+9	every	DET	11	det	_
+10	thursday	PROPN	11	compound	_
+11	night	NOUN	8	npadvmod	_
+12	.	PUNCT	2	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	worth	ADJ	1	acomp	_
+3	to	PART	4	aux	_
+4	mention	VERB	2	xcomp	_
+5	that	SCONJ	12	mark	_
+6	in	ADP	12	prep	_
+7	Italy	PROPN	6	pobj	_
+8	this	DET	9	det	_
+9	service	NOUN	12	nsubjpass	_
+10	 	SPACE	9		_
+11	is	AUX	12	auxpass	_
+12	run	VERB	4	ccomp	_
+13	on	ADP	12	prep	_
+14	a	DET	16	det	_
+15	voluntary	ADJ	16	amod	_
+16	basis	NOUN	13	pobj	_
+17	.	PUNCT	1	punct	_
+18	
+
+	SPACE	17		_
+
+
+0	Finally	ADV	3	advmod	_
+1	one	PRON	3	nsubj	_
+2	can	VERB	3	aux	_
+3	extend	VERB	3	ROOT	_
+4	what	PRON	7	dobj	_
+5	I	PRON	7	nsubj	_
+6	have	AUX	7	aux	_
+7	mentioned	VERB	3	ccomp	_
+8	about	ADP	7	prep	_
+9	the	DET	10	det	_
+10	fading	NOUN	8	pobj	_
+11	of	ADP	10	prep	_
+12	local	ADJ	13	amod	_
+13	communities	NOUN	11	pobj	_
+14	and	CCONJ	7	cc	_
+15	claim	NOUN	7	conj	_
+16	that	SCONJ	20	mark	_
+17	the	DET	18	det	_
+18	young	ADJ	20	nsubj	_
+19	should	VERB	20	aux	_
+20	take	VERB	15	ccomp	_
+21	care	NOUN	20	dobj	_
+22	of	ADP	20	prep	_
+23	the	DET	25	det	_
+24	global	ADJ	25	amod	_
+25	communtiy	NOUN	22	pobj	_
+26	and	CCONJ	25	cc	_
+27	especially	ADV	30	advmod	_
+28	its	DET	30	poss	_
+29	poorest	ADJ	30	amod	_
+30	members	NOUN	25	conj	_
+31	.	PUNCT	3	punct	_
+
+
+0	More	ADJ	4	amod	_
+1	and	CCONJ	0	cc	_
+2	more	ADJ	0	conj	_
+3	young	ADJ	4	amod	_
+4	women	NOUN	9	nsubj	_
+5	and	CCONJ	4	cc	_
+6	men	NOUN	4	conj	_
+7	are	AUX	9	aux	_
+8	now	ADV	9	advmod	_
+9	spending	VERB	9	ROOT	_
+10	their	DET	11	poss	_
+11	holidays	NOUN	9	dobj	_
+12	in	ADP	9	prep	_
+13	non	ADJ	15	nmod	_
+14	governmental	ADJ	15	amod	_
+15	organizations	NOUN	12	pobj	_
+16	active	ADJ	15	amod	_
+17	in	ADP	16	prep	_
+18	the	DET	20	det	_
+19	poorest	ADJ	20	amod	_
+20	part	NOUN	17	pobj	_
+21	of	ADP	20	prep	_
+22	the	DET	23	det	_
+23	world	NOUN	21	pobj	_
+24	.	PUNCT	9	punct	_
+
+
+0	As	ADV	1	advmod	_
+1	far	ADV	9	advmod	_
+2	as	SCONJ	5	mark	_
+3	I	PRON	5	nsubjpass	_
+4	am	AUX	5	auxpass	_
+5	concerned	ADJ	1	advcl	_
+6	I	PRON	9	nsubj	_
+7	have	AUX	9	aux	_
+8	never	ADV	9	neg	_
+9	joined	VERB	9	ROOT	_
+10	these	DET	11	det	_
+11	programs	NOUN	9	dobj	_
+12	,	PUNCT	9	punct	_
+13	but	CCONJ	9	cc	_
+14	my	DET	15	poss	_
+15	sister	NOUN	21	nsubj	_
+16	and	CCONJ	15	cc	_
+17	some	DET	18	det	_
+18	frinds	NOUN	15	conj	_
+19	of	ADP	18	prep	_
+20	mine	NOUN	19	pobj	_
+21	did	AUX	9	conj	_
+22	last	ADJ	23	amod	_
+23	year	NOUN	21	npadvmod	_
+24	.	PUNCT	21	punct	_
+
+
+0	They	PRON	2	nsubj	_
+1	were	AUX	2	aux	_
+2	helping	VERB	2	ROOT	_
+3	in	ADP	2	prep	_
+4	a	DET	6	det	_
+5	small	ADJ	6	amod	_
+6	hospital	NOUN	3	pobj	_
+7	in	ADP	6	prep	_
+8	satellite	NOUN	9	compound	_
+9	town	NOUN	7	pobj	_
+10	of	ADP	9	prep	_
+11	Kolkata	PROPN	10	pobj	_
+12	,	PUNCT	11	punct	_
+13	India	PROPN	11	appos	_
+14	.	PUNCT	2	punct	_
+15	
+
+	SPACE	14		_
+
+
+0	So	ADV	0	ROOT	_
+1	,	PUNCT	0	punct	_
+2	hopefully	ADV	6	advmod	_
+3	,	PUNCT	6	punct	_
+4	the	DET	5	det	_
+5	picture	NOUN	6	nsubj	_
+6	is	AUX	1	intj	_
+7	not	PART	6	neg	_
+8	so	ADV	9	advmod	_
+9	bleak	ADJ	6	acomp	_
+10	,	PUNCT	6	punct	_
+11	at	ADP	12	advmod	_
+12	least	ADJ	14	advmod	_
+13	as	ADV	14	advmod	_
+14	long	ADV	6	advmod	_
+15	as	SCONJ	18	mark	_
+16	my	DET	17	poss	_
+17	friends	NOUN	18	nsubj	_
+18	persist	VERB	14	advcl	_
+19	in	ADP	18	prep	_
+20	their	DET	21	poss	_
+21	altruism	NOUN	19	pobj	_
+22	.	PUNCT	6	punct	_
+23	 
+	SPACE	22		_
+
+

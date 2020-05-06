@@ -1,0 +1,365 @@
+0	In	ADP	7	prep	_
+1	the	DET	2	det	_
+2	past	NOUN	0	pobj	_
+3	,	PUNCT	7	punct	_
+4	people	NOUN	7	nsubj	_
+5	was	AUX	7	aux	_
+6	not	PART	7	neg	_
+7	having	VERB	7	ROOT	_
+8	any	DET	9	det	_
+9	idea	NOUN	7	dobj	_
+10	about	ADP	9	prep	_
+11	advertisnment	NOUN	10	pobj	_
+12	,	PUNCT	7	punct	_
+13	but	CCONJ	7	cc	_
+14	today	NOUN	15	compound	_
+15	advertisment	ADJ	16	nsubj	_
+16	is	AUX	19	auxpass	_
+17	mostly	ADV	19	advmod	_
+18	 	SPACE	17		_
+19	provided	VERB	7	conj	_
+20	through	ADP	19	prep	_
+21	media	NOUN	20	pobj	_
+22	,	PUNCT	19	punct	_
+23	for	ADP	19	prep	_
+24	example	NOUN	23	pobj	_
+25	,	PUNCT	19	punct	_
+26	TV	NOUN	19	appos	_
+27	,	PUNCT	26	punct	_
+28	internet	NOUN	26	conj	_
+29	,	PUNCT	28	punct	_
+30	newspaper	NOUN	28	conj	_
+31	,	PUNCT	30	punct	_
+32	magazines	NOUN	30	conj	_
+33	and	CCONJ	32	cc	_
+34	radio	NOUN	32	conj	_
+35	.	PUNCT	19	punct	_
+
+
+0	Advertisment	PROPN	2	nsubjpass	_
+1	is	AUX	2	auxpass	_
+2	defined	VERB	2	ROOT	_
+3	as	SCONJ	2	prep	_
+4	giving	VERB	3	pcomp	_
+5	an	DET	6	det	_
+6	unknowncemt	PROPN	4	dobj	_
+7	to	ADP	4	dative	_
+8	the	DET	9	det	_
+9	people	NOUN	7	pobj	_
+10	by	ADP	4	prep	_
+11	motiviting	VERB	10	pcomp	_
+12	them	PRON	11	dobj	_
+13	to	PART	14	aux	_
+14	buy	VERB	11	xcomp	_
+15	,	PUNCT	10	punct	_
+16	or	CCONJ	10	cc	_
+17	to	PART	18	aux	_
+18	use	VERB	10	conj	_
+19	certine	NOUN	20	compound	_
+20	product	NOUN	18	dobj	_
+21	by	ADP	18	prep	_
+22	different	ADJ	24	amod	_
+23	attractive	ADJ	24	amod	_
+24	means	NOUN	21	pobj	_
+25	.	PUNCT	2	punct	_
+
+
+0	This	DET	1	det	_
+1	essay	NOUN	3	nsubj	_
+2	is	AUX	3	aux	_
+3	going	VERB	3	ROOT	_
+4	to	PART	5	aux	_
+5	explain	VERB	3	xcomp	_
+6	why	ADV	12	advmod	_
+7	most	ADJ	8	advmod	_
+8	advirtisment	NOUN	12	nsubj	_
+9	making	VERB	8	acl	_
+10	the	DET	11	det	_
+11	producte	NOUN	9	dobj	_
+12	seem	VERB	5	ccomp	_
+13	muh	NOUN	12	acomp	_
+14	better	ADV	12	oprd	_
+15	than	SCONJ	18	mark	_
+16	they	PRON	18	nsubj	_
+17	really	ADV	18	advmod	_
+18	are	AUX	14	advcl	_
+19	.	PUNCT	3	punct	_
+20	
+
+	SPACE	19		_
+
+
+0	Some	DET	1	det	_
+1	people	NOUN	2	nsubj	_
+2	believe	VERB	24	ccomp	_
+3	that	SCONJ	6	mark	_
+4	,	PUNCT	6	punct	_
+5	advertsmetn	PROPN	6	nsubj	_
+6	is	AUX	2	ccomp	_
+7	bad	ADJ	8	amod	_
+8	thing	NOUN	6	attr	_
+9	since	SCONJ	12	mark	_
+10	it	PRON	12	nsubj	_
+11	is	AUX	12	aux	_
+12	giving	VERB	6	advcl	_
+13	wrong	ADJ	14	amod	_
+14	information	NOUN	12	dobj	_
+15	about	ADP	14	prep	_
+16	the	DET	17	det	_
+17	product	NOUN	15	pobj	_
+18	,	PUNCT	24	punct	_
+19	.Moreover	PUNCT	24	npadvmod	_
+20	,	PUNCT	24	punct	_
+21	it	PRON	24	nsubj	_
+22	is	AUX	24	auxpass	_
+23	also	ADV	24	advmod	_
+24	make	VERB	24	ROOT	_
+25	people	NOUN	27	nsubj	_
+26	to	PART	27	aux	_
+27	buy	VERB	24	ccomp	_
+28	unnecessary	ADJ	29	amod	_
+29	things	NOUN	27	dobj	_
+30	 	SPACE	29		_
+31	.	PUNCT	24	punct	_
+
+
+0	Also	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	it	PRON	4	nsubj	_
+3	is	AUX	4	aux	_
+4	making	VERB	4	ROOT	_
+5	people	NOUN	7	nsubj	_
+6	to	PART	7	aux	_
+7	waste	VERB	4	ccomp	_
+8	their	DET	9	poss	_
+9	money	NOUN	7	dobj	_
+10	for	ADP	7	prep	_
+11	the	DET	12	det	_
+12	thing	NOUN	10	pobj	_
+13	which	DET	14	nsubj	_
+14	is	AUX	12	relcl	_
+15	no	DET	16	neg	_
+16	more	ADV	17	advmod	_
+17	good	ADJ	14	acomp	_
+18	.	PUNCT	4	punct	_
+19	 
+
+
+
+
+	SPACE	18		_
+
+
+0	Most	ADJ	4	nsubj	_
+1	of	ADP	0	prep	_
+2	the	DET	3	det	_
+3	people	NOUN	1	pobj	_
+4	thinks	VERB	4	ROOT	_
+5	that	SCONJ	7	mark	_
+6	advertisment	PROPN	7	nsubj	_
+7	is	AUX	4	ccomp	_
+8	useful	ADJ	7	acomp	_
+9	for	ADP	8	prep	_
+10	saling	VERB	9	pcomp	_
+11	the	DET	12	det	_
+12	product	NOUN	10	dobj	_
+13	and	CCONJ	12	cc	_
+14	the	DET	16	det	_
+15	maximum	ADJ	16	amod	_
+16	amount	NOUN	12	conj	_
+17	of	ADP	16	prep	_
+18	product	NOUN	17	pobj	_
+19	which	DET	21	nsubj	_
+20	can	VERB	21	aux	_
+21	give	VERB	16	relcl	_
+22	interest	NOUN	21	dobj	_
+23	to	ADP	21	dative	_
+24	the	DET	25	det	_
+25	seller	NOUN	23	pobj	_
+26	.	PUNCT	4	punct	_
+27	
+	SPACE	26		_
+
+
+0	Firstly	ADV	14	advmod	_
+1	,	PUNCT	14	punct	_
+2	if	SCONJ	6	mark	_
+3	advertisment	ADJ	6	nsubjpass	_
+4	was	AUX	6	auxpass	_
+5	not	PART	6	neg	_
+6	put	VERB	14	advcl	_
+7	for	ADP	6	prep	_
+8	certain	ADJ	9	amod	_
+9	product	NOUN	7	pobj	_
+10	,	PUNCT	14	punct	_
+11	people	NOUN	14	nsubj	_
+12	will	VERB	14	aux	_
+13	never	ADV	14	neg	_
+14	hear	VERB	20	ccomp	_
+15	about	ADP	14	prep	_
+16	it	PRON	15	pobj	_
+17	.Secondly	ADV	14	advmod	_
+18	,	PUNCT	20	punct	_
+19	it	PRON	20	nsubj	_
+20	orient	VERB	20	ROOT	_
+21	people	NOUN	20	dobj	_
+22	about	ADP	20	prep	_
+23	some	DET	24	det	_
+24	thing	NOUN	22	pobj	_
+25	which	DET	33	dobj	_
+26	 	SPACE	25		_
+27	they	PRON	30	nsubj	_
+28	do	AUX	30	aux	_
+29	nt	PART	30	neg	_
+30	know	VERB	24	relcl	_
+31	or	CCONJ	30	cc	_
+32	didn	PROPN	33	nsubj	_
+33	hear	VERB	30	conj	_
+34	about	ADP	33	prep	_
+35	it	PRON	34	pobj	_
+36	.	PUNCT	20	punct	_
+
+
+0	Thirdly	ADV	1	advmod	_
+1	advertisment	ADJ	4	advcl	_
+2	,	PUNCT	4	punct	_
+3	is	AUX	4	aux	_
+4	helping	VERB	4	ROOT	_
+5	people	NOUN	7	nsubj	_
+6	to	PART	7	aux	_
+7	get	AUX	4	ccomp	_
+8	what	PRON	11	dobj	_
+9	do	AUX	11	aux	_
+10	they	PRON	11	nsubj	_
+11	want	VERB	7	ccomp	_
+12	of	ADP	11	prep	_
+13	certine	NOUN	14	compound	_
+14	product	NOUN	12	pobj	_
+15	.	PUNCT	4	punct	_
+
+
+0	Forthly	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	it	PRON	4	nsubj	_
+3	is	AUX	4	aux	_
+4	giving	VERB	4	ROOT	_
+5	nice	ADJ	6	amod	_
+6	veiw	NOUN	4	dobj	_
+7	for	ADP	6	prep	_
+8	product	NOUN	7	pobj	_
+9	and	CCONJ	4	cc	_
+10	make	VERB	4	conj	_
+11	it	PRON	13	nsubj	_
+12	easy	ADJ	13	amod	_
+13	tobe	NOUN	14	nsubj	_
+14	saled	VERB	10	ccomp	_
+15	.In	PUNCT	14	punct	_
+
+
+0	addisition	PROPN	0	ROOT	_
+1	,	PUNCT	0	punct	_
+2	
+
+
+	SPACE	1		_
+
+
+0	In	ADP	4	prep	_
+1	summury	NOUN	0	pobj	_
+2	,	PUNCT	4	punct	_
+3	advertisments	NOUN	4	nsubj	_
+4	is	AUX	4	ROOT	_
+5	useful	ADJ	6	amod	_
+6	methods	NOUN	4	attr	_
+7	for	ADP	6	prep	_
+8	selling	VERB	7	pcomp	_
+9	goods	NOUN	8	dobj	_
+10	and	CCONJ	8	cc	_
+11	helping	VERB	8	conj	_
+12	people	NOUN	13	nsubj	_
+13	getting	VERB	11	ccomp	_
+14	what	PRON	17	dobj	_
+15	do	AUX	17	aux	_
+16	they	PRON	17	nsubj	_
+17	want	VERB	13	ccomp	_
+18	.In	PUNCT	4	punct	_
+
+
+0	the	DET	1	det	_
+1	future	NOUN	5	npadvmod	_
+2	,	PUNCT	5	punct	_
+3	people	NOUN	5	nsubj	_
+4	should	VERB	5	aux	_
+5	detect	VERB	5	ROOT	_
+6	new	ADJ	7	amod	_
+7	methods	NOUN	5	dobj	_
+8	of	ADP	7	prep	_
+9	introducing	VERB	8	pcomp	_
+10	or	CCONJ	9	cc	_
+11	markting	VERB	9	conj	_
+12	the	DET	13	det	_
+13	produt	NOUN	11	dobj	_
+14	 	SPACE	13		_
+15	and	CCONJ	11	cc	_
+16	sale	NOUN	11	conj	_
+17	it	PRON	16	dobj	_
+18	not	PART	20	preconj	_
+19	only	ADV	18	advmod	_
+20	in	ADP	16	prep	_
+21	one	NUM	22	nummod	_
+22	country	NOUN	20	pobj	_
+23	but	CCONJ	20	cc	_
+24	all	ADV	25	advmod	_
+25	over	ADP	20	conj	_
+26	the	DET	27	det	_
+27	world	NOUN	25	pobj	_
+28	.	PUNCT	5	punct	_
+
+
+0	It	PRON	2	nsubjpass	_
+1	is	AUX	2	auxpass	_
+2	recommanded	VERB	2	ROOT	_
+3	that	SCONJ	11	mark	_
+4	,	PUNCT	11	punct	_
+5	advirtsing	VERB	11	csubj	_
+6	through	ADP	5	prep	_
+7	different	ADJ	8	amod	_
+8	kind	NOUN	6	pobj	_
+9	of	ADP	8	prep	_
+10	media	NOUN	9	pobj	_
+11	is	AUX	2	ccomp	_
+12	really	ADV	13	advmod	_
+13	beneficial	ADJ	11	acomp	_
+14	for	ADP	13	prep	_
+15	trading	NOUN	14	pobj	_
+16	..	PUNCT	2	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	believe	VERB	1	ROOT	_
+2	that	SCONJ	14	mark	_
+3	,	PUNCT	14	punct	_
+4	unless	SCONJ	6	mark	_
+5	produt	NOUN	6	nsubj	_
+6	is	AUX	14	advcl	_
+7	good	ADJ	6	acomp	_
+8	,	PUNCT	14	punct	_
+9	the	DET	11	det	_
+10	markting	NOUN	11	compound	_
+11	service	NOUN	14	nsubj	_
+12	will	VERB	14	aux	_
+13	not	PART	14	neg	_
+14	make	VERB	1	ccomp	_
+15	it	PRON	17	nsubj	_
+16	to	PART	17	aux	_
+17	appear	VERB	14	ccomp	_
+18	better	ADJ	17	oprd	_
+19	than	SCONJ	22	mark	_
+20	they	PRON	22	nsubj	_
+21	really	ADV	22	advmod	_
+22	are	AUX	18	advcl	_
+23	.	PUNCT	1	punct	_
+24	
+	SPACE	23		_
+
+

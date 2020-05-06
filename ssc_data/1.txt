@@ -1,0 +1,438 @@
+0	The	DET	1	det	_
+1	idea	NOUN	24	nsubj	_
+2	that	SCONJ	8	mark	_
+3	young	ADJ	4	amod	_
+4	people	NOUN	8	nsubj	_
+5	nowadays	ADV	8	advmod	_
+6	do	AUX	8	aux	_
+7	not	PART	8	neg	_
+8	devote	VERB	1	acl	_
+9	enough	ADJ	10	amod	_
+10	time	NOUN	8	dobj	_
+11	,	PUNCT	8	punct	_
+12	and	CCONJ	8	cc	_
+13	thus	ADV	15	advmod	_
+14	have	AUX	15	aux	_
+15	become	VERB	8	conj	_
+16	less	ADV	17	advmod	_
+17	altrustic	ADJ	15	acomp	_
+18	towards	ADP	17	prep	_
+19	their	DET	20	poss	_
+20	communities	NOUN	18	pobj	_
+21	than	SCONJ	15	prep	_
+22	before	ADV	21	pcomp	_
+23	,	PUNCT	1	punct	_
+24	is	AUX	24	ROOT	_
+25	a	DET	27	det	_
+26	common	ADJ	27	amod	_
+27	mistake	NOUN	24	attr	_
+28	.	PUNCT	24	punct	_
+29	
+
+	SPACE	28		_
+
+
+0	This	DET	1	det	_
+1	idea	NOUN	2	nsubj	_
+2	comes	VERB	2	ROOT	_
+3	from	ADP	2	prep	_
+4	a	DET	7	det	_
+5	well	ADV	6	advmod	_
+6	known	VERB	7	amod	_
+7	process	NOUN	3	pobj	_
+8	which	DET	9	nsubj	_
+9	leads	VERB	7	relcl	_
+10	the	DET	11	det	_
+11	formation	NOUN	9	dobj	_
+12	of	ADP	11	prep	_
+13	several	ADJ	15	amod	_
+14	other	ADJ	15	amod	_
+15	prejudices	NOUN	12	pobj	_
+16	(	PUNCT	15	punct	_
+17	like	INTJ	15	intj	_
+18	,	PUNCT	17	punct	_
+19	for	ADP	15	prep	_
+20	example	NOUN	19	pobj	_
+21	,	PUNCT	15	punct	_
+22	the	DET	23	det	_
+23	idea	NOUN	15	appos	_
+24	that	SCONJ	28	mark	_
+25	home	NOUN	26	npadvmod	_
+26	made	VERB	27	amod	_
+27	products	NOUN	28	nsubj	_
+28	are	AUX	23	relcl	_
+29	always	ADV	28	advmod	_
+30	better	ADJ	28	acomp	_
+31	than	SCONJ	30	prep	_
+32	industrial	ADJ	33	amod	_
+33	ones	NOUN	31	pobj	_
+34	)	PUNCT	15	punct	_
+35	.	PUNCT	2	punct	_
+
+
+0	This	DET	1	det	_
+1	phenomenon	NOUN	16	nsubjpass	_
+2	,	PUNCT	1	punct	_
+3	which	DET	6	dobj	_
+4	I	PRON	6	nsubj	_
+5	would	VERB	6	aux	_
+6	call	VERB	1	relcl	_
+7	'	PUNCT	6	punct	_
+8	the	DET	9	det	_
+9	myth	NOUN	6	oprd	_
+10	of	ADP	9	prep	_
+11	old	ADJ	12	amod	_
+12	times	NOUN	10	pobj	_
+13	'	PUNCT	9	punct	_
+14	,	PUNCT	1	punct	_
+15	is	AUX	16	auxpass	_
+16	based	VERB	16	ROOT	_
+17	on	ADP	16	prep	_
+18	the	DET	20	det	_
+19	common	ADJ	20	amod	_
+20	perception	NOUN	17	pobj	_
+21	that	SCONJ	24	mark	_
+22	younger	ADJ	23	amod	_
+23	generations	NOUN	24	nsubj	_
+24	are	AUX	20	acl	_
+25	much	ADV	26	advmod	_
+26	more	ADV	27	advmod	_
+27	egoist	ADJ	24	acomp	_
+28	and	CCONJ	27	cc	_
+29	greedy	ADJ	27	conj	_
+30	than	SCONJ	27	prep	_
+31	older	ADJ	32	amod	_
+32	ones	NOUN	30	pobj	_
+33	.	PUNCT	16	punct	_
+34	
+	SPACE	33		_
+
+
+0	It	PRON	3	nsubjpass	_
+1	is	AUX	3	auxpass	_
+2	often	ADV	3	advmod	_
+3	thought	VERB	3	ROOT	_
+4	,	PUNCT	3	punct	_
+5	especially	ADV	6	advmod	_
+6	in	ADP	3	prep	_
+7	ageing	VERB	8	amod	_
+8	societies	NOUN	6	pobj	_
+9	,	PUNCT	3	punct	_
+10	like	SCONJ	3	prep	_
+11	in	ADP	10	prep	_
+12	our	DET	15	poss	_
+13	wealthy	ADJ	15	amod	_
+14	western	ADJ	15	amod	_
+15	nations	NOUN	11	pobj	_
+16	,	PUNCT	10	punct	_
+17	that	SCONJ	21	mark	_
+18	younger	ADJ	19	amod	_
+19	people	NOUN	21	nsubj	_
+20	intrinsically	ADV	21	advmod	_
+21	lack	VERB	3	ccomp	_
+22	values	NOUN	21	dobj	_
+23	,	PUNCT	21	punct	_
+24	and	CCONJ	21	cc	_
+25	for	ADP	30	prep	_
+26	this	DET	27	det	_
+27	reasons	NOUN	25	pobj	_
+28	do	AUX	30	aux	_
+29	not	PART	30	neg	_
+30	do	AUX	21	conj	_
+31	enough	NOUN	30	dobj	_
+32	for	ADP	30	prep	_
+33	their	DET	34	poss	_
+34	communities	NOUN	32	pobj	_
+35	.	PUNCT	30	punct	_
+36	
+
+	SPACE	35		_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	certainly	ADV	1	advmod	_
+3	true	ADJ	1	acomp	_
+4	that	SCONJ	7	mark	_
+5	there	PRON	7	expl	_
+6	has	AUX	7	aux	_
+7	been	AUX	1	ccomp	_
+8	an	DET	9	det	_
+9	evolution	NOUN	7	attr	_
+10	towards	ADP	9	prep	_
+11	societies	NOUN	10	pobj	_
+12	more	ADV	13	advmod	_
+13	based	VERB	11	acl	_
+14	on	ADP	13	prep	_
+15	individuals	NOUN	14	pobj	_
+16	and	CCONJ	7	cc	_
+17	it	PRON	18	nsubj	_
+18	is	AUX	7	conj	_
+19	also	ADV	18	advmod	_
+20	true	ADJ	18	acomp	_
+21	that	SCONJ	29	mark	_
+22	the	DET	24	det	_
+23	time	NOUN	24	compound	_
+24	shedule	NOUN	29	nsubj	_
+25	of	ADP	24	prep	_
+26	the	DET	27	det	_
+27	people	NOUN	25	pobj	_
+28	have	AUX	29	aux	_
+29	started	VERB	18	ccomp	_
+30	to	PART	33	aux	_
+31	be	AUX	33	auxpass	_
+32	impressingly	ADV	33	advmod	_
+33	filled	VERB	29	xcomp	_
+34	by	ADP	33	agent	_
+35	many	ADJ	36	amod	_
+36	activites	NOUN	34	pobj	_
+37	.	PUNCT	1	punct	_
+
+
+0	But	CCONJ	5	cc	_
+1	this	DET	5	nsubj	_
+2	does	AUX	5	aux	_
+3	not	PART	5	neg	_
+4	authomatically	ADV	5	advmod	_
+5	lead	VERB	5	ROOT	_
+6	to	ADP	5	prep	_
+7	the	DET	8	det	_
+8	statement	NOUN	6	pobj	_
+9	that	SCONJ	12	mark	_
+10	young	ADJ	11	amod	_
+11	people	NOUN	12	nsubj	_
+12	are	AUX	8	acl	_
+13	egoists	NOUN	12	attr	_
+14	towards	ADP	13	prep	_
+15	thier	ADJ	16	amod	_
+16	communities	NOUN	14	pobj	_
+17	.	PUNCT	5	punct	_
+18	
+	SPACE	17		_
+
+
+0	First	ADV	8	advmod	_
+1	,	PUNCT	8	punct	_
+2	this	DET	4	det	_
+3	increased	VERB	4	amod	_
+4	individualism	NOUN	8	nsubj	_
+5	and	CCONJ	4	cc	_
+6	time	NOUN	7	compound	_
+7	shortage	NOUN	4	conj	_
+8	applies	VERB	8	ROOT	_
+9	to	ADP	8	prep	_
+10	all	DET	13	predet	_
+11	the	DET	13	det	_
+12	age	NOUN	13	compound	_
+13	groups	NOUN	9	pobj	_
+14	in	ADP	8	prep	_
+15	an	DET	17	det	_
+16	equal	ADJ	17	amod	_
+17	manner	NOUN	14	pobj	_
+18	,	PUNCT	8	punct	_
+19	and	CCONJ	8	cc	_
+20	second	ADV	24	advmod	_
+21	,	PUNCT	24	punct	_
+22	nowadays	ADV	24	advmod	_
+23	communities	NOUN	24	nsubj	_
+24	have	AUX	8	conj	_
+25	much	ADV	26	advmod	_
+26	less	ADJ	27	amod	_
+27	needs	NOUN	24	dobj	_
+28	which	DET	31	nsubjpass	_
+29	must	VERB	31	aux	_
+30	be	AUX	31	auxpass	_
+31	satisfied	VERB	27	relcl	_
+32	by	ADP	31	agent	_
+33	the	DET	34	det	_
+34	commitment	NOUN	32	pobj	_
+35	of	ADP	34	prep	_
+36	young	ADJ	37	amod	_
+37	people	NOUN	35	pobj	_
+38	.	PUNCT	24	punct	_
+
+
+0	Examples	NOUN	4	nsubj	_
+1	of	ADP	0	prep	_
+2	this	DET	3	det	_
+3	type	NOUN	1	pobj	_
+4	are	AUX	4	ROOT	_
+5	elderly	ADJ	6	amod	_
+6	healthcare	NOUN	4	attr	_
+7	,	PUNCT	6	punct	_
+8	childcare	NOUN	6	conj	_
+9	,	PUNCT	8	punct	_
+10	and	CCONJ	8	cc	_
+11	a	DET	12	det	_
+12	lot	NOUN	8	conj	_
+13	o	NOUN	15	nmod	_
+14	small	ADJ	15	amod	_
+15	activities	NOUN	6	appos	_
+16	such	ADJ	17	amod	_
+17	as	SCONJ	15	prep	_
+18	taking	VERB	17	pcomp	_
+19	water	NOUN	18	dobj	_
+20	from	ADP	18	prep	_
+21	the	DET	22	det	_
+22	river	NOUN	20	pobj	_
+23	,	PUNCT	18	punct	_
+24	etc	X	25	compound	_
+25	etc	X	18	conj	_
+26	.	PUNCT	4	punct	_
+
+
+0	Therefore	ADV	1	advmod	_
+1	decreased	VERB	1	ROOT	_
+
+
+0	needs	NOUN	1	nsubj	_
+1	mean	VERB	1	ROOT	_
+2	decreased	VERB	3	amod	_
+3	needs	NOUN	1	dobj	_
+4	of	ADP	3	prep	_
+5	time	NOUN	4	pobj	_
+6	to	PART	7	aux	_
+7	devote	VERB	1	advcl	_
+8	.	PUNCT	1	punct	_
+9	
+
+	SPACE	8		_
+
+
+0	If	SCONJ	2	mark	_
+1	one	PRON	2	nsubj	_
+2	tries	VERB	12	advcl	_
+3	to	PART	5	aux	_
+4	honestly	ADV	5	advmod	_
+5	look	VERB	2	xcomp	_
+6	at	ADP	5	prep	_
+7	the	DET	8	det	_
+8	evidence	NOUN	6	pobj	_
+9	,	PUNCT	12	punct	_
+10	the	DET	11	det	_
+11	data	NOUN	12	nsubj	_
+12	suggests	VERB	12	ROOT	_
+13	that	SCONJ	20	mark	_
+14	the	DET	15	det	_
+15	commitment	NOUN	20	nsubj	_
+16	towards	ADP	15	prep	_
+17	volounteer	NOUN	18	compound	_
+18	organization	NOUN	16	pobj	_
+19	has	AUX	20	aux	_
+20	grown	VERB	12	ccomp	_
+21	steadily	ADV	20	advmod	_
+22	and	CCONJ	21	cc	_
+23	strongly	ADV	21	conj	_
+24	among	ADP	20	prep	_
+25	young	ADJ	26	amod	_
+26	people	NOUN	24	pobj	_
+27	in	ADP	20	prep	_
+28	the	DET	30	det	_
+29	last	ADJ	30	amod	_
+30	decades	NOUN	27	pobj	_
+31	.	PUNCT	12	punct	_
+32	
+	SPACE	31		_
+
+
+0	Nowadays	ADV	18	advmod	_
+1	,	PUNCT	18	punct	_
+2	the	DET	3	det	_
+3	work	NOUN	18	nsubj	_
+4	of	ADP	3	prep	_
+5	young	ADJ	6	amod	_
+6	people	NOUN	4	pobj	_
+7	for	ADP	3	prep	_
+8	their	DET	9	poss	_
+9	community	NOUN	7	pobj	_
+10	,	PUNCT	18	punct	_
+11	though	SCONJ	13	advmod	_
+12	certainly	ADV	13	advmod	_
+13	changed	VERB	18	advcl	_
+14	in	ADP	13	prep	_
+15	its	DET	16	poss	_
+16	organization	NOUN	14	pobj	_
+17	,	PUNCT	18	punct	_
+18	looks	VERB	18	ROOT	_
+19	much	ADV	20	advmod	_
+20	more	ADV	21	advmod	_
+21	effective	ADJ	18	acomp	_
+22	(	PUNCT	21	punct	_
+23	also	ADV	24	advmod	_
+24	due	ADJ	18	prep	_
+25	to	ADP	24	pcomp	_
+26	technological	ADJ	27	amod	_
+27	progress	NOUN	24	pobj	_
+28	)	PUNCT	24	punct	_
+29	and	CCONJ	24	cc	_
+30	genuinely	ADV	31	advmod	_
+31	driven	VERB	24	conj	_
+32	by	ADP	31	agent	_
+33	the	DET	34	det	_
+34	will	NOUN	32	pobj	_
+35	of	ADP	34	prep	_
+36	helping	VERB	35	pcomp	_
+37	other	ADJ	38	amod	_
+38	people	NOUN	36	dobj	_
+39	than	SCONJ	36	prep	_
+40	before	ADV	39	pcomp	_
+41	.	PUNCT	18	punct	_
+42	
+	SPACE	41		_
+
+
+0	There	PRON	1	expl	_
+1	are	AUX	1	ROOT	_
+2	thousands	NOUN	1	attr	_
+3	of	ADP	2	prep	_
+4	junior	ADJ	6	amod	_
+5	volounteering	VERB	6	amod	_
+6	groups	NOUN	3	pobj	_
+7	all	ADV	8	advmod	_
+8	across	ADP	6	prep	_
+9	United	PROPN	10	compound	_
+10	States	PROPN	8	pobj	_
+11	witnessing	VERB	2	acl	_
+12	this	DET	13	det	_
+13	fact	NOUN	11	dobj	_
+14	.	PUNCT	1	punct	_
+15	
+
+	SPACE	14		_
+
+
+0	For	ADP	6	prep	_
+1	these	DET	2	det	_
+2	reasons	NOUN	0	pobj	_
+3	,	PUNCT	6	punct	_
+4	I	PRON	6	nsubj	_
+5	strongly	ADV	6	advmod	_
+6	disagree	VERB	6	ROOT	_
+7	with	ADP	6	prep	_
+8	the	DET	9	det	_
+9	passage	NOUN	7	pobj	_
+
+
+0	and	CCONJ	2	cc	_
+1	I	PRON	2	nsubj	_
+2	believe	VERB	2	ROOT	_
+3	that	SCONJ	7	mark	_
+4	nowadays	ADV	7	advmod	_
+5	young	ADJ	6	amod	_
+6	people	NOUN	7	nsubj	_
+7	devote	VERB	2	ccomp	_
+8	quite	DET	11	predet	_
+9	a	DET	11	det	_
+10	reasonable	ADJ	11	amod	_
+11	amount	NOUN	7	dobj	_
+12	of	ADP	11	prep	_
+13	time	NOUN	12	pobj	_
+14	to	PART	15	aux	_
+15	help	VERB	7	advcl	_
+16	their	DET	17	poss	_
+17	communities	NOUN	15	dobj	_
+18	.	PUNCT	2	punct	_
+19	
+	SPACE	18		_
+
+

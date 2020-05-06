@@ -1,0 +1,327 @@
+0	Broad	ADJ	1	amod	_
+1	knowledge	NOUN	10	nsubj	_
+2	of	ADP	1	prep	_
+3	many	ADJ	5	amod	_
+4	academic	ADJ	5	amod	_
+5	subjects	NOUN	2	pobj	_
+6	than	SCONJ	10	mark	_
+7	one	NUM	9	nummod	_
+8	specific	ADJ	9	amod	_
+9	subject	NOUN	10	nsubj	_
+10	is	AUX	10	ROOT	_
+11	a	DET	13	det	_
+12	wonderful	ADJ	13	amod	_
+13	thing	NOUN	10	attr	_
+14	to	PART	15	aux	_
+15	have	AUX	13	relcl	_
+16	.	PUNCT	10	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	every	DET	3	det	_
+3	man	NOUN	5	poss	_
+4	's	PART	3	case	_
+5	dream	NOUN	1	attr	_
+
+
+0	but	CCONJ	3	cc	_
+1	I	PRON	3	nsubj	_
+2	totally	ADV	3	advmod	_
+3	disagree	VERB	3	ROOT	_
+4	.	PUNCT	3	punct	_
+5	
+
+	SPACE	4		_
+
+
+0	The	DET	1	det	_
+1	ability	NOUN	5	nsubj	_
+2	to	PART	3	aux	_
+3	memorize	VERB	1	acl	_
+4	things	NOUN	3	dobj	_
+5	is	AUX	5	ROOT	_
+6	a	DET	7	det	_
+7	gift	NOUN	5	attr	_
+8	from	ADP	7	prep	_
+9	god	PROPN	8	pobj	_
+10	,	PUNCT	5	punct	_
+11	and	CCONJ	5	cc	_
+12	it	PRON	13	nsubj	_
+13	differs	VERB	5	conj	_
+14	from	ADP	13	prep	_
+15	one	NUM	16	nummod	_
+16	person	NOUN	14	pobj	_
+17	to	ADP	13	prep	_
+18	another	DET	17	pobj	_
+19	.	PUNCT	13	punct	_
+
+
+0	Only	ADV	3	advmod	_
+1	a	DET	3	det	_
+2	small	ADJ	3	amod	_
+3	percentage	NOUN	9	nsubj	_
+4	of	ADP	3	prep	_
+5	people	NOUN	4	pobj	_
+6	in	ADP	5	prep	_
+7	the	DET	8	det	_
+8	world	NOUN	6	pobj	_
+9	are	AUX	30	ccomp	_
+10	capable	ADJ	9	acomp	_
+11	of	ADP	10	prep	_
+12	memorizing	VERB	11	pcomp	_
+13	information	NOUN	12	dobj	_
+14	of	ADP	13	prep	_
+15	multiple	ADJ	17	amod	_
+16	academic	ADJ	17	amod	_
+17	subjects	NOUN	14	pobj	_
+18	 	SPACE	17		_
+19	with	ADP	12	prep	_
+20	ease	NOUN	19	pobj	_
+21	,	PUNCT	12	punct	_
+22	the	DET	23	det	_
+23	others	NOUN	30	nsubj	_
+24	who	PRON	25	nsubj	_
+25	are	AUX	23	relcl	_
+26	the	DET	27	det	_
+27	majority	NOUN	25	attr	_
+28	ca	VERB	30	aux	_
+29	n't	PART	30	neg	_
+30	do	AUX	30	ROOT	_
+31	that	DET	32	det	_
+32	easially	ADV	30	dobj	_
+33	instead	ADV	35	advmod	_
+34	they	PRON	35	nsubj	_
+35	work	VERB	30	advcl	_
+36	harder	ADV	35	advmod	_
+37	and	CCONJ	35	cc	_
+38	read	VERB	35	conj	_
+39	for	ADP	38	prep	_
+40	longer	ADJ	41	amod	_
+41	hours	NOUN	39	pobj	_
+42	trying	VERB	41	acl	_
+43	to	PART	44	aux	_
+44	compensate	VERB	42	xcomp	_
+45	for	ADP	44	prep	_
+46	the	DET	47	det	_
+47	lack	NOUN	45	pobj	_
+48	of	ADP	47	prep	_
+49	this	DET	50	det	_
+50	ability	NOUN	48	pobj	_
+51	.	PUNCT	30	punct	_
+
+
+0	In	ADP	8	prep	_
+1	the	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	hand	NOUN	0	pobj	_
+4	the	DET	5	det	_
+5	majority	NOUN	8	nsubj	_
+6	of	ADP	5	prep	_
+7	people	NOUN	6	pobj	_
+8	are	AUX	8	ROOT	_
+9	capable	ADJ	8	acomp	_
+10	 	SPACE	9		_
+11	of	ADP	9	prep	_
+12	 	SPACE	11		_
+13	focusing	VERB	11	pobj	_
+14	or	CCONJ	13	cc	_
+15	specializing	VERB	13	conj	_
+16	in	ADP	15	prep	_
+17	one	NUM	19	nummod	_
+18	specific	ADJ	19	amod	_
+19	subject	NOUN	16	pobj	_
+20	which	DET	21	nsubj	_
+21	is	AUX	19	relcl	_
+22	again	ADV	21	advmod	_
+23	not	PART	21	neg	_
+24	an	DET	26	det	_
+25	easy	ADJ	26	amod	_
+26	task	NOUN	21	attr	_
+27	to	PART	28	aux	_
+28	do	AUX	26	relcl	_
+29	but	CCONJ	21	cc	_
+30	still	ADV	31	advmod	_
+31	without	ADP	21	conj	_
+32	doupt	ADJ	31	pobj	_
+33	much	ADV	34	advmod	_
+34	easier	ADJ	31	amod	_
+35	than	SCONJ	34	prep	_
+36	broad	ADJ	37	amod	_
+37	knowledge	NOUN	35	pobj	_
+38	of	ADP	37	prep	_
+39	many	ADJ	40	amod	_
+40	subjects	NOUN	38	pobj	_
+41	.	PUNCT	8	punct	_
+42	
+
+	SPACE	41		_
+
+
+0	Broad	ADJ	1	compound	_
+1	Knowledg	PROPN	5	nsubj	_
+2	of	ADP	1	prep	_
+3	multiple	ADJ	4	amod	_
+4	subjects	NOUN	2	pobj	_
+5	has	AUX	28	ccomp	_
+6	many	ADJ	7	amod	_
+7	disadvantages	NOUN	5	dobj	_
+8	,	PUNCT	5	punct	_
+9	apart	ADV	14	advmod	_
+10	from	ADP	9	prep	_
+11	being	AUX	10	pcomp	_
+12	difficult	ADJ	11	acomp	_
+13	,	PUNCT	14	punct	_
+14	chances	NOUN	28	nsubj	_
+15	to	PART	16	aux	_
+16	forget	VERB	14	xcomp	_
+17	things	NOUN	16	dobj	_
+18	,	PUNCT	14	punct	_
+19	make	VERB	14	conj	_
+20	mistakes	NOUN	19	dobj	_
+21	 	SPACE	20		_
+22	or	CCONJ	19	cc	_
+23	confuse	VERB	19	conj	_
+24	one	NUM	25	nummod	_
+25	thing	NOUN	23	dobj	_
+26	to	ADP	23	prep	_
+27	another	DET	26	pobj	_
+28	are	AUX	28	ROOT	_
+29	 	SPACE	28		_
+30	very	ADV	31	advmod	_
+31	high	ADV	28	acomp	_
+32	compared	VERB	28	prep	_
+33	to	ADP	32	prep	_
+34	specific	ADJ	36	amod	_
+35	subject	ADJ	36	amod	_
+36	knowledge	NOUN	33	pobj	_
+37	.	PUNCT	28	punct	_
+
+
+0	In	ADP	7	prep	_
+1	the	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	hand	NOUN	0	pobj	_
+4	,	PUNCT	7	punct	_
+5	specific	ADJ	6	amod	_
+6	knowledge	NOUN	7	nsubj	_
+7	is	AUX	7	ROOT	_
+8	easy	ADJ	7	acomp	_
+9	to	PART	10	aux	_
+10	maintain	VERB	8	xcomp	_
+11	,	PUNCT	7	punct	_
+12	low	ADJ	13	amod	_
+13	chances	NOUN	18	nsubj	_
+14	of	ADP	13	prep	_
+15	error	NOUN	14	pobj	_
+16	and	CCONJ	15	cc	_
+17	perfection	NOUN	15	conj	_
+18	is	AUX	7	conj	_
+19	easy	ADJ	18	acomp	_
+20	to	PART	21	aux	_
+21	achieve	VERB	19	xcomp	_
+22	.	PUNCT	18	punct	_
+23	
+
+	SPACE	22		_
+
+
+0	I	PRON	1	nsubj	_
+1	admit	VERB	1	ROOT	_
+2	that	SCONJ	5	mark	_
+3	specific	ADJ	4	amod	_
+4	knowledge	NOUN	5	nsubj	_
+5	has	AUX	1	ccomp	_
+6	some	DET	7	det	_
+7	disadvantages	NOUN	5	dobj	_
+8	too	ADV	5	advmod	_
+9	,	PUNCT	5	punct	_
+10	like	SCONJ	5	prep	_
+11	being	AUX	10	pcomp	_
+12	boring	VERB	11	acomp	_
+13	sometimes	ADV	11	advmod	_
+14	and	CCONJ	11	cc	_
+15	if	SCONJ	17	mark	_
+16	you	PRON	17	nsubj	_
+17	do	AUX	11	conj	_
+18	a	DET	19	det	_
+19	mistake	NOUN	17	dobj	_
+20	you	PRON	24	nsubjpass	_
+21	will	VERB	24	aux	_
+22	be	AUX	24	auxpass	_
+23	badly	ADV	24	advmod	_
+24	blamed	VERB	10	pcomp	_
+25	.	PUNCT	1	punct	_
+26	
+
+	SPACE	25		_
+
+
+0	In	ADP	11	prep	_
+1	the	DET	2	det	_
+2	end	NOUN	0	pobj	_
+3	,	PUNCT	11	punct	_
+4	choosing	VERB	11	csubj	_
+5	between	ADP	4	prep	_
+6	the	DET	8	det	_
+7	two	NUM	8	nummod	_
+8	kinds	NOUN	5	pobj	_
+9	of	ADP	8	prep	_
+10	knowledge	NOUN	9	pobj	_
+11	depends	VERB	11	ROOT	_
+12	on	ADP	11	prep	_
+13	the	DET	14	det	_
+14	person	NOUN	16	poss	_
+15	's	PART	14	case	_
+16	capability	NOUN	12	pobj	_
+17	and	CCONJ	16	cc	_
+18	interest	NOUN	16	conj	_
+19	.	PUNCT	11	punct	_
+
+
+0	Both	DET	1	nsubj	_
+1	are	AUX	1	ROOT	_
+2	really	ADV	3	advmod	_
+3	good	ADJ	1	acomp	_
+4	and	CCONJ	3	cc	_
+5	helpful	ADJ	3	conj	_
+6	to	ADP	5	prep	_
+7	the	DET	8	det	_
+8	world	NOUN	6	pobj	_
+9	we	PRON	11	nsubj	_
+10	are	AUX	11	aux	_
+11	living	VERB	1	conj	_
+12	in	ADP	11	advmod	_
+13	.	PUNCT	11	punct	_
+
+
+0	But	CCONJ	2	cc	_
+1	i	PRON	2	nsubj	_
+2	am	AUX	2	ROOT	_
+3	sure	ADJ	2	acomp	_
+4	that	SCONJ	6	mark	_
+5	I	PRON	6	nsubj	_
+6	am	AUX	3	ccomp	_
+7	not	PART	6	neg	_
+8	capable	ADJ	6	acomp	_
+9	of	ADP	8	prep	_
+10	general	ADJ	11	amod	_
+11	knowledge	NOUN	9	pobj	_
+
+
+0	and	CCONJ	2	cc	_
+1	i	PRON	2	nsubj	_
+2	'd	VERB	5	aux	_
+3	rather	ADV	5	advmod	_
+4	to	PART	5	aux	_
+5	sepcialize	VERB	5	ROOT	_
+6	in	ADP	5	prep	_
+7	one	NUM	9	nummod	_
+8	specific	ADJ	9	amod	_
+9	subject	NOUN	6	pobj	_
+10	.	PUNCT	5	punct	_
+11	
+
+	SPACE	10		_
+
+

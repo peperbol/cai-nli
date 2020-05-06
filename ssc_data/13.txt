@@ -1,0 +1,440 @@
+0			SPACE	1		_
+1	Althogh	PROPN	5	npadvmod	_
+2	,	PUNCT	5	punct	_
+3	some	DET	4	det	_
+4	people	NOUN	5	nsubj	_
+5	think	VERB	5	ROOT	_
+6	that	SCONJ	8	mark	_
+7	students	NOUN	8	nsubj	_
+8	need	VERB	5	ccomp	_
+9	only	ADV	8	advmod	_
+10	to	PART	11	aux	_
+11	learn	VERB	8	xcomp	_
+12	the	DET	13	det	_
+13	facts	NOUN	11	dobj	_
+14	,	PUNCT	18	punct	_
+15	I	PRON	18	nsubj	_
+16	totally	ADV	18	advmod	_
+17	to	PART	18	aux	_
+18	agree	VERB	5	ccomp	_
+19	with	ADP	18	prep	_
+20	understanding	VERB	19	pcomp	_
+21	the	DET	22	det	_
+22	concept	NOUN	20	dobj	_
+23	and	CCONJ	22	cc	_
+24	the	DET	25	det	_
+25	ideas	NOUN	22	conj	_
+26	.	PUNCT	5	punct	_
+
+
+0	There	PRON	1	expl	_
+1	are	AUX	1	ROOT	_
+2	many	ADJ	3	amod	_
+3	reasons	NOUN	1	attr	_
+4	for	ADP	7	prep	_
+5	which	DET	4	pobj	_
+6	students	NOUN	7	nsubj	_
+7	need	VERB	3	relcl	_
+8	to	PART	9	aux	_
+9	understand	VERB	7	xcomp	_
+10	the	DET	12	det	_
+11	basic	ADJ	12	amod	_
+12	idea	NOUN	9	dobj	_
+13	.	PUNCT	1	punct	_
+14	
+
+		SPACE	13		_
+
+
+0	One	NUM	4	nsubj	_
+1	of	ADP	0	prep	_
+2	the	DET	3	det	_
+3	reasons	NOUN	1	pobj	_
+4	is	AUX	4	ROOT	_
+5	that	SCONJ	10	mark	_
+6	the	DET	7	det	_
+7	students	NOUN	10	nsubj	_
+8	will	VERB	10	aux	_
+9	only	ADV	10	advmod	_
+10	use	VERB	4	ccomp	_
+11	the	DET	12	det	_
+12	concept	NOUN	10	dobj	_
+13	and	CCONJ	12	cc	_
+14	the	DET	15	det	_
+15	ideas	NOUN	12	conj	_
+16	from	ADP	21	prep	_
+17	which	DET	16	pobj	_
+18	they	PRON	21	nsubjpass	_
+19	have	AUX	21	aux	_
+20	been	AUX	21	auxpass	_
+21	taught	VERB	15	relcl	_
+22	.	PUNCT	4	punct	_
+23	 	SPACE	22		_
+
+
+0	Understanding	VERB	0	ROOT	_
+1	the	DET	2	det	_
+2	concept	NOUN	3	nsubj	_
+3	is	AUX	0	ccomp	_
+4	more	ADV	5	advmod	_
+5	important	ADJ	3	acomp	_
+6	than	SCONJ	5	prep	_
+7	the	DET	8	det	_
+8	facts	NOUN	6	pobj	_
+9	in	ADP	8	prep	_
+10	that	SCONJ	15	mark	_
+11	the	DET	12	det	_
+12	concept	NOUN	15	nsubjpass	_
+13	can	VERB	15	aux	_
+14	be	AUX	15	auxpass	_
+15	involved	VERB	3	ccomp	_
+16	in	ADP	15	prep	_
+17	any	DET	19	det	_
+18	suitable	ADJ	19	amod	_
+19	application	NOUN	16	pobj	_
+20	.	PUNCT	3	punct	_
+
+
+0	For	ADP	11	prep	_
+1	example	NOUN	0	pobj	_
+2	,	PUNCT	11	punct	_
+3	a	DET	4	det	_
+4	student	NOUN	11	nsubj	_
+5	in	ADP	4	prep	_
+6	a	DET	8	det	_
+7	physics	NOUN	8	compound	_
+8	class	NOUN	5	pobj	_
+9	will	VERB	11	aux	_
+10	propably	ADV	11	advmod	_
+11	need	VERB	11	ROOT	_
+12	to	PART	13	aux	_
+13	understand	VERB	11	xcomp	_
+14	the	DET	15	det	_
+15	formula	NOUN	13	dobj	_
+16	before	ADP	21	mark	_
+17	he	PRON	21	nsubj	_
+18	or	CCONJ	17	cc	_
+19	she	PRON	17	conj	_
+20	wil	VERB	21	aux	_
+21	be	AUX	13	advcl	_
+22	able	ADJ	21	acomp	_
+23	to	PART	24	aux	_
+24	solve	VERB	22	xcomp	_
+25	the	DET	26	det	_
+26	problems	NOUN	24	dobj	_
+27	.	PUNCT	11	punct	_
+28	
+
+
+		SPACE	27		_
+
+
+0	Another	DET	1	det	_
+1	reason	NOUN	2	nsubj	_
+2	is	AUX	2	ROOT	_
+3	that	SCONJ	12	mark	_
+4	when	ADV	7	advmod	_
+5	the	DET	6	det	_
+6	students	NOUN	7	nsubj	_
+7	learn	VERB	12	advcl	_
+8	some	DET	9	det	_
+9	facts	NOUN	7	dobj	_
+10	,	PUNCT	12	punct	_
+11	it	PRON	12	nsubj	_
+12	is	AUX	2	ccomp	_
+13	easy	ADJ	12	acomp	_
+14	to	PART	15	aux	_
+15	forget	VERB	12	xcomp	_
+16	them	PRON	15	dobj	_
+17	.	PUNCT	2	punct	_
+
+
+0	This	DET	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	beacuse	NOUN	1	attr	_
+3	they	PRON	4	nsubj	_
+4	need	VERB	2	relcl	_
+5	to	PART	7	aux	_
+6	be	AUX	7	auxpass	_
+7	memorized	VERB	4	xcomp	_
+8	.	PUNCT	1	punct	_
+
+
+0	Also	ADV	12	advmod	_
+1	,	PUNCT	12	punct	_
+2	every	DET	3	det	_
+3	information	NOUN	12	nsubjpass	_
+4	that	DET	6	nsubjpass	_
+5	is	AUX	6	auxpass	_
+6	stored	VERB	3	relcl	_
+7	in	ADP	6	prep	_
+8	the	DET	9	det	_
+9	brain	NOUN	7	pobj	_
+10	can	VERB	12	aux	_
+11	be	AUX	12	auxpass	_
+12	lost	VERB	12	ROOT	_
+13	if	SCONJ	17	mark	_
+14	it	PRON	17	nsubjpass	_
+15	is	AUX	17	auxpass	_
+16	not	PART	17	neg	_
+17	used	VERB	12	advcl	_
+18	repeatedly	ADV	17	advmod	_
+19	.	PUNCT	12	punct	_
+
+
+0	Therefore	ADV	3	advmod	_
+1	,	PUNCT	3	punct	_
+2	understanding	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	much	ADV	5	advmod	_
+5	easier	ADJ	3	acomp	_
+6	than	SCONJ	5	prep	_
+7	memorizing	VERB	6	pcomp	_
+8	.	PUNCT	3	punct	_
+9	
+
+		SPACE	8		_
+
+
+0	An	DET	2	det	_
+1	Aditional	ADJ	2	amod	_
+2	reason	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	that	SCONJ	6	mark	_
+5	understanding	NOUN	6	nsubj	_
+6	is	AUX	3	ccomp	_
+7	more	ADV	8	advmod	_
+8	effective	ADJ	6	acomp	_
+9	in	ADP	8	prep	_
+10	developing	VERB	9	pcomp	_
+11	new	ADJ	12	amod	_
+12	thing	NOUN	10	dobj	_
+13	than	SCONJ	12	prep	_
+14	learning	NOUN	13	pcomp	_
+15	facts	NOUN	14	dobj	_
+16	.	PUNCT	3	punct	_
+
+
+0	To	PART	1	aux	_
+1	illustrate	VERB	4	advcl	_
+2	that	SCONJ	4	mark	_
+3	,	PUNCT	4	punct	_
+4	supposed	VERB	4	ROOT	_
+5	a	DET	6	det	_
+6	student	NOUN	4	dobj	_
+7	in	ADP	6	prep	_
+8	a	DET	10	det	_
+9	physics	NOUN	10	compound	_
+10	college	NOUN	7	pobj	_
+11	tried	VERB	4	ccomp	_
+12	to	PART	13	aux	_
+13	memorize	VERB	11	xcomp	_
+14	the	DET	15	det	_
+15	content	NOUN	13	dobj	_
+16	of	ADP	15	prep	_
+17	the	DET	18	det	_
+18	course	NOUN	16	pobj	_
+19	without	ADP	13	prep	_
+20	giving	VERB	19	pcomp	_
+21	any	DET	22	det	_
+22	care	NOUN	20	dobj	_
+23	to	ADP	20	prep	_
+24	understanding	VERB	23	pcomp	_
+25	it	PRON	24	dobj	_
+26	.	PUNCT	4	punct	_
+
+
+0	The	DET	1	det	_
+1	student	NOUN	4	nsubj	_
+2	surely	ADV	4	advmod	_
+3	will	VERB	4	aux	_
+4	find	VERB	4	ROOT	_
+5	a	DET	6	det	_
+6	lot	NOUN	4	dobj	_
+7	of	ADP	6	prep	_
+8	troubles	NOUN	7	pobj	_
+9	in	ADP	4	prep	_
+10	his	DET	11	poss	_
+11	life	NOUN	9	pobj	_
+12	if	SCONJ	16	mark	_
+13	he	PRON	16	nsubj	_
+14	or	CCONJ	13	cc	_
+15	she	PRON	13	conj	_
+16	tries	VERB	4	advcl	_
+17	to	PART	18	aux	_
+18	prove	VERB	16	xcomp	_
+19	a	DET	21	det	_
+20	new	ADJ	21	amod	_
+21	theory	NOUN	22	nsubj	_
+22	realtive	ADJ	18	ccomp	_
+23	to	ADP	22	prep	_
+24	the	DET	25	det	_
+25	information	NOUN	23	pobj	_
+26	that	DET	29	nsubjpass	_
+27	have	AUX	29	aux	_
+28	been	AUX	29	auxpass	_
+29	taught	VERB	25	relcl	_
+30	.	PUNCT	4	punct	_
+
+
+0	Hence	ADV	16	advmod	_
+1	,	PUNCT	16	punct	_
+2	If	SCONJ	5	mark	_
+3	the	DET	4	det	_
+4	student	NOUN	5	nsubj	_
+5	understood	VERB	16	advcl	_
+6	the	DET	7	det	_
+7	courses	NOUN	5	dobj	_
+8	without	ADP	5	prep	_
+9	memorizing	VERB	8	pcomp	_
+10	the	DET	11	det	_
+11	content	NOUN	9	dobj	_
+12	,	PUNCT	16	punct	_
+13	the	DET	14	det	_
+14	student	NOUN	16	nsubj	_
+15	will	VERB	16	aux	_
+16	be	AUX	16	ROOT	_
+17	able	ADJ	18	amod	_
+18	comperhend	NOUN	16	attr	_
+19	with	ADP	18	prep	_
+20	the	DET	22	det	_
+21	life	NOUN	22	compound	_
+22	challenges	NOUN	19	pobj	_
+23	.	PUNCT	16	punct	_
+24	
+
+		SPACE	23		_
+
+
+0	One	NUM	2	nummod	_
+1	final	ADJ	2	amod	_
+2	reason	NOUN	3	nsubj	_
+3	is	AUX	3	ROOT	_
+4	that	SCONJ	8	mark	_
+5	facts	NOUN	8	nsubj	_
+6	does	AUX	8	aux	_
+7	not	PART	8	neg	_
+8	provide	VERB	3	ccomp	_
+9	any	DET	10	det	_
+10	thinking	NOUN	8	dobj	_
+11	.	PUNCT	3	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	either	CCONJ	3	preconj	_
+3	right	ADJ	1	acomp	_
+4	or	CCONJ	3	cc	_
+5	wrong	NOUN	3	conj	_
+6	.	PUNCT	1	punct	_
+
+
+0	On	ADP	0	ROOT	_
+1	the	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	hand	NOUN	0	pobj	_
+4	,	PUNCT	0	punct	_
+5	understanding	VERB	4	intj	_
+6	the	DET	7	det	_
+7	concept	NOUN	10	nsubjpass	_
+8	can	VERB	10	aux	_
+9	be	AUX	10	auxpass	_
+10	duplicated	VERB	5	ccomp	_
+11	to	PART	12	aux	_
+12	obtain	VERB	10	advcl	_
+13	some	DET	16	det	_
+14	other	ADJ	16	amod	_
+15	new	ADJ	16	amod	_
+16	concepts	NOUN	12	dobj	_
+17	.	PUNCT	5	punct	_
+
+
+0	For	ADP	16	prep	_
+1	example	NOUN	0	pobj	_
+2	,	PUNCT	16	punct	_
+3	the	DET	4	det	_
+4	conflict	NOUN	16	nsubjpass	_
+5	between	ADP	4	prep	_
+6	the	DET	7	det	_
+7	relativity	NOUN	5	pobj	_
+8	and	CCONJ	7	cc	_
+9	the	DET	10	det	_
+10	laws	NOUN	7	conj	_
+11	of	ADP	10	prep	_
+12	motions	NOUN	11	pobj	_
+13	can	VERB	16	aux	_
+14	not	PART	16	neg	_
+15	be	AUX	16	auxpass	_
+16	solved	VERB	16	ROOT	_
+17	unless	SCONJ	22	mark	_
+18	both	DET	22	nsubjpass	_
+19	of	ADP	18	prep	_
+20	them	PRON	19	pobj	_
+21	are	AUX	22	auxpass	_
+22	understood	VERB	16	advcl	_
+23	.	PUNCT	16	punct	_
+
+
+0	Once	SCONJ	4	mark	_
+1	the	DET	2	det	_
+2	concept	NOUN	4	nsubjpass	_
+3	is	AUX	4	auxpass	_
+4	understood	VERB	14	advcl	_
+5	,	PUNCT	14	punct	_
+6	the	DET	7	det	_
+7	solution	NOUN	14	nsubjpass	_
+8	for	ADP	7	prep	_
+9	such	DET	11	predet	_
+10	a	DET	11	det	_
+11	conflict	NOUN	8	pobj	_
+12	can	VERB	14	aux	_
+13	be	AUX	14	auxpass	_
+14	solved	VERB	14	ROOT	_
+15	.	PUNCT	14	punct	_
+
+
+0	Which	DET	1	nsubj	_
+1	gave	VERB	1	ROOT	_
+2	rise	NOUN	1	dobj	_
+3	into	ADP	1	prep	_
+4	a	DET	6	det	_
+5	new	ADJ	6	amod	_
+6	concept	NOUN	3	pobj	_
+7	called	VERB	6	acl	_
+8	"	PUNCT	11	punct	_
+9	The	DET	11	det	_
+10	String	PROPN	11	compound	_
+11	Theory	PROPN	7	oprd	_
+12	"	PUNCT	11	punct	_
+13	.	PUNCT	1	punct	_
+14	
+
+		SPACE	13		_
+
+
+0	In	ADP	6	prep	_
+1	conclusion	NOUN	0	pobj	_
+2	,	PUNCT	6	punct	_
+3	understanding	VERB	6	csubj	_
+4	the	DET	5	det	_
+5	ideas	NOUN	3	dobj	_
+6	is	AUX	6	ROOT	_
+7	much	ADV	8	advmod	_
+8	easier	ADJ	6	acomp	_
+9	than	SCONJ	8	prep	_
+10	just	ADV	11	advmod	_
+11	memorizing	VERB	9	pcomp	_
+12	the	DET	13	det	_
+13	facts	NOUN	11	dobj	_
+14	that	DET	15	nsubj	_
+15	are	AUX	13	relcl	_
+16	concret	ADJ	15	acomp	_
+17	and	CCONJ	16	cc	_
+18	non	ADJ	19	dep	_
+19	-	ADJ	20	dep	_
+20	negotiable	ADJ	16	conj	_
+21	.	PUNCT	6	punct	_
+22	
+	SPACE	21		_
+
+

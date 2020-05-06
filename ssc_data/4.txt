@@ -1,0 +1,338 @@
+0	While	SCONJ	2	mark	_
+1	I	PRON	2	nsubj	_
+2	was	AUX	6	advcl	_
+3	in	ADP	2	prep	_
+4	school	NOUN	3	pobj	_
+5	I	PRON	6	nsubj	_
+6	was	AUX	6	ROOT	_
+7	very	ADV	8	advmod	_
+8	unhappy	ADJ	6	acomp	_
+9	when	ADV	11	advmod	_
+10	its	DET	11	poss	_
+11	time	NOUN	6	advcl	_
+12	to	PART	13	aux	_
+13	learn	VERB	11	relcl	_
+14	the	DET	15	det	_
+15	fact	NOUN	13	dobj	_
+16	and	CCONJ	13	cc	_
+17	memorize	VERB	13	conj	_
+18	them	PRON	17	dobj	_
+19	because	SCONJ	22	mark	_
+20	I	PRON	22	nsubj	_
+21	was	AUX	22	aux	_
+22	having	VERB	17	advcl	_
+23	more	ADJ	24	amod	_
+24	fun	NOUN	22	dobj	_
+25	when	ADV	26	advmod	_
+26	trying	VERB	22	advcl	_
+27	to	PART	28	aux	_
+28	understand	VERB	26	xcomp	_
+29	 	SPACE	28		_
+30	the	DET	31	det	_
+31	ideas	NOUN	28	dobj	_
+32	and	CCONJ	31	cc	_
+33	concepts	NOUN	31	conj	_
+34	.	PUNCT	6	punct	_
+
+
+0	I	PRON	2	nsubj	_
+1	still	ADV	2	advmod	_
+2	believe	VERB	2	ROOT	_
+3	on	ADP	2	prep	_
+4	the	DET	6	det	_
+5	same	ADJ	6	amod	_
+6	way	NOUN	3	pobj	_
+7	.	PUNCT	2	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	that	SCONJ	7	mark	_
+3	trying	VERB	7	csubj	_
+4	to	PART	5	aux	_
+5	understand	VERB	3	xcomp	_
+6	ideas	NOUN	5	dobj	_
+7	makes	VERB	1	ccomp	_
+8	you	PRON	9	nsubj	_
+9	think	VERB	7	ccomp	_
+10	on	ADP	9	prep	_
+11	it	PRON	10	pobj	_
+12	more	ADV	9	advmod	_
+13	and	CCONJ	7	cc	_
+14	you	PRON	15	nsubj	_
+15	learn	VERB	7	conj	_
+16	easier	ADJ	15	acomp	_
+17	.	PUNCT	1	punct	_
+
+
+0	In	ADP	9	prep	_
+1	an	DET	3	det	_
+2	other	ADJ	3	amod	_
+3	way	NOUN	0	pobj	_
+4	the	DET	5	det	_
+5	things	NOUN	9	nsubj	_
+6	you	PRON	8	nsubj	_
+7	have	AUX	8	aux	_
+8	learned	VERB	5	relcl	_
+9	keep	VERB	9	ROOT	_
+10	in	ADP	9	prep	_
+11	your	DET	12	poss	_
+12	mind	NOUN	10	pobj	_
+13	in	ADP	9	prep	_
+14	a	DET	16	det	_
+15	longer	ADJ	16	amod	_
+16	period	NOUN	13	pobj	_
+17	of	ADP	16	prep	_
+18	time	NOUN	17	pobj	_
+19	when	ADV	21	advmod	_
+20	you	PRON	21	nsubj	_
+21	try	VERB	9	advcl	_
+22	to	PART	23	aux	_
+23	understand	VERB	21	xcomp	_
+24	the	DET	25	det	_
+25	idea	NOUN	23	dobj	_
+26	or	CCONJ	25	cc	_
+27	concept	NOUN	25	conj	_
+28	.	PUNCT	9	punct	_
+29	
+
+	SPACE	28		_
+
+
+0	When	ADV	3	advmod	_
+1	you	PRON	3	nsubj	_
+2	just	ADV	3	advmod	_
+3	try	VERB	3	ROOT	_
+4	to	PART	5	aux	_
+5	memorize	VERB	3	xcomp	_
+6	the	DET	7	det	_
+7	facts	NOUN	5	dobj	_
+8	and	CCONJ	5	cc	_
+9	do	AUX	11	aux	_
+10	not	PART	11	neg	_
+11	pay	VERB	5	conj	_
+12	attentinon	PROPN	11	dobj	_
+13	to	ADP	11	prep	_
+14	the	DET	15	det	_
+15	understand	VERB	13	pobj	_
+16	its	DET	17	poss	_
+17	concept	NOUN	15	dobj	_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	its	DET	3	nsubj	_
+3	like	SCONJ	1	ccomp	_
+4	being	AUX	3	pcomp	_
+5	a	DET	7	det	_
+6	car	NOUN	7	compound	_
+7	engineer	NOUN	4	attr	_
+8	who	PRON	10	nsubj	_
+9	never	ADV	10	neg	_
+10	seen	VERB	7	relcl	_
+11	a	DET	12	det	_
+12	car	NOUN	10	dobj	_
+13	.	PUNCT	1	punct	_
+
+
+0	A	DET	2	det	_
+1	car	NOUN	2	compound	_
+2	engineer	NOUN	4	nsubj	_
+3	can	VERB	4	aux	_
+4	know	VERB	4	ROOT	_
+5	any	DET	7	det	_
+6	technical	ADJ	7	amod	_
+7	detail	NOUN	4	dobj	_
+8	about	ADP	7	prep	_
+9	a	DET	10	det	_
+10	car	NOUN	12	poss	_
+11	's	PART	10	case	_
+12	mechanic	NOUN	8	pobj	_
+13	but	CCONJ	4	cc	_
+14	if	SCONJ	18	mark	_
+15	he	PRON	18	nsubj	_
+16	had	AUX	18	aux	_
+17	never	ADV	18	neg	_
+18	seen	VERB	4	conj	_
+19	a	DET	20	det	_
+20	car	NOUN	18	dobj	_
+21	he	PRON	24	nsubj	_
+22	would	VERB	24	aux	_
+23	not	PART	24	neg	_
+24	understand	VERB	20	relcl	_
+25	the	DET	24	dobj	_
+26	what	PRON	29	pobj	_
+27	it	PRON	28	nsubj	_
+28	is	AUX	24	ccomp	_
+29	for	ADP	28	prep	_
+30	and	CCONJ	28	cc	_
+31	how	ADV	34	advmod	_
+32	it	PRON	34	nsubj	_
+33	is	AUX	34	aux	_
+34	working	VERB	28	conj	_
+35	.	PUNCT	4	punct	_
+36	 
+
+	SPACE	35		_
+
+
+0	I	PRON	1	nsubj	_
+1	had	AUX	1	ROOT	_
+2	two	NUM	5	nummod	_
+3	different	ADJ	5	amod	_
+4	history	NOUN	5	compound	_
+5	teahers	NOUN	1	dobj	_
+6	in	ADP	5	prep	_
+7	high	ADJ	8	amod	_
+8	school	NOUN	6	pobj	_
+9	,	PUNCT	5	punct	_
+10	the	DET	11	det	_
+11	one	NOUN	5	appos	_
+12	I	PRON	13	nsubj	_
+13	had	AUX	11	relcl	_
+14	in	ADP	13	prep	_
+15	second	ADJ	16	amod	_
+16	class	NOUN	14	pobj	_
+17	was	AUX	19	auxpass	_
+18	always	ADV	19	advmod	_
+19	want	VERB	11	relcl	_
+20	us	PRON	22	nsubj	_
+21	to	PART	22	aux	_
+22	memorize	VERB	19	ccomp	_
+23	and	CCONJ	22	cc	_
+24	learn	VERB	22	conj	_
+25	the	DET	26	det	_
+26	facts	NOUN	24	dobj	_
+27	.	PUNCT	1	punct	_
+
+
+0	The	DET	2	det	_
+1	history	NOUN	2	compound	_
+2	teacher	NOUN	8	nsubj	_
+3	I	PRON	4	nsubj	_
+4	had	AUX	2	relcl	_
+5	in	ADP	4	prep	_
+6	third	ADJ	7	amod	_
+7	class	NOUN	5	pobj	_
+8	wants	VERB	8	ROOT	_
+9	us	PRON	12	nsubj	_
+10	just	ADV	12	advmod	_
+11	to	PART	12	aux	_
+12	understand	VERB	8	ccomp	_
+13	the	DET	14	det	_
+14	ideas	NOUN	12	dobj	_
+15	,	PUNCT	12	punct	_
+16	like	SCONJ	28	prep	_
+17	why	ADV	20	advmod	_
+18	the	DET	19	det	_
+19	wars	NOUN	20	nsubj	_
+20	begin	VERB	16	pcomp	_
+21	istead	NOUN	20	advmod	_
+22	of	ADP	21	prep	_
+23	when	ADV	22	pobj	_
+24	did	AUX	28	aux	_
+25	a	DET	27	det	_
+26	specific	ADJ	27	amod	_
+27	war	NOUN	28	nsubj	_
+28	begin	VERB	12	advcl	_
+29	.	PUNCT	8	punct	_
+
+
+0	I	PRON	2	nsubj	_
+1	still	ADV	2	advmod	_
+2	remember	VERB	2	ROOT	_
+3	the	DET	4	det	_
+4	things	NOUN	2	dobj	_
+5	i	PRON	7	nsubj	_
+6	had	AUX	7	aux	_
+7	learned	VERB	4	relcl	_
+8	in	ADP	7	prep	_
+9	3rd	ADJ	10	amod	_
+10	class	NOUN	8	pobj	_
+11	but	CCONJ	2	cc	_
+12	still	ADV	13	advmod	_
+13	have	AUX	2	conj	_
+14	nothing	PRON	13	dobj	_
+15	in	ADP	13	prep	_
+16	mind	NOUN	15	pobj	_
+17	from	ADP	13	prep	_
+18	the	DET	19	det	_
+19	facts	NOUN	17	pobj	_
+20	that	DET	23	dobj	_
+21	i	PRON	23	nsubj	_
+22	had	AUX	23	aux	_
+23	memorised	VERB	19	relcl	_
+24	during	ADP	23	prep	_
+25	second	ADJ	26	amod	_
+26	class	NOUN	24	pobj	_
+27	.	PUNCT	2	punct	_
+28	
+
+	SPACE	27		_
+
+
+0	As	SCONJ	17	prep	_
+1	a	DET	2	det	_
+2	conclusion	NOUN	0	pobj	_
+3	,	PUNCT	17	punct	_
+4	the	DET	5	det	_
+5	reason	NOUN	17	nsubj	_
+6	that	SCONJ	7	nsubj	_
+7	trying	VERB	5	relcl	_
+8	to	PART	9	aux	_
+9	understant	VERB	7	xcomp	_
+10	the	DET	11	det	_
+11	ideas	NOUN	9	dobj	_
+12	instead	ADV	13	advmod	_
+13	of	ADP	9	cc	_
+14	learing	VERB	9	xcomp	_
+15	the	DET	16	det	_
+16	facts	NOUN	14	dobj	_
+17	makes	VERB	29	advcl	_
+18	you	PRON	19	nsubj	_
+19	think	VERB	17	ccomp	_
+20	more	ADV	19	advmod	_
+21	and	CCONJ	19	cc	_
+22	help	VERB	19	conj	_
+23	you	PRON	25	nsubj	_
+24	to	PART	25	aux	_
+25	understand	VERB	22	ccomp	_
+26	more	ADJ	25	dobj	_
+27	,	PUNCT	29	punct	_
+28	I	PRON	29	nsubj	_
+29	think	VERB	29	ROOT	_
+30	it	PRON	31	nsubj	_
+31	is	AUX	29	ccomp	_
+32	more	ADV	33	advmod	_
+33	important	ADJ	31	acomp	_
+34	for	ADP	33	prep	_
+35	me	PRON	34	pobj	_
+36	and	CCONJ	33	cc	_
+37	most	ADJ	42	nsubj	_
+38	of	ADP	37	prep	_
+39	the	DET	40	det	_
+40	students	NOUN	38	pobj	_
+41	to	PART	42	aux	_
+42	try	VERB	33	conj	_
+43	to	PART	44	aux	_
+44	understand	VERB	42	xcomp	_
+45	it	PRON	44	dobj	_
+46	.	PUNCT	29	punct	_
+
+
+0	In	ADP	6	prep	_
+1	add'ition	PROPN	0	pobj	_
+2	the	DET	3	det	_
+3	thing	NOUN	6	nsubj	_
+4	you	PRON	5	nsubj	_
+5	understand	VERB	3	relcl	_
+6	stay	VERB	6	ROOT	_
+7	in	ADP	6	prep	_
+8	your	DET	9	poss	_
+9	mind	NOUN	7	pobj	_
+10	longer	ADV	6	advmod	_
+11	.	PUNCT	6	punct	_
+12	
+	SPACE	11		_
+
+

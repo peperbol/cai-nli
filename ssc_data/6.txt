@@ -1,0 +1,477 @@
+0	Traffic	NOUN	25	dep	_
+1	,	PUNCT	0	punct	_
+2	a	DET	4	det	_
+3	rapid	ADJ	4	amod	_
+4	increase	NOUN	0	appos	_
+5	in	ADP	4	prep	_
+6	fuel	NOUN	7	compound	_
+7	price	NOUN	5	pobj	_
+8	and	CCONJ	7	cc	_
+9	its	DET	10	poss	_
+10	scarcity	NOUN	7	conj	_
+11	,	PUNCT	10	punct	_
+12	pollution	NOUN	10	conj	_
+13	and	CCONJ	12	cc	_
+14	the	DET	17	det	_
+15	related	ADJ	17	amod	_
+16	environmental	ADJ	17	amod	_
+17	threats	NOUN	12	conj	_
+18	,	PUNCT	0	punct	_
+19	the	DET	20	det	_
+20	number	NOUN	0	appos	_
+21	of	ADP	20	prep	_
+22	accident	NOUN	21	pobj	_
+23	:	PUNCT	25	punct	_
+24	they	PRON	25	nsubj	_
+25	are	AUX	25	ROOT	_
+26	all	DET	25	advmod	_
+27	elements	NOUN	25	attr	_
+28	that	DET	31	nsubj	_
+29	probably	ADV	31	advmod	_
+30	will	VERB	31	aux	_
+31	lead	VERB	27	relcl	_
+32	in	ADP	31	prep	_
+33	the	DET	35	det	_
+34	next	ADJ	35	amod	_
+35	future	NOUN	32	pobj	_
+36	to	ADP	31	prep	_
+37	a	DET	39	det	_
+38	sharp	ADJ	39	amod	_
+39	decrease	NOUN	36	pobj	_
+40	in	ADP	39	prep	_
+41	the	DET	42	det	_
+42	number	NOUN	40	pobj	_
+43	of	ADP	42	prep	_
+44	cars	NOUN	43	pobj	_
+45	.	PUNCT	25	punct	_
+46	
+	SPACE	45		_
+
+
+0	As	SCONJ	9	mark	_
+1	many	ADJ	2	amod	_
+2	people	NOUN	0	pobj	_
+3	,	PUNCT	9	punct	_
+4	and	CCONJ	9	cc	_
+5	in	ADP	9	prep	_
+6	particular	ADJ	5	amod	_
+7	the	DET	9	det	_
+8	car	NOUN	9	compound	_
+9	industry	NOUN	12	nsubj	_
+10	,	PUNCT	12	punct	_
+11	may	VERB	12	aux	_
+12	think	VERB	28	ccomp	_
+13	that	SCONJ	21	mark	_
+14	,	PUNCT	21	punct	_
+15	on	ADP	21	prep	_
+16	the	DET	17	det	_
+17	contrary	NOUN	15	pobj	_
+18	,	PUNCT	21	punct	_
+19	cars	NOUN	21	nsubj	_
+20	will	VERB	21	aux	_
+21	continue	VERB	12	ccomp	_
+22	to	PART	25	aux	_
+23	be	AUX	25	auxpass	_
+24	increasingly	ADV	25	advmod	_
+25	used	VERB	21	xcomp	_
+26	,	PUNCT	28	punct	_
+27	I	PRON	28	nsubj	_
+28	am	AUX	28	ROOT	_
+29	confident	ADJ	28	acomp	_
+30	new	ADJ	31	amod	_
+31	solutions	NOUN	34	nsubjpass	_
+32	will	VERB	34	aux	_
+33	be	AUX	34	auxpass	_
+34	applied	VERB	29	ccomp	_
+35	.	PUNCT	28	punct	_
+36	
+
+	SPACE	35		_
+
+
+0	It	PRON	1	nsubj	_
+1	has	AUX	1	ROOT	_
+2	to	PART	4	aux	_
+3	be	AUX	4	auxpass	_
+4	said	VERB	1	xcomp	_
+5	that	SCONJ	19	mark	_
+6	the	DET	9	det	_
+7	modern	ADJ	9	amod	_
+8	public	ADJ	9	amod	_
+9	services	NOUN	19	nsubj	_
+10	,	PUNCT	19	punct	_
+11	with	ADP	19	prep	_
+12	regard	NOUN	11	pobj	_
+13	to	ADP	12	prep	_
+14	ways	NOUN	13	pobj	_
+15	of	ADP	14	prep	_
+16	transport	NOUN	15	pobj	_
+17	offered	VERB	16	acl	_
+18	,	PUNCT	19	punct	_
+19	have	AUX	4	ccomp	_
+20	a	DET	22	det	_
+21	better	ADJ	22	amod	_
+22	quality	NOUN	19	dobj	_
+23	than	SCONJ	22	prep	_
+24	the	DET	26	det	_
+25	past	ADJ	26	amod	_
+26	years	NOUN	23	pobj	_
+27	.	PUNCT	1	punct	_
+
+
+0	Trains	NOUN	5	nsubj	_
+1	and	CCONJ	0	cc	_
+2	subways	NOUN	0	conj	_
+3	can	VERB	5	aux	_
+4	now	ADV	5	advmod	_
+5	considered	VERB	5	ROOT	_
+6	a	DET	8	det	_
+7	reliable	ADJ	8	amod	_
+8	way	NOUN	5	oprd	_
+9	to	PART	10	aux	_
+10	move	VERB	8	relcl	_
+11	from	ADP	10	prep	_
+12	a	DET	13	det	_
+13	place	NOUN	11	pobj	_
+14	to	ADP	10	prep	_
+15	another	DET	14	pobj	_
+16	,	PUNCT	5	punct	_
+17	with	ADP	5	prep	_
+18	no	DET	19	det	_
+19	risk	NOUN	17	pobj	_
+20	to	PART	21	aux	_
+21	get	AUX	19	acl	_
+22	there	ADV	21	advmod	_
+23	later	ADV	21	advmod	_
+24	.	PUNCT	5	punct	_
+
+
+0	Traffic	NOUN	1	compound	_
+1	jam	NOUN	5	nsubj	_
+2	,	PUNCT	5	punct	_
+3	instead	ADV	5	advmod	_
+4	,	PUNCT	5	punct	_
+5	is	AUX	23	ccomp	_
+6	the	DET	8	det	_
+7	first	ADJ	8	amod	_
+8	reason	NOUN	5	attr	_
+9	for	ADP	12	mark	_
+10	people	NOUN	12	nsubj	_
+11	to	PART	12	aux	_
+12	be	AUX	8	relcl	_
+13	late	ADJ	12	acomp	_
+14	and	CCONJ	12	cc	_
+15	to	PART	16	aux	_
+16	increase	VERB	12	conj	_
+17	their	DET	19	poss	_
+18	daily	ADJ	19	amod	_
+19	stress	NOUN	16	dobj	_
+20	:	PUNCT	23	punct	_
+21	this	DET	22	det	_
+22	situation	NOUN	23	nsubj	_
+23	is	AUX	23	ROOT	_
+24	the	DET	26	det	_
+25	main	ADJ	26	amod	_
+26	reason	NOUN	23	attr	_
+27	for	ADP	30	mark	_
+28	people	NOUN	30	nsubj	_
+29	to	PART	30	aux	_
+30	let	VERB	26	relcl	_
+31	their	DET	32	poss	_
+32	cars	NOUN	33	nsubj	_
+33	parked	VERB	30	ccomp	_
+34	.	PUNCT	23	punct	_
+35	
+
+	SPACE	34		_
+
+
+0	Using	VERB	2	csubj	_
+1	cars	NOUN	0	dobj	_
+2	is	AUX	2	ROOT	_
+3	also	ADV	2	advmod	_
+4	not	PART	2	neg	_
+5	convenient	ADJ	2	acomp	_
+6	,	PUNCT	2	punct	_
+7	from	ADP	2	prep	_
+8	an	DET	10	det	_
+9	economic	ADJ	10	amod	_
+10	point	NOUN	7	pobj	_
+11	of	ADP	10	prep	_
+12	view	NOUN	11	pobj	_
+13	.	PUNCT	2	punct	_
+
+
+0	Today	NOUN	12	npadvmod	_
+1	,	PUNCT	12	punct	_
+2	fel	NOUN	3	compound	_
+3	costs	NOUN	12	nsubj	_
+4	,	PUNCT	3	punct	_
+5	which	DET	6	nsubj	_
+6	increase	VERB	3	relcl	_
+7	at	ADP	6	prep	_
+8	a	DET	10	det	_
+9	pace	NOUN	10	compound	_
+10	rate	NOUN	7	pobj	_
+11	,	PUNCT	3	punct	_
+12	has	AUX	12	ROOT	_
+13	a	DET	15	det	_
+14	negative	ADJ	15	amod	_
+15	impact	NOUN	12	dobj	_
+16	on	ADP	15	prep	_
+17	a	DET	19	det	_
+18	family	NOUN	19	compound	_
+19	income	NOUN	16	pobj	_
+20	.	PUNCT	12	punct	_
+
+
+0	I	PRON	2	nsubj	_
+1	can	VERB	2	aux	_
+2	handle	VERB	2	ROOT	_
+3	my	DET	5	poss	_
+4	personal	ADJ	5	amod	_
+5	experience	NOUN	2	dobj	_
+6	.	PUNCT	2	punct	_
+
+
+0	My	DET	1	poss	_
+1	parents	NOUN	6	nsubj	_
+2	,	PUNCT	6	punct	_
+3	for	ADP	6	prep	_
+4	example	NOUN	3	pobj	_
+5	,	PUNCT	6	punct	_
+6	decided	VERB	6	ROOT	_
+7	to	PART	8	aux	_
+8	reduce	VERB	6	xcomp	_
+9	the	DET	10	det	_
+10	times	NOUN	8	dobj	_
+11	they	PRON	12	nsubj	_
+12	use	VERB	10	relcl	_
+13	the	DET	14	det	_
+14	car	NOUN	12	dobj	_
+15	to	PART	16	aux	_
+16	move	VERB	12	xcomp	_
+17	,	PUNCT	8	punct	_
+18	or	CCONJ	8	cc	_
+19	,	PUNCT	24	punct	_
+20	at	ADP	21	advmod	_
+21	least	ADJ	24	advmod	_
+22	,	PUNCT	24	punct	_
+23	they	PRON	24	nsubj	_
+24	try	VERB	8	conj	_
+25	to	PART	26	aux	_
+26	combine	VERB	24	xcomp	_
+27	their	DET	29	poss	_
+28	different	ADJ	29	amod	_
+29	necessities	NOUN	26	dobj	_
+30	going	VERB	29	acl	_
+31	out	ADV	30	prt	_
+32	together	ADV	30	advmod	_
+33	,	PUNCT	26	punct	_
+34	in	ADP	26	prep	_
+35	order	NOUN	34	pobj	_
+36	to	PART	37	aux	_
+37	save	VERB	35	acl	_
+38	fuel	NOUN	37	dobj	_
+39	.	PUNCT	6	punct	_
+40	
+
+	SPACE	39		_
+
+
+0	Moreover	ADV	5	advmod	_
+1	,	PUNCT	5	punct	_
+2	is	AUX	5	auxpass	_
+3	has	AUX	5	aux	_
+4	been	AUX	5	auxpass	_
+5	proved	VERB	5	ROOT	_
+6	that	SCONJ	8	det	_
+7	air	NOUN	8	compound	_
+8	pollution	NOUN	15	nsubj	_
+9	,	PUNCT	8	punct	_
+10	due	ADP	8	prep	_
+11	to	ADP	10	pcomp	_
+12	cars-	ADJ	13	compound	_
+13	emissions	NOUN	10	pobj	_
+14	,	PUNCT	8	punct	_
+15	is	AUX	5	ccomp	_
+16	the	DET	18	det	_
+17	first	ADJ	18	amod	_
+18	cause	NOUN	15	attr	_
+19	of	ADP	18	prep	_
+20	breath	NOUN	21	compound	_
+21	diseases	NOUN	19	pobj	_
+22	,	PUNCT	15	punct	_
+23	even	ADV	24	advmod	_
+24	in	ADP	15	prep	_
+25	young	ADJ	26	amod	_
+26	people	NOUN	24	pobj	_
+27	.	PUNCT	5	punct	_
+
+
+0	To	PART	1	aux	_
+1	contrast	VERB	13	advcl	_
+2	the	DET	4	det	_
+3	indiscriminate	ADJ	4	compound	_
+4	use	NOUN	1	dobj	_
+5	of	ADP	4	prep	_
+6	cars	NOUN	5	pobj	_
+7	,	PUNCT	4	punct	_
+8	many	ADJ	11	amod	_
+9	 	SPACE	8		_
+10	Italian	ADJ	11	amod	_
+11	municipalities	NOUN	4	appos	_
+12	,	PUNCT	13	punct	_
+13	decided	VERB	13	ROOT	_
+14	to	PART	15	aux	_
+15	prevent	VERB	13	xcomp	_
+16	cars	NOUN	15	dobj	_
+17	from	ADP	15	prep	_
+18	moving	VERB	17	pcomp	_
+19	in	ADP	18	prep	_
+20	periods	NOUN	19	pobj	_
+21	when	ADV	24	advmod	_
+22	wheather	NOUN	23	compound	_
+23	conditions	NOUN	24	nsubj	_
+24	worsen	VERB	18	advcl	_
+25	the	DET	26	det	_
+26	concentration	NOUN	24	dobj	_
+27	of	ADP	26	prep	_
+28	dangerous	ADJ	29	amod	_
+29	pariculates	NOUN	27	pobj	_
+30	in	ADP	29	prep	_
+31	the	DET	32	det	_
+32	air	NOUN	30	pobj	_
+33	.	PUNCT	13	punct	_
+
+
+0	And	CCONJ	16	cc	_
+1	connected	VERB	16	advcl	_
+2	to	ADP	1	prep	_
+3	this	DET	2	pobj	_
+4	,	PUNCT	16	punct	_
+5	somewhere	ADV	6	advmod	_
+6	fees	NOUN	16	nsubjpass	_
+7	to	ADP	6	prep	_
+8	 	SPACE	7		_
+9	car	NOUN	10	compound	_
+10	entrance	NOUN	7	pobj	_
+11	in	ADP	10	prep	_
+12	the	DET	13	det	_
+13	cities	NOUN	11	pobj	_
+14	have	AUX	16	aux	_
+15	been	AUX	16	auxpass	_
+16	introduced	VERB	16	ROOT	_
+17	.	PUNCT	16	punct	_
+18	
+
+	SPACE	17		_
+
+
+0	For	ADP	6	prep	_
+1	all	DET	3	predet	_
+2	these	DET	3	det	_
+3	reason	NOUN	0	pobj	_
+4	,	PUNCT	6	punct	_
+5	I	PRON	6	nsubj	_
+6	am	AUX	6	ROOT	_
+7	confident	ADJ	6	acomp	_
+8	that	SCONJ	20	mark	_
+9	in	ADP	20	prep	_
+10	the	DET	12	det	_
+11	following	VERB	12	amod	_
+12	years	NOUN	9	pobj	_
+13	,	PUNCT	20	punct	_
+14	an	DET	16	det	_
+15	increasing	VERB	16	amod	_
+16	number	NOUN	20	nsubj	_
+17	of	ADP	16	prep	_
+18	people	NOUN	17	pobj	_
+19	will	VERB	20	aux	_
+20	be	AUX	7	ccomp	_
+21	more	ADV	22	advmod	_
+22	aware	ADJ	20	acomp	_
+23	 	SPACE	22		_
+24	of	ADP	22	prep	_
+25	the	DET	27	det	_
+26	positive	ADJ	27	amod	_
+27	outcome	NOUN	24	pobj	_
+28	in	ADP	27	prep	_
+29	not	PART	30	neg	_
+30	using	VERB	28	pcomp	_
+31	cars	NOUN	30	dobj	_
+32	and	CCONJ	20	cc	_
+33	,	PUNCT	20	punct	_
+34	as	SCONJ	20	prep	_
+35	a	DET	36	det	_
+36	consequence	NOUN	34	pobj	_
+37	,	PUNCT	41	punct	_
+38	their	DET	39	poss	_
+39	sale	NOUN	41	nsubj	_
+40	will	VERB	41	aux	_
+41	be	AUX	20	conj	_
+42	lower	ADJ	41	acomp	_
+43	.	PUNCT	6	punct	_
+44	 	SPACE	43		_
+
+
+0	When	ADV	7	advmod	_
+1	the	DET	2	det	_
+2	number	NOUN	7	nsubjpass	_
+3	of	ADP	2	prep	_
+4	cars	NOUN	3	pobj	_
+5	will	VERB	7	aux	_
+6	be	AUX	7	auxpass	_
+7	reduced	VERB	11	advcl	_
+8	,	PUNCT	11	punct	_
+9	we	PRON	11	nsubj	_
+10	all	DET	9	appos	_
+11	feel	VERB	11	ROOT	_
+12	healthy	ADJ	11	acomp	_
+13	(	PUNCT	11	punct	_
+14	as	SCONJ	17	mark	_
+15	bikes	NOUN	17	nsubj	_
+16	will	VERB	17	aux	_
+17	outspread	VERB	11	advcl	_
+18	in	ADP	17	prep	_
+19	our	DET	20	poss	_
+20	cities	NOUN	18	pobj	_
+21	with	ADP	17	prep	_
+22	no	DET	23	det	_
+23	consequences	NOUN	21	pobj	_
+24	for	ADP	23	prep	_
+25	the	DET	26	det	_
+26	environment	NOUN	24	pobj	_
+27	)	PUNCT	17	punct	_
+28	,	PUNCT	17	punct	_
+29	happy	ADJ	17	advcl	_
+30	with	ADP	29	prep	_
+31	the	DET	32	det	_
+32	money	NOUN	30	pobj	_
+33	saved	VERB	32	acl	_
+34	we	PRON	36	nsubj	_
+35	would	VERB	36	aux	_
+36	buy	VERB	29	ccomp	_
+37	thing	NOUN	36	dobj	_
+38	more	ADV	39	advmod	_
+39	useful	ADJ	36	advcl	_
+40	and	CCONJ	39	cc	_
+41	confident	ADJ	39	conj	_
+42	that	SCONJ	44	mark	_
+43	it	PRON	44	nsubj	_
+44	was	AUX	41	ccomp	_
+45	the	DET	47	det	_
+46	right	ADJ	47	amod	_
+47	thing	NOUN	44	attr	_
+48	to	PART	49	aux	_
+49	do	AUX	47	relcl	_
+50	.	PUNCT	11	punct	_
+51	
+
+
+
+
+
+	SPACE	50		_
+
+

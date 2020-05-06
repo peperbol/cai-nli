@@ -1,0 +1,343 @@
+0	I	PRON	2	nsubjpass	_
+1	am	AUX	2	auxpass	_
+2	agree	VERB	2	ROOT	_
+3	with	ADP	2	prep	_
+4	this	DET	5	det	_
+5	statement	NOUN	3	pobj	_
+6	because	SCONJ	19	mark	_
+7	if	SCONJ	10	mark	_
+8	a	DET	9	det	_
+9	student	NOUN	10	nsubj	_
+10	understand	VERB	19	advcl	_
+11	ideas	NOUN	10	dobj	_
+12	and	CCONJ	11	cc	_
+13	concepts	NOUN	11	conj	_
+14	using	VERB	10	advcl	_
+15	analizing	VERB	16	amod	_
+16	facts	NOUN	14	dobj	_
+17	he	PRON	19	nsubj	_
+18	can	VERB	19	aux	_
+19	reach	VERB	2	advcl	_
+20	quickly	ADV	19	advmod	_
+21	the	DET	22	det	_
+22	learn	NOUN	19	dobj	_
+23	of	ADP	22	prep	_
+24	the	DET	25	det	_
+25	facts	NOUN	23	pobj	_
+26	.	PUNCT	2	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	these	DET	3	nsubj	_
+3	are	AUX	1	ccomp	_
+4	two	NUM	6	nummod	_
+5	different	ADJ	6	amod	_
+6	way	NOUN	3	attr	_
+7	of	ADP	6	prep	_
+8	compreantion	NOUN	7	pobj	_
+9	but	CCONJ	3	cc	_
+10	a	DET	11	det	_
+11	student	NOUN	13	nsubj	_
+12	can	VERB	13	aux	_
+13	choose	VERB	3	conj	_
+14	the	DET	15	det	_
+15	one	NOUN	13	dobj	_
+16	he	PRON	17	nsubj	_
+17	prefer	VERB	15	relcl	_
+18	.	PUNCT	1	punct	_
+19	
+	SPACE	18		_
+
+
+0	There	PRON	1	expl	_
+1	are	AUX	1	ROOT	_
+2	some	DET	3	det	_
+3	people	NOUN	1	attr	_
+4	who	PRON	5	nsubj	_
+5	prefer	VERB	3	relcl	_
+6	study	NOUN	5	dobj	_
+7	from	ADP	6	prep	_
+8	books	NOUN	7	pobj	_
+9	and	CCONJ	8	cc	_
+10	impress	VERB	5	conj	_
+11	facts	NOUN	10	dobj	_
+12	in	ADP	10	prep	_
+13	their	DET	14	poss	_
+14	memory	NOUN	12	pobj	_
+15	,	PUNCT	17	punct	_
+16	other	ADJ	17	nsubj	_
+17	listen	VERB	1	conj	_
+18	the	DET	19	det	_
+19	lesson	NOUN	17	dobj	_
+20	of	ADP	19	prep	_
+21	the	DET	22	det	_
+22	professor	NOUN	20	pobj	_
+23	and	CCONJ	17	cc	_
+24	understand	VERB	17	conj	_
+25	the	DET	26	det	_
+26	ideas	NOUN	24	dobj	_
+27	and	CCONJ	26	cc	_
+28	the	DET	29	det	_
+29	concept	NOUN	26	conj	_
+30	that	DET	32	nsubj	_
+31	can	VERB	32	aux	_
+32	help	VERB	29	relcl	_
+33	him	PRON	32	dobj	_
+34	to	PART	35	aux	_
+35	reach	VERB	32	xcomp	_
+36	facts	NOUN	35	dobj	_
+37	studing	VERB	36	acl	_
+38	just	ADV	41	advmod	_
+39	a	DET	41	det	_
+40	little	ADJ	41	amod	_
+41	bit	NOUN	37	npadvmod	_
+42	.	PUNCT	1	punct	_
+43	
+	SPACE	42		_
+
+
+0	For	ADP	9	prep	_
+1	example	NOUN	0	pobj	_
+2	if	SCONJ	4	mark	_
+3	you	PRON	4	nsubj	_
+4	study	VERB	9	advcl	_
+5	history	NOUN	4	dobj	_
+6	,	PUNCT	9	punct	_
+7	you	PRON	9	nsubj	_
+8	can	VERB	9	aux	_
+9	study	VERB	9	ROOT	_
+10	the	DET	11	det	_
+11	facts	NOUN	9	dobj	_
+12	appened	VERB	11	acl	_
+13	but	CCONJ	9	cc	_
+14	if	SCONJ	19	mark	_
+15	you	PRON	19	nsubj	_
+16	do	AUX	19	aux	_
+17	n't	PART	19	neg	_
+18	 	SPACE	17		_
+19	understand	VERB	9	conj	_
+20	the	DET	21	det	_
+21	reasons	NOUN	19	dobj	_
+22	which	DET	23	nsubj	_
+23	bring	VERB	21	relcl	_
+24	these	DET	25	det	_
+25	facts	NOUN	23	dobj	_
+26	you	PRON	28	nsubj	_
+27	will	VERB	28	aux	_
+28	find	VERB	21	relcl	_
+29	problems	NOUN	28	dobj	_
+30	to	PART	31	aux	_
+31	collocated	VERB	29	relcl	_
+32	them	PRON	31	dobj	_
+33	in	ADP	31	prep	_
+34	the	DET	35	det	_
+35	progress	NOUN	33	pobj	_
+36	of	ADP	35	prep	_
+37	the	DET	38	det	_
+38	story	NOUN	36	pobj	_
+39	.	PUNCT	9	punct	_
+
+
+0	On	ADP	17	prep	_
+1	the	DET	3	det	_
+2	contrary	NOUN	3	amod	_
+3	understandig	NOUN	0	pobj	_
+4	the	DET	5	det	_
+5	ides	NOUN	0	pobj	_
+6	or	CCONJ	5	cc	_
+7	the	DET	8	det	_
+8	facts	NOUN	5	conj	_
+9	which	DET	10	nsubj	_
+10	supports	VERB	8	relcl	_
+11	the	DET	12	det	_
+12	way	NOUN	10	dobj	_
+13	adopted	VERB	12	acl	_
+14	,	PUNCT	17	punct	_
+15	you	PRON	17	nsubj	_
+16	will	VERB	17	aux	_
+17	be	AUX	17	ROOT	_
+18	able	ADJ	17	acomp	_
+19	to	PART	20	aux	_
+20	reach	VERB	18	xcomp	_
+21	the	DET	22	det	_
+22	fact	NOUN	20	dobj	_
+23	 	SPACE	22		_
+24	easier	ADJ	20	advmod	_
+25	.	PUNCT	17	punct	_
+26	
+	SPACE	25		_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	that	SCONJ	11	mark	_
+3	in	ADP	11	prep	_
+4	some	DET	5	det	_
+5	case	NOUN	3	pobj	_
+6	understanding	VERB	3	pcomp	_
+7	concepts	NOUN	6	dobj	_
+8	and	CCONJ	7	cc	_
+9	ideas	NOUN	7	conj	_
+10	must	VERB	11	aux	_
+11	be	AUX	1	ccomp	_
+12	 	SPACE	11		_
+13	related	VERB	11	acomp	_
+14	with	ADP	13	prep	_
+15	exarcitation	NOUN	14	pobj	_
+16	and	CCONJ	15	cc	_
+17	sperimentation	NOUN	15	conj	_
+18	.	PUNCT	1	punct	_
+19	
+	SPACE	18		_
+
+
+0	For	ADP	4	prep	_
+1	example	NOUN	0	pobj	_
+2	you	PRON	4	nsubj	_
+3	can	VERB	4	aux	_
+4	study	VERB	12	advcl	_
+5	for	ADP	4	prep	_
+6	a	DET	8	det	_
+7	week	NOUN	8	compound	_
+8	maths	NOUN	5	pobj	_
+9	,	PUNCT	12	punct	_
+10	you	PRON	12	nsubj	_
+11	can	VERB	12	aux	_
+12	make	VERB	12	ROOT	_
+13	exercitation	NOUN	12	dobj	_
+
+
+0	but	CCONJ	0	ROOT	_
+1	if	SCONJ	5	mark	_
+2	you	PRON	5	nsubj	_
+3	do	AUX	5	aux	_
+4	n't	PART	5	neg	_
+5	understand	VERB	0	advcl	_
+6	the	DET	7	det	_
+7	reson	NOUN	5	dobj	_
+8	of	ADP	7	prep	_
+9	the	DET	10	det	_
+10	operation	NOUN	8	pobj	_
+11	that	DET	13	mark	_
+12	you	PRON	13	nsubj	_
+13	made	VERB	10	relcl	_
+14	you	PRON	15	nsubj	_
+15	do	AUX	19	aux	_
+16	n't	PART	19	neg	_
+17	 	SPACE	16		_
+18	will	VERB	19	aux	_
+19	be	AUX	13	ccomp	_
+20	able	ADJ	19	acomp	_
+21	to	PART	22	aux	_
+22	use	VERB	20	xcomp	_
+23	it	PRON	22	dobj	_
+24	in	ADP	22	prep	_
+25	a	DET	27	det	_
+26	correct	ADJ	27	amod	_
+27	way	NOUN	24	pobj	_
+28	.	PUNCT	0	punct	_
+
+
+0	Making	VERB	28	csubj	_
+1	exercitation	NOUN	2	compound	_
+2	students	NOUN	4	nsubj	_
+3	can	VERB	4	aux	_
+4	learn	VERB	0	ccomp	_
+5	how	ADV	7	advmod	_
+6	to	PART	7	aux	_
+7	proceed	VERB	4	xcomp	_
+8	in	ADP	7	prep	_
+9	a	DET	11	det	_
+10	correct	ADJ	11	amod	_
+11	way	NOUN	8	pobj	_
+12	and	CCONJ	7	cc	_
+13	making	VERB	7	conj	_
+14	wrong	ADJ	15	amod	_
+15	operation	NOUN	13	dobj	_
+16	they	PRON	18	nsubj	_
+17	will	VERB	18	aux	_
+18	be	AUX	13	ccomp	_
+19	able	ADJ	18	acomp	_
+20	to	PART	21	aux	_
+21	understand	VERB	19	xcomp	_
+22	the	DET	23	det	_
+23	concepts	NOUN	21	dobj	_
+24	and	CCONJ	23	cc	_
+25	don	PROPN	27	compound	_
+26	-	PUNCT	27	punct	_
+27	t	PROPN	23	conj	_
+28	make	VERB	28	ROOT	_
+29	the	DET	31	det	_
+30	same	ADJ	31	amod	_
+31	errors	NOUN	28	dobj	_
+32	or	CCONJ	31	cc	_
+33	mistakes	NOUN	31	conj	_
+34	in	ADP	31	prep	_
+35	the	DET	36	det	_
+36	future	NOUN	34	pobj	_
+37	.	PUNCT	28	punct	_
+38	 
+	SPACE	37		_
+
+
+0	We	PRON	2	nsubj	_
+1	can	VERB	2	aux	_
+2	associate	VERB	25	ccomp	_
+3	this	DET	4	det	_
+4	process	NOUN	2	dobj	_
+5	of	ADP	4	prep	_
+6	exarcitation	NOUN	5	pobj	_
+7	or	CCONJ	6	cc	_
+8	sperimentation	NOUN	6	conj	_
+9	with	ADP	2	prep	_
+10	the	DET	11	det	_
+11	study	NOUN	9	pobj	_
+12	of	ADP	11	prep	_
+13	a	DET	15	det	_
+14	foreign	ADJ	15	amod	_
+15	language	NOUN	12	pobj	_
+16	;	PUNCT	2	punct	_
+17	the	DET	20	det	_
+18	most	ADV	19	advmod	_
+19	pratically	ADJ	20	amod	_
+20	way	NOUN	25	nsubj	_
+21	to	PART	22	aux	_
+22	learn	VERB	20	relcl	_
+23	a	DET	24	det	_
+24	language	NOUN	22	dobj	_
+25	is	AUX	25	ROOT	_
+26	to	PART	27	aux	_
+27	go	VERB	25	xcomp	_
+28	studing	VERB	27	xcomp	_
+29	in	ADP	28	prep	_
+30	a	DET	31	det	_
+31	country	NOUN	29	pobj	_
+32	where	ADV	35	advmod	_
+33	this	DET	34	det	_
+34	language	NOUN	35	nsubj	_
+35	is	AUX	31	relcl	_
+36	the	DET	38	det	_
+37	national	ADJ	38	amod	_
+38	one	NOUN	35	attr	_
+39	.	PUNCT	25	punct	_
+
+
+0	Listening	VERB	5	csubj	_
+1	and	CCONJ	0	cc	_
+2	talking	VERB	0	conj	_
+3	with	ADP	2	prep	_
+4	people	NOUN	3	pobj	_
+5	is	AUX	5	ROOT	_
+6	the	DET	8	det	_
+7	easiest	ADJ	8	amod	_
+8	way	NOUN	5	attr	_
+9	to	PART	10	aux	_
+10	learn	VERB	8	relcl	_
+11	the	DET	12	det	_
+12	language	NOUN	10	dobj	_
+13	.	PUNCT	5	punct	_
+14	
+	SPACE	13		_
+
+

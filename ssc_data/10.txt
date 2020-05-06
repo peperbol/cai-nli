@@ -1,0 +1,313 @@
+0	     	SPACE	1		_
+1	Every	DET	2	det	_
+2	one	NOUN	3	nsubj	_
+3	try	VERB	3	ROOT	_
+4	to	PART	5	aux	_
+5	look	VERB	3	xcomp	_
+6	for	ADP	5	prep	_
+7	enjoyment	NOUN	6	pobj	_
+8	in	ADP	7	prep	_
+9	his	DET	12	poss	_
+10	/	SYM	12	punct	_
+11	her	DET	12	poss	_
+12	life	NOUN	8	pobj	_
+13	.	PUNCT	3	punct	_
+
+
+0	Enjoyment	NOUN	3	nsubj	_
+1	in	ADP	0	prep	_
+2	life	NOUN	1	pobj	_
+3	is	AUX	3	ROOT	_
+4	not	PART	3	neg	_
+5	easy	ADJ	3	acomp	_
+6	to	PART	7	aux	_
+7	earned	VERB	5	xcomp	_
+8	,	PUNCT	3	punct	_
+9	and	CCONJ	3	cc	_
+10	it	PRON	11	nsubj	_
+11	requiers	VERB	3	conj	_
+12	several	ADJ	13	amod	_
+13	things	NOUN	11	dobj	_
+14	.	PUNCT	11	punct	_
+
+
+0	In	ADP	6	prep	_
+1	my	DET	3	poss	_
+2	own	ADJ	3	amod	_
+3	opinion	NOUN	0	pobj	_
+4	,	PUNCT	6	punct	_
+5	there	PRON	6	expl	_
+6	are	AUX	6	ROOT	_
+7	two	NUM	9	nummod	_
+8	important	ADJ	9	amod	_
+9	requirements	NOUN	6	attr	_
+10	to	PART	11	aux	_
+11	enjoy	VERB	9	relcl	_
+12	in	ADP	11	prep	_
+13	your	DET	14	poss	_
+14	life	NOUN	12	pobj	_
+15	such	ADJ	16	amod	_
+16	as	SCONJ	11	prep	_
+17	,	PUNCT	16	punct	_
+18	huge	ADJ	19	amod	_
+19	experience	NOUN	16	pobj	_
+20	,	PUNCT	6	punct	_
+21	and	CCONJ	6	cc	_
+22	have	AUX	6	conj	_
+23	your	DET	25	poss	_
+24	own	ADJ	25	amod	_
+25	money	NOUN	22	dobj	_
+26	.	PUNCT	6	punct	_
+
+
+0	Furthermore	ADV	3	advmod	_
+1	,	PUNCT	3	punct	_
+2	those	DET	3	det	_
+3	requirements	NOUN	3	ROOT	_
+4	we	PRON	6	nsubj	_
+5	can	VERB	6	aux	_
+6	found	VERB	3	relcl	_
+7	in	ADP	6	prep	_
+8	older	ADJ	9	amod	_
+9	people	NOUN	7	pobj	_
+10	.	PUNCT	3	punct	_
+
+
+0	So	ADV	3	advmod	_
+1	,	PUNCT	3	punct	_
+2	i	PRON	3	nsubj	_
+3	disagree	VERB	3	ROOT	_
+4	that	SCONJ	8	mark	_
+5	"	PUNCT	8	punct	_
+6	young	ADJ	7	amod	_
+7	people	NOUN	8	nsubj	_
+8	enjoy	VERB	3	ccomp	_
+9	life	NOUN	8	dobj	_
+10	more	ADJ	8	advmod	_
+11	than	SCONJ	10	prep	_
+12	older	ADJ	13	amod	_
+13	people	NOUN	11	pobj	_
+14	"	PUNCT	8	punct	_
+15	.	PUNCT	3	punct	_
+16	 
+     	SPACE	15		_
+
+
+0	First	ADV	6	advmod	_
+1	of	ADP	0	prep	_
+2	all	DET	1	pobj	_
+3	,	PUNCT	6	punct	_
+4	older	ADJ	5	amod	_
+5	people	NOUN	6	nsubj	_
+6	have	AUX	6	ROOT	_
+7	more	ADJ	8	amod	_
+8	experience	NOUN	6	dobj	_
+9	than	SCONJ	8	prep	_
+10	young	ADJ	11	amod	_
+11	people	NOUN	9	pobj	_
+12	.	PUNCT	6	punct	_
+
+
+0	Also	ADV	10	advmod	_
+1	,	PUNCT	10	punct	_
+2	if	SCONJ	4	mark	_
+3	you	PRON	4	nsubj	_
+4	have	AUX	10	advcl	_
+5	alot	NOUN	4	dobj	_
+6	of	ADP	5	prep	_
+7	experience	NOUN	6	pobj	_
+8	you	PRON	10	nsubj	_
+9	will	VERB	10	aux	_
+10	be	AUX	10	ROOT	_
+11	able	ADJ	10	acomp	_
+12	to	PART	13	aux	_
+13	choose	VERB	11	xcomp	_
+14	the	DET	19	det	_
+15	good	ADJ	19	amod	_
+16	and	CCONJ	15	cc	_
+17	more	ADJ	15	conj	_
+18	benefit	NOUN	15	conj	_
+19	things	NOUN	13	dobj	_
+20	for	ADP	23	mark	_
+21	you	PRON	23	nsubj	_
+22	to	PART	23	aux	_
+23	enjoy	VERB	19	relcl	_
+24	.	PUNCT	10	punct	_
+
+
+0	Forexample	PROPN	3	npadvmod	_
+1	,	PUNCT	3	punct	_
+2	traveling	VERB	3	nsubj	_
+3	bring	VERB	3	ROOT	_
+4	enjoyments	NOUN	3	dobj	_
+
+
+0	when	ADV	2	advmod	_
+1	it	PRON	2	nsubj	_
+2	is	AUX	17	advcl	_
+3	empty	ADJ	2	acomp	_
+4	from	ADP	3	prep	_
+5	the	DET	7	det	_
+6	dangerouse	ADJ	7	compound	_
+7	things	NOUN	4	pobj	_
+8	,	PUNCT	2	punct	_
+9	and	CCONJ	2	cc	_
+10	to	PART	11	aux	_
+11	be	AUX	2	conj	_
+12	away	ADV	11	advmod	_
+13	from	ADP	12	prep	_
+14	hazardness	NOUN	13	pobj	_
+15	,	PUNCT	17	punct	_
+16	you	PRON	17	nsubj	_
+17	have	AUX	17	ROOT	_
+18	to	PART	19	aux	_
+19	have	AUX	17	xcomp	_
+20	enogh	ADJ	21	compound	_
+21	experience	NOUN	19	dobj	_
+22	.	PUNCT	17	punct	_
+
+
+0	Experience	NOUN	3	nsubj	_
+1	is	AUX	3	aux	_
+2	really	ADV	3	advmod	_
+3	protect	VERB	3	ROOT	_
+4	you	PRON	3	dobj	_
+5	from	ADP	3	prep	_
+6	dangerous	ADJ	7	amod	_
+7	thinga	ADJ	5	pobj	_
+8	and	CCONJ	5	cc	_
+9	from	ADP	5	conj	_
+10	hazardness	NOUN	9	pobj	_
+11	.	PUNCT	3	punct	_
+12	
+     	SPACE	11		_
+
+
+0	Then	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	older	ADJ	3	amod	_
+3	people	NOUN	4	nsubj	_
+4	depend	VERB	4	ROOT	_
+5	on	ADP	4	prep	_
+6	themselves	PRON	5	pobj	_
+7	,	PUNCT	4	punct	_
+8	and	CCONJ	4	cc	_
+9	they	PRON	10	nsubj	_
+10	have	AUX	4	conj	_
+11	their	DET	13	poss	_
+12	own	ADJ	13	amod	_
+13	money	NOUN	10	dobj	_
+14	.	PUNCT	10	punct	_
+
+
+0	So	ADV	3	advmod	_
+1	they	PRON	3	nsubj	_
+2	will	VERB	3	aux	_
+3	be	AUX	3	ROOT	_
+4	able	ADJ	3	acomp	_
+5	to	PART	6	aux	_
+6	know	VERB	4	xcomp	_
+7	how	ADV	6	dobj	_
+8	,	PUNCT	7	punct	_
+9	where	ADV	7	advmod	_
+10	,	PUNCT	9	punct	_
+11	and	CCONJ	9	cc	_
+12	when	ADV	14	advmod	_
+13	to	PART	14	aux	_
+14	use	VERB	9	conj	_
+15	and	CCONJ	14	cc	_
+16	spend	VERB	14	conj	_
+17	their	DET	18	poss	_
+18	money	NOUN	16	dobj	_
+19	.	PUNCT	3	punct	_
+
+
+0	Also	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	they	PRON	4	nsubj	_
+3	will	VERB	4	aux	_
+4	be	AUX	4	ROOT	_
+5	able	ADJ	4	acomp	_
+6	to	PART	7	aux	_
+7	save	VERB	5	xcomp	_
+8	money	NOUN	7	dobj	_
+9	for	ADP	7	prep	_
+10	their	DET	11	poss	_
+11	needs	NOUN	9	pobj	_
+12	,	PUNCT	4	punct	_
+13	and	CCONJ	4	cc	_
+14	they	PRON	16	nsubj	_
+15	will	VERB	16	aux	_
+16	be	AUX	4	conj	_
+17	aware	ADJ	16	acomp	_
+18	from	ADP	17	prep	_
+19	loans	NOUN	18	pobj	_
+20	.	PUNCT	16	punct	_
+21	
+     	SPACE	20		_
+
+
+0	In	ADP	6	prep	_
+1	the	DET	2	det	_
+2	conclusion	NOUN	0	pobj	_
+3	,	PUNCT	6	punct	_
+4	older	ADJ	5	amod	_
+5	people	NOUN	6	nsubj	_
+6	are	AUX	6	ROOT	_
+7	more	ADV	8	advmod	_
+8	awake	ADJ	6	acomp	_
+9	,	PUNCT	6	punct	_
+10	and	CCONJ	6	cc	_
+11	they	PRON	13	nsubj	_
+12	can	VERB	13	aux	_
+13	earn	VERB	6	conj	_
+14	their	DET	18	poss	_
+15	right	ADJ	18	amod	_
+16	and	CCONJ	15	cc	_
+17	exact	ADJ	15	conj	_
+18	enjoyment	NOUN	13	dobj	_
+19	in	ADP	18	prep	_
+20	their	DET	21	poss	_
+21	life	NOUN	19	pobj	_
+22	.	PUNCT	13	punct	_
+
+
+0	Moreover	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	 	SPACE	1		_
+3	I	PRON	4	nsubj	_
+4	think	VERB	4	ROOT	_
+5	 	SPACE	4		_
+6	it	PRON	7	nsubj	_
+7	is	AUX	4	ccomp	_
+8	really	ADV	9	advmod	_
+9	important	ADJ	7	acomp	_
+10	to	PART	11	aux	_
+11	advice	VERB	7	xcomp	_
+12	our	DET	13	poss	_
+13	children	NOUN	11	dobj	_
+14	about	ADP	11	prep	_
+15	getting	VERB	14	pcomp	_
+16	the	DET	21	det	_
+17	right	ADJ	21	amod	_
+18	 	SPACE	17		_
+19	and	CCONJ	17	cc	_
+20	good	ADJ	21	amod	_
+21	enjoyment	NOUN	15	dobj	_
+22	in	ADP	21	prep	_
+23	our	DET	25	poss	_
+24	fabulouse	NOUN	25	compound	_
+25	life	NOUN	22	pobj	_
+26	.	PUNCT	4	punct	_
+
+
+0	Enjoyment	NOUN	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	diffecult	NOUN	1	attr	_
+3	to	PART	4	aux	_
+4	earned	VERB	2	relcl	_
+5	.	PUNCT	1	punct	_
+6	
+	SPACE	5		_
+
+

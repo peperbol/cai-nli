@@ -1,0 +1,410 @@
+0	 	SPACE	1		_
+1	I	PRON	2	nsubj	_
+2	agree	VERB	2	ROOT	_
+3	with	ADP	2	prep	_
+4	the	DET	5	det	_
+5	statement	NOUN	3	pobj	_
+6	as	SCONJ	8	mark	_
+7	it	PRON	8	nsubj	_
+8	says	VERB	2	advcl	_
+9	,	PUNCT	2	punct	_
+10	the	DET	12	det	_
+11	best	ADJ	12	amod	_
+12	way	NOUN	15	nsubj	_
+13	to	PART	14	aux	_
+14	travel	VERB	12	relcl	_
+15	is	AUX	2	ccomp	_
+16	in	ADP	15	prep	_
+17	a	DET	18	det	_
+18	group	NOUN	16	pobj	_
+19	led	VERB	18	acl	_
+20	by	ADP	19	agent	_
+21	a	DET	23	det	_
+22	tour	NOUN	23	compound	_
+23	guide	NOUN	20	pobj	_
+24	.	PUNCT	2	punct	_
+
+
+0	There	PRON	1	expl	_
+1	are	AUX	1	ROOT	_
+2	three	NUM	3	nummod	_
+3	advantages	NOUN	1	attr	_
+4	.	PUNCT	1	punct	_
+
+
+0	First	ADV	17	advmod	_
+1	,	PUNCT	17	punct	_
+2	as	SCONJ	4	mark	_
+3	you	PRON	4	nsubj	_
+4	traveling	VERB	17	advcl	_
+5	in	ADP	4	prep	_
+6	a	DET	7	det	_
+7	group	NOUN	5	pobj	_
+8	led	VERB	7	acl	_
+9	by	ADP	8	agent	_
+10	a	DET	12	det	_
+11	tour	NOUN	12	compound	_
+12	guide	NOUN	9	pobj	_
+13	,	PUNCT	17	punct	_
+14	tour	NOUN	15	compound	_
+15	guide	NOUN	17	nsubj	_
+16	will	VERB	17	aux	_
+17	let	VERB	17	ROOT	_
+18	you	PRON	19	nsubj	_
+19	know	VERB	17	ccomp	_
+20	every	DET	22	det	_
+21	single	ADJ	22	amod	_
+22	thing	NOUN	19	dobj	_
+23	you	PRON	24	nsubj	_
+24	need	VERB	22	relcl	_
+25	to	PART	26	aux	_
+26	see	VERB	24	xcomp	_
+27	in	ADP	26	prep	_
+28	the	DET	29	det	_
+29	journey	NOUN	27	pobj	_
+30	.	PUNCT	17	punct	_
+
+
+0	For	ADP	14	prep	_
+1	example	NOUN	0	pobj	_
+2	,	PUNCT	14	punct	_
+3	if	SCONJ	5	mark	_
+4	you	PRON	5	nsubj	_
+5	want	VERB	14	advcl	_
+6	to	PART	7	aux	_
+7	go	VERB	5	xcomp	_
+8	sightseening	VERB	7	dobj	_
+9	,	PUNCT	14	punct	_
+10	a	DET	12	det	_
+11	tour	NOUN	12	compound	_
+12	guide	NOUN	14	nsubj	_
+13	will	VERB	14	aux	_
+14	escort	VERB	14	ROOT	_
+15	you	PRON	14	dobj	_
+16	to	ADP	14	prep	_
+17	the	DET	18	det	_
+18	sight	NOUN	16	pobj	_
+19	.	PUNCT	14	punct	_
+
+
+0	The	DET	2	det	_
+1	tour	NOUN	2	compound	_
+2	guide	NOUN	4	nsubj	_
+3	will	VERB	4	aux	_
+4	be	AUX	4	ROOT	_
+5	resopnsible	ADJ	4	acomp	_
+6	whatever	DET	10	dobj	_
+7	traveler	NOUN	8	nsubj	_
+8	wants	VERB	5	ccomp	_
+9	to	PART	10	aux	_
+10	do	AUX	8	xcomp	_
+11	.	PUNCT	4	punct	_
+
+
+0	They	PRON	4	nsubj	_
+1	just	ADV	2	advmod	_
+2	don	PROPN	4	nsubj	_
+3	'	PUNCT	2	punct	_
+4	have	AUX	4	ROOT	_
+5	to	PART	6	aux	_
+6	worry	VERB	4	xcomp	_
+7	about	ADP	6	prep	_
+8	reserving	VERB	7	pcomp	_
+9	the	DET	10	det	_
+10	resturant	NOUN	8	dobj	_
+11	or	CCONJ	8	cc	_
+12	doing	VERB	8	conj	_
+13	some	DET	15	det	_
+14	speacial	ADJ	15	amod	_
+15	activities	NOUN	12	dobj	_
+16	.	PUNCT	4	punct	_
+
+
+0	Espeacialy	PROPN	0	ROOT	_
+1	when	ADV	5	advmod	_
+2	they	PRON	5	nsubj	_
+3	can	VERB	5	aux	_
+4	not	PART	5	neg	_
+5	speak	VERB	0	advcl	_
+6	English	PROPN	5	dobj	_
+7	or	CCONJ	6	cc	_
+8	German	PROPN	6	conj	_
+9	or	CCONJ	5	cc	_
+10	whatever	DET	5	conj	_
+11	the	DET	12	det	_
+12	languages	NOUN	14	nsubjpass	_
+13	are	AUX	14	auxpass	_
+14	spoke	VERB	5	conj	_
+15	in	ADP	14	prep	_
+16	the	DET	17	det	_
+17	country	NOUN	15	pobj	_
+18	where	ADV	21	pobj	_
+19	they	PRON	20	nsubj	_
+20	travel	VERB	17	relcl	_
+21	to	ADP	20	prep	_
+22	.	PUNCT	0	punct	_
+
+
+0	Second	ADV	11	advmod	_
+1	,	PUNCT	11	punct	_
+2	since	SCONJ	3	mark	_
+3	go	VERB	1	intj	_
+4	traveling	VERB	11	advcl	_
+5	with	ADP	4	prep	_
+6	group	NOUN	5	pobj	_
+7	,	PUNCT	11	punct	_
+8	they	PRON	11	nsubj	_
+9	will	VERB	11	aux	_
+10	definately	ADV	11	advmod	_
+11	get	AUX	11	ROOT	_
+12	along	ADP	11	prt	_
+13	with	ADP	11	prep	_
+14	each	DET	15	det	_
+15	other	ADJ	13	pobj	_
+16	and	CCONJ	11	cc	_
+17	have	AUX	11	conj	_
+18	fun	NOUN	17	dobj	_
+19	.	PUNCT	11	punct	_
+
+
+0	If	SCONJ	1	mark	_
+1	traveling	VERB	7	advcl	_
+2	alone	ADV	1	advmod	_
+3	,	PUNCT	7	punct	_
+4	it	PRON	7	nsubj	_
+5	wo	VERB	7	aux	_
+6	n't	PART	7	neg	_
+7	be	AUX	7	ROOT	_
+8	able	ADJ	7	acomp	_
+9	to	PART	10	aux	_
+10	have	AUX	8	xcomp	_
+11	much	ADJ	12	amod	_
+12	fun	NOUN	10	dobj	_
+13	as	SCONJ	10	prep	_
+14	traveling	VERB	13	pcomp	_
+15	with	ADP	14	prep	_
+16	group	NOUN	15	pobj	_
+17	.	PUNCT	7	punct	_
+
+
+0	Third	ADV	9	advmod	_
+1	,	PUNCT	9	punct	_
+2	traveling	VERB	9	csubj	_
+3	a	DET	4	det	_
+4	gourp	NOUN	2	dobj	_
+5	with	ADP	2	prep	_
+6	a	DET	8	det	_
+7	tour	NOUN	8	compound	_
+8	guide	NOUN	5	pobj	_
+9	is	AUX	9	ROOT	_
+10	much	ADV	11	advmod	_
+11	more	ADV	12	advmod	_
+12	safer	ADJ	9	acomp	_
+13	than	SCONJ	12	prep	_
+14	traveling	VERB	13	pcomp	_
+15	alone	ADV	14	advmod	_
+16	.	PUNCT	9	punct	_
+
+
+0	Of	ADV	1	advmod	_
+1	course	ADV	5	advmod	_
+2	a	DET	4	det	_
+3	tour	NOUN	4	compound	_
+4	guide	NOUN	5	nsubj	_
+5	knows	VERB	5	ROOT	_
+6	about	ADP	5	prep	_
+7	the	DET	8	det	_
+8	location	NOUN	6	pobj	_
+9	where	ADV	10	advmod	_
+10	is	AUX	8	relcl	_
+11	not	PART	10	neg	_
+12	safe	ADJ	10	acomp	_
+13	enough	ADV	12	advmod	_
+14	to	PART	15	aux	_
+15	go	VERB	12	xcomp	_
+
+
+0	so	ADV	4	mark	_
+1	they	PRON	4	nsubj	_
+2	wo	VERB	4	aux	_
+3	n't	PART	4	neg	_
+4	go	VERB	4	ROOT	_
+5	to	ADP	4	prep	_
+6	the	DET	8	det	_
+7	dangerous	ADJ	8	amod	_
+8	side	NOUN	5	pobj	_
+9	of	ADP	8	prep	_
+10	city	NOUN	9	pobj	_
+11	.	PUNCT	4	punct	_
+12	
+	SPACE	11		_
+
+
+0	Ever	ADV	3	advmod	_
+1	since	SCONJ	3	mark	_
+2	transportations	NOUN	3	nsubj	_
+3	developed	VERB	8	advcl	_
+4	amagingly	ADV	3	advmod	_
+5	,	PUNCT	8	punct	_
+6	the	DET	7	det	_
+7	world	NOUN	8	nsubj	_
+8	gets	VERB	8	ROOT	_
+9	closer	ADJ	8	acomp	_
+10	.	PUNCT	8	punct	_
+
+
+0	We	PRON	2	nsubj	_
+1	can	VERB	2	aux	_
+2	go	VERB	2	ROOT	_
+3	to	ADP	2	prep	_
+4	the	DET	6	det	_
+5	another	DET	6	det	_
+6	side	NOUN	3	pobj	_
+7	of	ADP	6	prep	_
+8	world	NOUN	7	pobj	_
+9	by	ADP	2	prep	_
+10	airplane	NOUN	9	pobj	_
+11	in	ADP	2	prep	_
+12	ten	NUM	13	nummod	_
+13	hours	NOUN	11	pobj	_
+14	or	CCONJ	2	cc	_
+15	it	PRON	17	nsubj	_
+16	may	VERB	17	aux	_
+17	take	VERB	2	conj	_
+18	a	DET	19	det	_
+19	day	NOUN	17	dobj	_
+20	to	PART	21	aux	_
+21	get	AUX	17	advcl	_
+22	there	ADV	21	advmod	_
+23	.	PUNCT	17	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	used	VERB	1	ROOT	_
+2	to	PART	3	aux	_
+3	take	VERB	1	xcomp	_
+4	about	ADV	5	advmod	_
+5	two	NUM	8	nummod	_
+6	,	PUNCT	8	punct	_
+7	three	NUM	8	nummod	_
+8	months	NOUN	3	dobj	_
+9	to	PART	10	aux	_
+10	get	AUX	3	advcl	_
+11	to	ADP	10	prep	_
+12	the	DET	14	det	_
+13	other	ADJ	14	amod	_
+14	countires	NOUN	11	pobj	_
+15	.	PUNCT	1	punct	_
+
+
+0	The	DET	1	det	_
+1	world	NOUN	3	nsubj	_
+2	is	AUX	3	aux	_
+3	getting	VERB	10	ccomp	_
+4	more	ADV	5	advmod	_
+5	dangerous	ADJ	3	acomp	_
+6	,	PUNCT	10	punct	_
+7	most	ADJ	10	nsubj	_
+8	of	ADP	7	prep	_
+9	people	NOUN	8	pobj	_
+10	have	AUX	10	ROOT	_
+11	guns	NOUN	10	dobj	_
+12	and	CCONJ	11	cc	_
+13	knife	NOUN	11	conj	_
+14	.	PUNCT	10	punct	_
+
+
+0	so	ADV	6	advmod	_
+1	traveling	VERB	6	csubj	_
+2	with	ADP	1	prep	_
+3	a	DET	5	det	_
+4	tour	NOUN	5	compound	_
+5	guide	NOUN	2	pobj	_
+6	is	AUX	6	ROOT	_
+7	very	ADV	8	advmod	_
+8	helpfull	ADJ	6	acomp	_
+9	to	ADP	8	prep	_
+10	the	DET	11	det	_
+11	traveler	NOUN	9	pobj	_
+12	.	PUNCT	6	punct	_
+13	
+	SPACE	12		_
+
+
+0	In	ADP	6	prep	_
+1	my	DET	2	poss	_
+2	experienses	NOUN	0	pobj	_
+3	,	PUNCT	6	punct	_
+4	I	PRON	6	nsubj	_
+5	have	AUX	6	aux	_
+6	gone	VERB	6	ROOT	_
+7	to	ADP	6	prep	_
+8	Australia	PROPN	7	pobj	_
+9	by	ADP	6	prep	_
+10	my	DET	11	poss	_
+11	own	ADJ	9	pobj	_
+12	.	PUNCT	6	punct	_
+
+
+0	It	PRON	1	nsubj	_
+1	was	AUX	1	ROOT	_
+2	still	ADV	1	advmod	_
+3	scary	ADJ	1	acomp	_
+4	to	PART	5	aux	_
+5	go	VERB	1	xcomp	_
+6	there	ADV	5	advmod	_
+7	by	ADP	5	prep	_
+8	self	NOUN	7	pobj	_
+9	.	PUNCT	1	punct	_
+
+
+0	Espeacialy	PROPN	0	ROOT	_
+1	in	ADP	0	prep	_
+2	town	NOUN	3	compound	_
+3	side	NOUN	1	pobj	_
+4	.	PUNCT	0	punct	_
+
+
+0	When	ADV	2	advmod	_
+1	I	PRON	2	nsubj	_
+2	went	VERB	7	advcl	_
+3	to	ADP	2	prep	_
+4	town	NOUN	3	pobj	_
+5	,	PUNCT	7	punct	_
+6	I	PRON	7	nsubj	_
+7	lost	VERB	7	ROOT	_
+8	my	DET	9	poss	_
+9	wallet	NOUN	7	dobj	_
+10	.	PUNCT	7	punct	_
+
+
+0	i	PRON	3	nsubj	_
+1	did	AUX	3	aux	_
+2	n't	PART	3	neg	_
+3	lose	VERB	3	ROOT	_
+4	my	DET	5	poss	_
+5	passport	NOUN	3	dobj	_
+6	,	PUNCT	3	punct	_
+7	thougt	PROPN	3	dep	_
+8	.	PUNCT	3	punct	_
+
+
+0	So	ADV	10	advmod	_
+1	ever	ADV	4	advmod	_
+2	since	SCONJ	4	mark	_
+3	I	PRON	4	nsubj	_
+4	believe	VERB	10	advcl	_
+5	traveling	VERB	10	csubj	_
+6	with	ADP	5	prep	_
+7	a	DET	9	det	_
+8	tour	NOUN	9	compound	_
+9	guide	NOUN	6	pobj	_
+10	is	AUX	10	ROOT	_
+11	better	ADJ	10	acomp	_
+12	and	CCONJ	11	cc	_
+13	safer	ADJ	11	conj	_
+14	.	PUNCT	10	punct	_
+15	
+	SPACE	14		_
+
+

@@ -1,0 +1,357 @@
+0	I	PRON	1	nsubj	_
+1	agree	VERB	1	ROOT	_
+2	with	ADP	1	prep	_
+3	the	DET	4	det	_
+4	opinion	NOUN	2	pobj	_
+5	.	PUNCT	1	punct	_
+
+
+0	These	DET	1	det	_
+1	days	NOUN	22	npadvmod	_
+2	,	PUNCT	22	punct	_
+3	In	ADP	22	prep	_
+4	Japan	PROPN	3	pobj	_
+5	,	PUNCT	22	punct	_
+6	Young	ADJ	7	amod	_
+7	people	NOUN	22	nsubj	_
+8	(	PUNCT	7	punct	_
+9	like	SCONJ	7	prep	_
+10	elementary	PROPN	11	compound	_
+11	school	PROPN	9	pobj	_
+12	's	PART	11	case	_
+13	,	PUNCT	7	punct	_
+14	Junior	PROPN	16	compound	_
+15	high	ADJ	16	amod	_
+16	school	NOUN	7	appos	_
+17	's	PART	16	case	_
+18	,	PUNCT	16	punct	_
+19	etc	X	16	conj	_
+20	.	PUNCT	7	punct	_
+21	)	PUNCT	7	punct	_
+22	have	AUX	22	ROOT	_
+23	no	DET	24	det	_
+24	time	NOUN	22	dobj	_
+25	to	PART	26	aux	_
+26	communicate	VERB	24	relcl	_
+27	,	PUNCT	26	punct	_
+28	to	PART	29	aux	_
+29	play	VERB	24	relcl	_
+30	,	PUNCT	29	punct	_
+31	to	PART	32	aux	_
+32	exercise	VERB	29	xcomp	_
+33	.	PUNCT	22	punct	_
+
+
+0	Because	SCONJ	2	mark	_
+1	Goverment	PROPN	2	nsubj	_
+2	decided	VERB	7	advcl	_
+3	to	PART	4	aux	_
+4	do	AUX	2	xcomp	_
+5	,	PUNCT	7	punct	_
+6	Saturday	PROPN	7	nsubj	_
+7	is	AUX	7	ROOT	_
+8	rest	NOUN	9	compound	_
+9	day	NOUN	7	attr	_
+10	.	PUNCT	7	punct	_
+
+
+0	And	CCONJ	2	cc	_
+1	They	PRON	2	nsubj	_
+2	said	VERB	2	ROOT	_
+3	to	ADP	2	prep	_
+4	all	DET	5	det	_
+5	scholls	NOUN	3	pobj	_
+6	in	ADP	5	prep	_
+7	Japan	PROPN	6	pobj	_
+8	that	SCONJ	11	mark	_
+9	It	PRON	11	nsubj	_
+10	must	VERB	11	aux	_
+11	have	AUX	2	ccomp	_
+12	special	ADJ	13	amod	_
+13	class	NOUN	11	dobj	_
+14	which	DET	16	nsubjpass	_
+15	is	AUX	16	auxpass	_
+16	called	VERB	13	relcl	_
+17	"	PUNCT	19	punct	_
+18	social	ADJ	19	amod	_
+19	class	NOUN	16	oprd	_
+20	"	PUNCT	19	punct	_
+21	.	PUNCT	2	punct	_
+
+
+0	The	DET	1	det	_
+1	class	NOUN	3	nsubj	_
+2	have	AUX	3	aux	_
+3	propose	NOUN	3	ROOT	_
+4	to	PART	5	aux	_
+5	know	VERB	3	xcomp	_
+6	human	PROPN	8	poss	_
+7	's	PART	6	case	_
+8	pride	NOUN	5	dobj	_
+9	,	PUNCT	8	punct	_
+10	role	NOUN	8	conj	_
+11	,	PUNCT	10	punct	_
+12	and	CCONJ	10	cc	_
+13	old	ADJ	17	amod	_
+14	Japan	PROPN	17	poss	_
+15	's	PART	14	case	_
+16	young	ADJ	17	amod	_
+17	people	NOUN	10	conj	_
+18	what	PRON	21	dobj	_
+19	to	PART	21	aux	_
+20	do	AUX	21	aux	_
+21	play	VERB	5	ccomp	_
+22	.	PUNCT	3	punct	_
+
+
+0	So	ADV	7	advmod	_
+1	,	PUNCT	7	punct	_
+2	as	SCONJ	7	mark	_
+3	a	DET	6	det	_
+4	result	NOUN	6	nmod	_
+5	five	NUM	6	nummod	_
+6	class	NOUN	7	nsubj	_
+7	decreased	VERB	7	ROOT	_
+8	in	ADP	7	prep	_
+9	a	DET	10	det	_
+10	week	NOUN	8	pobj	_
+11	.	PUNCT	7	punct	_
+12	
+	SPACE	11		_
+
+
+0	I	PRON	1	nsubj	_
+1	think	VERB	1	ROOT	_
+2	it	PRON	3	nsubj	_
+3	is	AUX	1	ccomp	_
+4	important	ADJ	3	acomp	_
+5	,	PUNCT	3	punct	_
+6	too	ADV	3	advmod	_
+7	.	PUNCT	1	punct	_
+
+
+0	Because	SCONJ	2	mark	_
+1	Japan	PROPN	2	nsubj	_
+2	has	AUX	2	ROOT	_
+3	a	DET	4	det	_
+4	lot	NOUN	2	dobj	_
+5	of	ADP	4	prep	_
+6	nature	NOUN	5	pobj	_
+7	,	PUNCT	2	punct	_
+8	and	CCONJ	2	cc	_
+9	there	PRON	10	expl	_
+10	is	AUX	2	conj	_
+11	no	DET	13	det	_
+12	enough	ADJ	13	amod	_
+13	food	NOUN	10	attr	_
+14	and	CCONJ	13	cc	_
+15	things	NOUN	13	conj	_
+16	.	PUNCT	10	punct	_
+
+
+0	So	ADV	4	advmod	_
+1	young	ADJ	2	amod	_
+2	people	NOUN	4	nsubj	_
+3	always	ADV	4	advmod	_
+4	play	VERB	4	ROOT	_
+5	wild	ADJ	6	amod	_
+6	ground	NOUN	4	dobj	_
+7	.	PUNCT	4	punct	_
+
+
+0	They	PRON	1	nsubj	_
+1	love	VERB	1	ROOT	_
+2	playing	VERB	1	xcomp	_
+3	.	PUNCT	1	punct	_
+
+
+0	And	CCONJ	2	cc	_
+1	they	PRON	2	nsubj	_
+2	thought	VERB	2	ROOT	_
+3	a	DET	4	det	_
+4	lot	NOUN	2	dobj	_
+5	of	ADP	4	prep	_
+6	things	NOUN	5	pobj	_
+7	.	PUNCT	2	punct	_
+
+
+0	For	ADP	3	prep	_
+1	example	NOUN	0	pobj	_
+2	,	PUNCT	3	punct	_
+3	like	SCONJ	3	ROOT	_
+4	baceball	NOUN	3	pobj	_
+5	.	PUNCT	3	punct	_
+
+
+0	They	PRON	1	nsubj	_
+1	like	VERB	1	ROOT	_
+2	baceball	NOUN	1	dobj	_
+3	,	PUNCT	1	punct	_
+4	but	CCONJ	1	cc	_
+5	they	PRON	8	nsubj	_
+6	did	AUX	8	aux	_
+7	n't	PART	8	neg	_
+8	have	AUX	1	conj	_
+9	bat	NOUN	8	dobj	_
+10	and	CCONJ	9	cc	_
+11	balls	NOUN	9	conj	_
+12	.	PUNCT	8	punct	_
+
+
+0	So	ADV	2	advmod	_
+1	they	PRON	2	nsubj	_
+2	use	VERB	2	ROOT	_
+3	tree	NOUN	5	poss	_
+4	's	PART	3	case	_
+5	stick	NOUN	2	dobj	_
+6	and	CCONJ	5	cc	_
+7	ball	NOUN	5	conj	_
+8	which	DET	10	nsubjpass	_
+9	was	AUX	10	auxpass	_
+10	made	VERB	5	relcl	_
+11	by	ADP	10	agent	_
+12	sand	NOUN	11	pobj	_
+13	and	CCONJ	12	cc	_
+14	sox	NOUN	12	conj	_
+15	.	PUNCT	2	punct	_
+
+
+0	They	PRON	1	nsubj	_
+1	put	VERB	1	ROOT	_
+2	into	ADP	1	prep	_
+3	sand	NOUN	2	pobj	_
+4	to	ADP	5	aux	_
+5	sox	PROPN	1	advcl	_
+6	.	PUNCT	1	punct	_
+
+
+0	Other	ADJ	1	amod	_
+1	point	NOUN	4	npadvmod	_
+2	,	PUNCT	4	punct	_
+3	they	PRON	4	nsubj	_
+4	love	VERB	4	ROOT	_
+5	wild	ADJ	6	amod	_
+6	nature	NOUN	4	dobj	_
+7	.	PUNCT	4	punct	_
+
+
+0	they	PRON	2	nsubj	_
+1	often	ADV	2	advmod	_
+2	go	VERB	2	ROOT	_
+3	to	ADP	2	prep	_
+4	the	DET	5	det	_
+5	forest	NOUN	3	pobj	_
+6	,	PUNCT	5	punct	_
+7	river	NOUN	5	conj	_
+8	,	PUNCT	7	punct	_
+9	ocean	NOUN	7	conj	_
+10	and	CCONJ	9	cc	_
+11	etc	X	9	conj	_
+12	.	PUNCT	2	punct	_
+
+
+0	And	CCONJ	2	cc	_
+1	they	PRON	2	nsubj	_
+2	found	VERB	2	ROOT	_
+3	new	ADJ	4	amod	_
+4	discovery	NOUN	2	dobj	_
+5	every	DET	6	det	_
+6	time	NOUN	2	npadvmod	_
+7	.	PUNCT	2	punct	_
+8	
+	SPACE	7		_
+
+
+0	But	CCONJ	5	cc	_
+1	These	DET	2	det	_
+2	days	NOUN	5	npadvmod	_
+3	,	PUNCT	5	punct	_
+4	there	PRON	5	expl	_
+5	are	AUX	5	ROOT	_
+6	lots	NOUN	5	attr	_
+7	,	PUNCT	6	punct	_
+8	lots	NOUN	6	appos	_
+9	of	ADP	8	prep	_
+10	food	NOUN	9	pobj	_
+11	and	CCONJ	10	cc	_
+12	things	NOUN	10	conj	_
+13	.	PUNCT	5	punct	_
+
+
+0	So	ADV	8	advmod	_
+1	if	SCONJ	4	mark	_
+2	A	DET	3	det	_
+3	person	NOUN	4	nsubj	_
+4	hope	VERB	8	advcl	_
+5	something	PRON	4	dobj	_
+6	,	PUNCT	8	punct	_
+7	Parents	NOUN	8	nsubj	_
+8	go	VERB	8	ROOT	_
+9	to	ADP	8	prep	_
+10	shopping	NOUN	9	pobj	_
+11	and	CCONJ	8	cc	_
+12	buy	VERB	8	conj	_
+13	it	PRON	12	dobj	_
+14	at	ADP	12	prep	_
+15	once	ADV	14	pcomp	_
+16	.	PUNCT	8	punct	_
+
+
+0	So	ADV	4	advmod	_
+1	they	PRON	4	nsubj	_
+2	do	AUX	4	aux	_
+3	n't	PART	4	neg	_
+4	use	VERB	4	ROOT	_
+5	their	DET	6	poss	_
+6	brain	NOUN	4	dobj	_
+7	.	PUNCT	4	punct	_
+
+
+0	Other	ADJ	1	amod	_
+1	point	NOUN	1	ROOT	_
+2	,	PUNCT	1	punct	_
+3	Human	ADJ	4	nsubj	_
+4	builded	VERB	5	amod	_
+5	lots	NOUN	1	appos	_
+6	of	ADP	5	prep	_
+7	building	NOUN	6	pobj	_
+8	next	ADV	7	advmod	_
+9	to	ADP	8	prep	_
+10	next	ADV	9	pobj	_
+11	.	PUNCT	1	punct	_
+
+
+0	So	ADV	2	advmod	_
+1	nature	NOUN	2	nsubj	_
+2	decrease	VERB	2	ROOT	_
+3	more	ADV	2	advmod	_
+4	and	CCONJ	3	cc	_
+5	more	ADJ	3	conj	_
+6	.	PUNCT	2	punct	_
+
+
+0	So	ADV	4	advmod	_
+1	children	NOUN	4	nsubj	_
+2	ca	VERB	4	aux	_
+3	n't	PART	4	neg	_
+4	play	VERB	9	ccomp	_
+5	outside	ADV	4	advmod	_
+6	,	PUNCT	9	punct	_
+7	so	ADV	9	advmod	_
+8	they	PRON	9	nsubj	_
+9	play	VERB	9	ROOT	_
+10	play	VERB	9	dobj	_
+11	in	ADP	10	prep	_
+12	the	DET	13	det	_
+13	house	NOUN	11	pobj	_
+14	.	PUNCT	9	punct	_
+
+
+0	And	CCONJ	2	cc	_
+1	their	DET	2	poss	_
+2	body	NOUN	2	ROOT	_
+3	
+
+	SPACE	2		_
+
+

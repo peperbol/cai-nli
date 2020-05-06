@@ -1,0 +1,499 @@
+0	     	SPACE	1		_
+1	I	PRON	3	nsubj	_
+2	definetely	ADV	3	advmod	_
+3	agree	VERB	3	ROOT	_
+4	with	ADP	3	prep	_
+5	the	DET	6	det	_
+6	statement	NOUN	4	pobj	_
+7	that	SCONJ	13	mark	_
+8	in	ADP	13	prep	_
+9	twenty	NUM	10	nummod	_
+10	years	NOUN	8	pobj	_
+11	there	PRON	13	expl	_
+12	will	VERB	13	aux	_
+13	be	AUX	6	acl	_
+14	fewer	ADJ	15	amod	_
+15	cars	NOUN	13	attr	_
+16	in	ADP	15	prep	_
+17	use	NOUN	16	pobj	_
+18	than	SCONJ	20	mark	_
+19	there	PRON	20	expl	_
+20	are	AUX	15	advcl	_
+21	today	NOUN	20	attr	_
+22	.	PUNCT	3	punct	_
+23	
+      	SPACE	22		_
+
+
+0	It	PRON	1	nsubj	_
+1	is	AUX	1	ROOT	_
+2	not	PART	1	neg	_
+3	exaggeration	NOUN	1	attr	_
+4	that	DET	7	mark	_
+5	we	PRON	7	nsubj	_
+6	now	ADV	7	advmod	_
+7	live	VERB	1	ccomp	_
+8	in	ADP	7	prep	_
+9	cars	NOUN	10	compound	_
+10	society	NOUN	8	pobj	_
+11	.	PUNCT	1	punct	_
+
+
+0	Cars	NOUN	1	nsubj	_
+1	made	VERB	9	ccomp	_
+2	a	DET	3	det	_
+3	revolution	NOUN	1	dobj	_
+4	of	ADP	3	prep	_
+5	transformation	NOUN	6	compound	_
+6	method	NOUN	4	pobj	_
+7	,	PUNCT	9	punct	_
+8	they	PRON	9	nsubj	_
+9	established	VERB	9	ROOT	_
+10	the	DET	11	det	_
+11	position	NOUN	9	dobj	_
+12	as	SCONJ	9	prep	_
+13	the	DET	17	det	_
+14	most	ADV	15	advmod	_
+15	convenient	ADJ	17	amod	_
+16	transportation	NOUN	17	compound	_
+17	method	NOUN	12	pobj	_
+18	.	PUNCT	9	punct	_
+
+
+0	Besides	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	car	NOUN	3	compound	_
+3	market	NOUN	4	nsubj	_
+4	is	AUX	4	ROOT	_
+5	also	ADV	4	advmod	_
+6	one	NUM	4	attr	_
+7	of	ADP	6	prep	_
+8	the	DET	11	det	_
+9	biggest	ADJ	11	amod	_
+10	commercial	ADJ	11	amod	_
+11	markets	NOUN	7	pobj	_
+12	,	PUNCT	4	punct	_
+13	and	CCONJ	4	cc	_
+14	cars	NOUN	15	nsubj	_
+15	are	AUX	4	conj	_
+16	essential	ADJ	15	acomp	_
+17	to	ADP	16	prep	_
+18	our	DET	19	poss	_
+19	economy	NOUN	17	pobj	_
+20	.	PUNCT	15	punct	_
+
+
+0	Considering	VERB	7	prep	_
+1	the	DET	2	det	_
+2	statement	NOUN	0	pobj	_
+3	,	PUNCT	7	punct	_
+4	however	ADV	7	advmod	_
+5	,	PUNCT	7	punct	_
+6	we	PRON	7	nsubj	_
+7	need	VERB	7	ROOT	_
+8	to	PART	9	aux	_
+9	pay	VERB	7	xcomp	_
+10	attention	NOUN	9	dobj	_
+11	to	ADP	9	prep	_
+12	the	DET	13	det	_
+13	disadvantags	NOUN	11	pobj	_
+14	of	ADP	13	prep	_
+15	them	PRON	14	pobj	_
+16	.	PUNCT	7	punct	_
+17	
+      	SPACE	16		_
+
+
+0	Using	VERB	2	csubj	_
+1	cars	NOUN	0	dobj	_
+2	cause	VERB	13	ccomp	_
+3	the	DET	5	det	_
+4	enrvironmental	ADJ	5	amod	_
+5	problem	NOUN	2	dobj	_
+6	;	PUNCT	13	punct	_
+7	for	ADP	13	prep	_
+8	example	NOUN	7	pobj	_
+9	,	PUNCT	13	punct	_
+10	 	SPACE	9		_
+11	an	DET	13	det	_
+12	air	NOUN	13	compound	_
+13	pollution	NOUN	13	ROOT	_
+14	and	CCONJ	13	cc	_
+15	the	DET	17	det	_
+16	earth	NOUN	17	compound	_
+17	warming	NOUN	13	conj	_
+18	.	PUNCT	13	punct	_
+
+
+0	As	SCONJ	9	mark	_
+1	the	DET	2	det	_
+2	gas	NOUN	9	nsubj	_
+3	which	DET	5	nsubjpass	_
+4	are	AUX	5	auxpass	_
+5	excluded	VERB	2	relcl	_
+6	from	ADP	5	prep	_
+7	each	DET	8	det	_
+8	car	NOUN	6	pobj	_
+9	contaminates	VERB	19	advcl	_
+10	the	DET	11	det	_
+11	air	NOUN	9	dobj	_
+12	especially	ADV	13	advmod	_
+13	in	ADP	11	prep	_
+14	the	DET	15	det	_
+15	city	NOUN	13	pobj	_
+16	,	PUNCT	19	punct	_
+17	people	NOUN	19	nsubj	_
+18	are	AUX	19	aux	_
+19	suffering	VERB	19	ROOT	_
+20	from	ADP	19	prep	_
+21	the	DET	23	det	_
+22	uncleared	ADJ	23	amod	_
+23	air	NOUN	20	pobj	_
+24	.	PUNCT	19	punct	_
+
+
+0	To	PART	1	aux	_
+1	make	VERB	7	advcl	_
+2	matters	NOUN	3	nsubj	_
+3	worse	ADJ	1	ccomp	_
+4	,	PUNCT	7	punct	_
+5	it	PRON	7	nsubjpass	_
+6	is	AUX	7	auxpass	_
+7	reported	VERB	7	ROOT	_
+8	that	SCONJ	11	mark	_
+9	it	PRON	11	nsubj	_
+10	can	VERB	11	aux	_
+11	cause	VERB	7	ccomp	_
+12	the	DET	14	det	_
+13	earth	NOUN	14	compound	_
+14	warming	NOUN	11	dobj	_
+15	,	PUNCT	14	punct	_
+16	which	DET	17	nsubj	_
+17	is	AUX	14	relcl	_
+18	the	DET	21	det	_
+19	biggest	ADJ	21	amod	_
+20	environmental	ADJ	21	amod	_
+21	problem	NOUN	17	attr	_
+22	not	PART	24	preconj	_
+23	only	ADV	22	advmod	_
+24	for	ADP	21	prep	_
+25	the	DET	26	det	_
+26	people	NOUN	24	pobj	_
+27	of	ADP	26	prep	_
+28	city	NOUN	29	compound	_
+29	dwellers	NOUN	27	pobj	_
+30	but	CCONJ	26	cc	_
+31	also	ADV	33	advmod	_
+32	the	DET	33	det	_
+33	people	NOUN	26	conj	_
+34	in	ADP	33	prep	_
+35	the	DET	36	det	_
+36	world	NOUN	34	pobj	_
+37	.	PUNCT	7	punct	_
+
+
+0	Moreover	ADV	10	advmod	_
+1	,	PUNCT	10	punct	_
+2	in	ADP	10	prep	_
+3	terms	NOUN	2	pobj	_
+4	of	ADP	3	prep	_
+5	the	DET	7	det	_
+6	natural	ADJ	7	amod	_
+7	resorces	NOUN	4	pobj	_
+8	,	PUNCT	10	punct	_
+9	cars	NOUN	10	nsubj	_
+10	requires	VERB	10	ROOT	_
+11	a	DET	12	det	_
+12	lot	NOUN	10	dobj	_
+13	of	ADP	12	prep	_
+14	gasoline	NOUN	13	pobj	_
+15	to	PART	16	aux	_
+16	mobilize	VERB	10	advcl	_
+17	them	PRON	16	dobj	_
+18	.	PUNCT	10	punct	_
+
+
+0	Gasoline	NOUN	2	nsubjpass	_
+1	are	AUX	2	auxpass	_
+2	made	VERB	2	ROOT	_
+3	by	ADP	2	prep	_
+4	refining	VERB	3	pcomp	_
+5	the	DET	6	det	_
+6	petrogen	NOUN	4	dobj	_
+7	,	PUNCT	6	punct	_
+8	which	DET	10	nsubjpass	_
+9	is	AUX	10	auxpass	_
+10	said	VERB	6	relcl	_
+11	to	PART	12	aux	_
+12	run	VERB	10	xcomp	_
+13	out	ADP	12	prt	_
+14	in	ADP	12	prep	_
+15	25	NUM	16	nummod	_
+16	years	NOUN	14	pobj	_
+17	in	ADP	16	prep	_
+18	the	DET	19	det	_
+19	earth	NOUN	17	pobj	_
+20	.	PUNCT	2	punct	_
+
+
+0	From	ADP	10	prep	_
+1	the	DET	2	det	_
+2	point	NOUN	0	pobj	_
+3	of	ADP	2	prep	_
+4	the	DET	6	det	_
+5	human	ADJ	6	amod	_
+6	society	NOUN	3	pobj	_
+7	,	PUNCT	10	punct	_
+8	using	VERB	10	csubj	_
+9	cars	NOUN	8	dobj	_
+10	generates	VERB	10	ROOT	_
+11	a	DET	12	det	_
+12	number	NOUN	10	dobj	_
+13	of	ADP	12	prep	_
+14	traffic	NOUN	15	compound	_
+15	accidents	NOUN	13	pobj	_
+16	due	ADJ	12	amod	_
+17	to	ADP	16	pcomp	_
+18	the	DET	20	det	_
+19	careless	ADJ	20	amod	_
+20	mistakes	NOUN	16	pobj	_
+21	or	CCONJ	20	cc	_
+22	the	DET	23	det	_
+23	drive	NOUN	20	conj	_
+24	by	ADP	12	prep	_
+25	the	DET	26	det	_
+26	drunker	NOUN	24	pobj	_
+27	.	PUNCT	10	punct	_
+
+
+0	Traffic	NOUN	1	compound	_
+1	accidents	NOUN	2	nsubj	_
+2	are	AUX	2	ROOT	_
+3	the	DET	5	det	_
+4	social	ADJ	5	amod	_
+5	problem	NOUN	2	attr	_
+6	in	ADP	5	prep	_
+7	my	DET	8	poss	_
+8	country	NOUN	6	pobj	_
+9	,	PUNCT	8	punct	_
+10	Japan	PROPN	8	appos	_
+11	,	PUNCT	10	punct	_
+12	and	CCONJ	10	cc	_
+13	more	ADJ	15	amod	_
+14	than	SCONJ	15	quantmod	_
+15	10000	NUM	16	nummod	_
+16	people	NOUN	10	conj	_
+17	are	AUX	18	auxpass	_
+18	killed	VERB	2	conj	_
+19	every	DET	20	det	_
+20	year	NOUN	18	npadvmod	_
+21	.	PUNCT	18	punct	_
+22	
+        	SPACE	21		_
+
+
+0	Considering	VERB	18	prep	_
+1	the	DET	4	det	_
+2	other	ADJ	4	amod	_
+3	transportation	NOUN	4	compound	_
+4	method	NOUN	0	pobj	_
+5	,	PUNCT	4	punct	_
+6	such	ADJ	7	amod	_
+7	as	SCONJ	4	prep	_
+8	the	DET	9	det	_
+9	plane	NOUN	7	pobj	_
+10	,	PUNCT	9	punct	_
+11	the	DET	12	det	_
+12	train	NOUN	9	conj	_
+13	,	PUNCT	12	punct	_
+14	the	DET	15	det	_
+15	bus	NOUN	12	conj	_
+16	,	PUNCT	18	punct	_
+17	there	PRON	18	expl	_
+18	are	AUX	18	ROOT	_
+19	more	ADJ	20	amod	_
+20	advantages	NOUN	18	attr	_
+21	than	SCONJ	23	mark	_
+22	cars	NOUN	23	nsubj	_
+23	have	AUX	20	advcl	_
+24	.	PUNCT	18	punct	_
+
+
+0	These	DET	3	det	_
+1	public	ADJ	2	amod	_
+2	transportation	NOUN	3	compound	_
+3	system	NOUN	5	nsubj	_
+4	can	VERB	5	aux	_
+5	carry	VERB	5	ROOT	_
+6	much	ADV	7	advmod	_
+7	more	ADJ	8	amod	_
+8	people	NOUN	5	dobj	_
+9	,	PUNCT	5	punct	_
+10	and	CCONJ	5	cc	_
+11	save	VERB	5	conj	_
+12	the	DET	16	det	_
+13	fuel	NOUN	16	nmod	_
+14	and	CCONJ	13	cc	_
+15	natural	ADJ	13	conj	_
+16	resorces	NOUN	11	dobj	_
+17	.	PUNCT	5	punct	_
+
+
+0	Accordingly	ADV	5	advmod	_
+1	,	PUNCT	5	punct	_
+2	they	PRON	5	nsubj	_
+3	do	AUX	5	aux	_
+4	n't	PART	5	neg	_
+5	pollute	VERB	5	ROOT	_
+6	the	DET	7	det	_
+7	environment	NOUN	5	dobj	_
+8	as	ADV	9	advmod	_
+9	much	ADV	5	advmod	_
+10	as	SCONJ	9	prep	_
+11	the	DET	12	det	_
+12	cars	NOUN	10	pobj	_
+13	.	PUNCT	5	punct	_
+
+
+0	In	ADP	7	prep	_
+1	terms	NOUN	0	pobj	_
+2	of	ADP	1	prep	_
+3	safety	NOUN	2	pobj	_
+4	,	PUNCT	7	punct	_
+5	they	PRON	7	nsubj	_
+6	can	VERB	7	aux	_
+7	lose	VERB	7	ROOT	_
+8	the	DET	9	det	_
+9	possibilities	NOUN	7	dobj	_
+10	of	ADP	9	prep	_
+11	facing	VERB	10	pcomp	_
+12	the	DET	13	det	_
+13	accidents	NOUN	11	dobj	_
+14	by	ADP	11	prep	_
+15	using	VERB	14	pcomp	_
+16	these	DET	17	det	_
+17	system	NOUN	15	dobj	_
+18	.	PUNCT	7	punct	_
+
+
+0	The	DET	1	det	_
+1	rate	NOUN	8	nsubj	_
+2	of	ADP	1	prep	_
+3	encounting	VERB	2	pcomp	_
+4	accidents	NOUN	3	dobj	_
+5	of	ADP	4	prep	_
+6	public	ADJ	7	amod	_
+7	system	NOUN	5	pobj	_
+8	are	AUX	8	ROOT	_
+9	much	ADV	10	advmod	_
+10	lower	ADJ	8	acomp	_
+11	than	SCONJ	10	prep	_
+12	the	DET	13	det	_
+13	cars	NOUN	11	pobj	_
+14	.	PUNCT	8	punct	_
+
+
+0	If	SCONJ	3	mark	_
+1	you	PRON	3	nsubj	_
+2	can	VERB	3	aux	_
+3	dring	VERB	12	advcl	_
+4	a	DET	5	det	_
+5	lot	NOUN	3	dobj	_
+6	or	CCONJ	3	cc	_
+7	get	AUX	3	conj	_
+8	tired	ADJ	7	acomp	_
+9	,	PUNCT	12	punct	_
+10	you	PRON	12	nsubj	_
+11	can	VERB	12	aux	_
+12	go	VERB	12	ROOT	_
+13	home	ADV	12	advmod	_
+14	by	ADP	12	prep	_
+15	using	VERB	14	pcomp	_
+16	them	PRON	15	dobj	_
+17	.	PUNCT	12	punct	_
+18	
+       	SPACE	17		_
+
+
+0	As	SCONJ	2	mark	_
+1	I	PRON	2	nsubj	_
+2	mentioned	VERB	6	advcl	_
+3	above	ADV	2	advmod	_
+4	,	PUNCT	6	punct	_
+5	there	PRON	6	expl	_
+6	are	AUX	6	ROOT	_
+7	more	ADV	8	advmod	_
+8	good	ADJ	9	amod	_
+9	points	NOUN	6	attr	_
+10	in	ADP	9	prep	_
+11	using	VERB	10	pcomp	_
+12	public	ADJ	13	amod	_
+13	transportation	NOUN	14	compound	_
+14	system	NOUN	11	dobj	_
+15	.	PUNCT	6	punct	_
+
+
+0	Of	ADV	1	advmod	_
+1	course	ADV	4	advmod	_
+2	,	PUNCT	4	punct	_
+3	cars	NOUN	4	nsubj	_
+4	provides	VERB	4	ROOT	_
+5	us	PRON	4	dative	_
+6	the	DET	7	det	_
+7	enlightment	NOUN	4	dobj	_
+8	of	ADP	7	prep	_
+9	driving	NOUN	8	pobj	_
+10	and	CCONJ	4	cc	_
+11	some	DET	12	det	_
+12	people	NOUN	13	nsubj	_
+13	are	AUX	4	conj	_
+14	fascinated	VERB	13	acomp	_
+15	with	ADP	14	prep	_
+16	the	DET	17	det	_
+17	speed	NOUN	15	pobj	_
+18	.	PUNCT	13	punct	_
+
+
+0	But	CCONJ	3	cc	_
+1	now	ADV	3	advmod	_
+2	we	PRON	3	nsubj	_
+3	need	VERB	3	ROOT	_
+4	to	PART	5	aux	_
+5	take	VERB	3	xcomp	_
+6	care	NOUN	5	dobj	_
+7	of	ADP	5	prep	_
+8	the	DET	9	det	_
+9	disadvantages	NOUN	7	pobj	_
+10	in	ADP	5	prep	_
+11	terms	NOUN	10	pobj	_
+12	of	ADP	11	prep	_
+13	the	DET	14	det	_
+14	envirnment	ADJ	12	pobj	_
+15	and	CCONJ	14	cc	_
+16	safety	NOUN	14	conj	_
+17	.	PUNCT	3	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	believe	VERB	1	ROOT	_
+2	people	NOUN	5	nsubj	_
+3	will	VERB	5	aux	_
+4	soon	ADV	5	advmod	_
+5	give	VERB	1	ccomp	_
+6	up	ADP	5	prt	_
+7	using	VERB	5	advcl	_
+8	cars	NOUN	7	dobj	_
+9	,	PUNCT	5	punct	_
+10	and	CCONJ	5	cc	_
+11	use	VERB	5	conj	_
+12	public	ADJ	13	amod	_
+13	system	NOUN	11	dobj	_
+14	in	ADP	11	prep	_
+15	stead	PROPN	14	pobj	_
+16	.	PUNCT	1	punct	_
+17	
+
+
+	SPACE	16		_
+
+

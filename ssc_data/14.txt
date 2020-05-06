@@ -1,0 +1,287 @@
+0	   	SPACE	1		_
+1	Are	AUX	1	ROOT	_
+2	you	PRON	1	nsubj	_
+3	young	ADJ	1	acomp	_
+4	?	PUNCT	1	punct	_
+
+
+0	you	PRON	1	nsubj	_
+1	have	AUX	1	ROOT	_
+2	to	PART	3	aux	_
+3	know	VERB	1	xcomp	_
+4	the	DET	5	det	_
+5	importace	NOUN	3	dobj	_
+6	of	ADP	5	prep	_
+7	it	PRON	6	pobj	_
+8	.	PUNCT	1	punct	_
+
+
+0	when	ADV	2	advmod	_
+1	you	PRON	2	nsubj	_
+2	are	AUX	6	advcl	_
+3	old	ADJ	2	acomp	_
+4	,	PUNCT	6	punct	_
+5	you	PRON	6	nsubj	_
+6	do	AUX	6	ROOT	_
+7	not	PART	6	neg	_
+8	some	DET	9	det	_
+9	activities	NOUN	6	attr	_
+10	and	CCONJ	6	cc	_
+11	you	PRON	12	nsubj	_
+12	have	AUX	6	conj	_
+13	a	DET	14	det	_
+14	lot	NOUN	12	dobj	_
+15	of	ADP	14	prep	_
+16	diseases	NOUN	15	pobj	_
+17	.	PUNCT	12	punct	_
+
+
+0	you	PRON	1	nsubj	_
+1	have	AUX	1	ROOT	_
+2	to	PART	3	aux	_
+3	think	VERB	1	xcomp	_
+4	 	SPACE	3		_
+5	about	ADP	3	prep	_
+6	their	DET	7	poss	_
+7	children	NOUN	5	pobj	_
+8	.	PUNCT	1	punct	_
+
+
+0	you	PRON	1	nsubj	_
+1	have	AUX	1	ROOT	_
+2	many	ADJ	3	amod	_
+3	responsibilities	NOUN	1	dobj	_
+4	.	PUNCT	1	punct	_
+
+
+0	I	PRON	1	nsubj	_
+1	agree	VERB	1	ROOT	_
+2	that	SCONJ	5	mark	_
+3	young	ADJ	4	amod	_
+4	people	NOUN	5	nsubj	_
+5	enjoy	VERB	1	ccomp	_
+6	life	NOUN	5	dobj	_
+7	more	ADJ	5	advmod	_
+8	than	SCONJ	7	prep	_
+9	older	ADJ	10	amod	_
+10	people	NOUN	8	pobj	_
+11	,	PUNCT	5	punct	_
+12	because	SCONJ	16	mark	_
+13	you	PRON	16	nsubj	_
+14	do	AUX	16	aux	_
+15	not	PART	16	neg	_
+16	have	AUX	5	advcl	_
+17	any	DET	18	det	_
+18	worry	NOUN	16	dobj	_
+19	and	CCONJ	16	cc	_
+20	you	PRON	21	nsubj	_
+21	have	AUX	16	conj	_
+22	much	ADJ	23	amod	_
+23	energy	NOUN	21	dobj	_
+24	.	PUNCT	1	punct	_
+25	
+  	SPACE	24		_
+
+
+0	first	ADV	11	advmod	_
+1	of	ADP	0	prep	_
+2	all	DET	1	pobj	_
+3	,	PUNCT	11	punct	_
+4	when	ADV	6	advmod	_
+5	you	PRON	6	nsubj	_
+6	are	AUX	11	advcl	_
+7	young	ADJ	6	acomp	_
+8	,	PUNCT	11	punct	_
+9	you	PRON	11	nsubj	_
+10	should	VERB	11	aux	_
+11	enjoy	VERB	11	ROOT	_
+12	,	PUNCT	11	punct	_
+13	due	ADP	11	prep	_
+14	to	ADP	13	pcomp	_
+15	the	DET	16	det	_
+16	fact	NOUN	13	pobj	_
+17	that	SCONJ	19	mark	_
+18	you	PRON	19	nsubj	_
+19	have	AUX	16	acl	_
+20	more	ADJ	21	amod	_
+21	energy	NOUN	19	dobj	_
+22	.	PUNCT	11	punct	_
+
+
+0	young	ADJ	1	amod	_
+1	people	NOUN	2	nsubj	_
+2	have	AUX	2	ROOT	_
+3	more	ADV	4	amod	_
+4	energic	ADJ	2	dobj	_
+5	than	SCONJ	4	prep	_
+6	the	DET	7	det	_
+7	oldest	ADJ	5	pobj	_
+8	.	PUNCT	2	punct	_
+
+
+0	for	ADP	5	prep	_
+1	this	DET	2	det	_
+2	reason	NOUN	0	pobj	_
+3	,	PUNCT	5	punct	_
+4	they	PRON	5	nsubj	_
+5	can	VERB	5	ROOT	_
+6	many	ADJ	7	amod	_
+7	activities	NOUN	5	dobj	_
+8	.	PUNCT	5	punct	_
+
+
+0	for	ADP	5	prep	_
+1	example	NOUN	0	pobj	_
+2	;	PUNCT	5	punct	_
+3	they	PRON	5	nsubj	_
+4	can	VERB	5	aux	_
+5	go	VERB	10	ccomp	_
+6	skiing	VERB	5	dobj	_
+7	,	PUNCT	10	punct	_
+8	they	PRON	10	nsubj	_
+9	can	VERB	10	aux	_
+10	climbing	VERB	10	ROOT	_
+11	the	DET	12	det	_
+12	moontain	NOUN	10	dobj	_
+13	.	PUNCT	10	punct	_
+
+
+0	these	DET	1	det	_
+1	activities	NOUN	3	nsubj	_
+2	may	VERB	3	aux	_
+3	make	VERB	3	ROOT	_
+4	the	DET	5	det	_
+5	lives	NOUN	8	nsubj	_
+6	of	ADP	5	prep	_
+7	people	NOUN	6	pobj	_
+8	enjoyable	ADJ	3	ccomp	_
+9	.	PUNCT	3	punct	_
+10	
+    	SPACE	9		_
+
+
+0	secondly	ADV	4	advmod	_
+1	,	PUNCT	4	punct	_
+2	young	ADJ	3	amod	_
+3	people	NOUN	4	nsubj	_
+4	enjoy	VERB	4	ROOT	_
+5	life	NOUN	4	dobj	_
+6	more	ADJ	4	advmod	_
+7	than	SCONJ	10	mark	_
+8	older	ADJ	9	amod	_
+9	people	NOUN	10	nsubj	_
+10	do	AUX	6	advcl	_
+11	,	PUNCT	4	punct	_
+12	because	SCONJ	14	mark	_
+13	they	PRON	14	nsubj	_
+14	have	AUX	4	advcl	_
+15	no	DET	16	det	_
+16	worries	NOUN	14	dobj	_
+17	.	PUNCT	4	punct	_
+
+
+0	old	ADJ	1	amod	_
+1	people	NOUN	2	nsubj	_
+2	worry	VERB	2	ROOT	_
+3	about	ADP	2	prep	_
+4	their	DET	5	poss	_
+5	futures	NOUN	3	pobj	_
+6	.	PUNCT	2	punct	_
+
+
+0	this	DET	3	nsubj	_
+1	may	VERB	3	aux	_
+2	not	PART	3	neg	_
+3	give	VERB	3	ROOT	_
+4	a	DET	5	det	_
+5	permission	NOUN	3	dobj	_
+6	them	PRON	3	dative	_
+7	to	PART	8	aux	_
+8	live	VERB	3	advcl	_
+9	happly	NOUN	8	advmod	_
+10	.	PUNCT	3	punct	_
+
+
+0	what	PRON	1	nsubj	_
+1	is	AUX	6	ccomp	_
+2	more	ADJ	1	acomp	_
+3	;	PUNCT	6	punct	_
+4	the	DET	5	det	_
+5	oldest	ADJ	6	nsubj	_
+6	have	AUX	6	ROOT	_
+7	fears	NOUN	6	dobj	_
+8	of	ADP	7	prep	_
+9	dying	VERB	8	pcomp	_
+10	,	PUNCT	6	punct	_
+11	because	SCONJ	14	mark	_
+12	their	DET	13	poss	_
+13	ages	NOUN	14	nsubj	_
+14	are	AUX	6	advcl	_
+15	very	ADV	16	advmod	_
+16	high	ADJ	14	acomp	_
+17	.	PUNCT	6	punct	_
+
+
+0	for	ADP	5	prep	_
+1	these	DET	2	det	_
+2	reasons	NOUN	0	pobj	_
+3	;	PUNCT	5	punct	_
+4	they	PRON	5	nsubj	_
+5	enjony	VERB	5	ROOT	_
+6	life	NOUN	5	dobj	_
+7	less	ADJ	5	advmod	_
+8	than	SCONJ	7	prep	_
+9	yhe	PROPN	10	compound	_
+10	youngest	ADV	5	advmod	_
+11	.	PUNCT	5	punct	_
+12	
+    	SPACE	11		_
+
+
+0	to	PART	1	aux	_
+1	sum	VERB	5	advcl	_
+2	up	ADP	1	prt	_
+3	,	PUNCT	5	punct	_
+4	I	PRON	5	nsubj	_
+5	agree	VERB	5	ROOT	_
+6	this	DET	7	det	_
+7	issue	NOUN	5	dobj	_
+8	,	PUNCT	5	punct	_
+9	because	SCONJ	14	mark	_
+10	young	ADJ	11	amod	_
+11	people	NOUN	14	nsubj	_
+12	do	AUX	14	aux	_
+13	not	PART	14	neg	_
+14	worry	VERB	5	advcl	_
+15	about	ADP	14	prep	_
+16	future	NOUN	15	pobj	_
+17	and	CCONJ	16	cc	_
+18	dying	VERB	16	conj	_
+19	and	CCONJ	14	cc	_
+20	they	PRON	21	nsubj	_
+21	are	AUX	14	conj	_
+22	energitic	ADJ	21	acomp	_
+23	.	PUNCT	21	punct	_
+
+
+0	If	SCONJ	2	mark	_
+1	you	PRON	2	nsubj	_
+2	are	AUX	10	advcl	_
+3	either	ADV	4	preconj	_
+4	young	ADJ	2	acomp	_
+5	or	CCONJ	4	cc	_
+6	old	ADJ	4	conj	_
+7	,	PUNCT	10	punct	_
+8	you	PRON	10	nsubj	_
+9	should	VERB	10	aux	_
+10	make	VERB	10	ROOT	_
+11	an	DET	12	det	_
+12	effort	NOUN	10	dobj	_
+13	to	PART	14	aux	_
+14	live	VERB	12	acl	_
+15	happly	NOUN	14	advmod	_
+16	.	PUNCT	10	punct	_
+17	
+	SPACE	16		_
+
+
