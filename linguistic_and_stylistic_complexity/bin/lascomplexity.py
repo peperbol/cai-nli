@@ -115,7 +115,7 @@ def main():
     if not any((args.voc, args.dep, args.const)):
         args.voc = True
         args.dep = True
-        args.const = True
+        args.const = False
     print("file\t", end="")
     if args.voc:
         print("\t", "\t".join(lexical), "\taverage_sentence_length\taverage_sentence_length_characters", sep="", end="")
